@@ -1,0 +1,2011 @@
+<!DOCTYPE html>
+<html lang="de-DE" prefix="og: https://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml"><head id="head">
+      <title>Palit GeForce RTX 5080 GameRock, Grafikkarte DLSS 4, 3x DisplayPort, 1x HDMI 2.1 </title>
+      <meta charset="utf-8" />
+        <link rel="canonical" href="https://www.alternate.de/Palit/GeForce-RTX-5080-GameRock-Grafikkarte/html/product/100105341" />
+      <link rel="alternate" href="https://www.alternate.de/Palit/GeForce-RTX-5080-GameRock-Grafikkarte/html/product/100105341" hreflang="x-default" />
+      <link rel="alternate" href="https://www.alternate.ch/Palit/GeForce-RTX-5080-GameRock-Grafikkarte/html/product/100105341" hreflang="de-CH" />
+      <link rel="alternate" href="https://www.alternate.at/Palit/GeForce-RTX-5080-GameRock-Grafikkarte/html/product/100105341" hreflang="de-AT" />
+      <link rel="alternate" href="https://www.alternate.de/Palit/GeForce-RTX-5080-GameRock-Grafikkarte/html/product/100105341" hreflang="de-DE" />
+      <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+      <meta name="description" content="Die Palit GeForce RTX 5080 GameRock ist eine High-End-Grafikkarte mit der GeForce RTX 5080 GPU von NVIDIA. Die leistungsfähigen GeForce RTX 50-Graf..." />
+      <meta name="robots" content="all" />
+      <meta name="author" content="Alternate GmbH" />
+      <meta name="msapplication-TileImage" content="/resources/pix/mstile-144x144.png" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
+      <meta name="mobile-web-app-capable" content="yes" />
+      <meta name="referrer" content="strict-origin-when-cross-origin" />
+      <meta property="fb:app_id" content="966242223397117" />
+        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:site" content="@alternate_de" />
+        <meta property="og:title" content="Palit GeForce RTX 5080 GameRock, Grafikkarte DLSS 4, 3x DisplayPort, 1x HDMI 2.1 " />
+      <meta property="og:type" content="product" />
+        <meta property="og:url" content="https://www.alternate.de/Palit/GeForce-RTX-5080-GameRock-Grafikkarte/html/product/100105341" />
+        <meta property="og:image" content="https://www.alternate.de/p/1200x630/1/4/Palit_GeForce_RTX_5080_GameRock__Grafikkarte@@100105341.jpg" />
+        <meta property="og:image:type" content="image/jpeg" />
+        <meta property="og:image:height" content="630" />
+        <meta property="og:image:width" content="1200" />
+        <meta property="og:image:alt" content="Palit GeForce RTX 5080 GameRock, Grafikkarte DLSS 4, 3x DisplayPort, 1x HDMI 2.1" />
+        <meta property="og:image" content="https://www.alternate.de/p/1200x630/1/4/Palit_GeForce_RTX_5080_GameRock__Grafikkarte@@100105341_1.jpg" />
+        <meta property="og:image:type" content="image/jpeg" />
+        <meta property="og:image:height" content="630" />
+        <meta property="og:image:width" content="1200" />
+        <meta property="og:image:alt" content="Palit GeForce RTX 5080 GameRock, Grafikkarte DLSS 4, 3x DisplayPort, 1x HDMI 2.1" />
+        <meta property="og:image" content="https://www.alternate.de/p/1200x630/1/4/Palit_GeForce_RTX_5080_GameRock__Grafikkarte@@100105341_2.jpg" />
+        <meta property="og:image:type" content="image/jpeg" />
+        <meta property="og:image:height" content="630" />
+        <meta property="og:image:width" content="1200" />
+        <meta property="og:image:alt" content="Palit GeForce RTX 5080 GameRock, Grafikkarte DLSS 4, 3x DisplayPort, 1x HDMI 2.1" />
+        <meta property="og:image" content="https://www.alternate.de/p/1200x630/1/4/Palit_GeForce_RTX_5080_GameRock__Grafikkarte@@100105341_3.jpg" />
+        <meta property="og:image:type" content="image/jpeg" />
+        <meta property="og:image:height" content="630" />
+        <meta property="og:image:width" content="1200" />
+        <meta property="og:image:alt" content="Palit GeForce RTX 5080 GameRock, Grafikkarte DLSS 4, 3x DisplayPort, 1x HDMI 2.1" />
+        <meta property="og:image" content="https://www.alternate.de/p/1200x630/1/4/Palit_GeForce_RTX_5080_GameRock__Grafikkarte@@100105341_4.jpg" />
+        <meta property="og:image:type" content="image/jpeg" />
+        <meta property="og:image:height" content="630" />
+        <meta property="og:image:width" content="1200" />
+        <meta property="og:image:alt" content="Palit GeForce RTX 5080 GameRock, Grafikkarte DLSS 4, 3x DisplayPort, 1x HDMI 2.1" />
+        <meta property="og:image" content="https://www.alternate.de/p/1200x630/1/4/Palit_GeForce_RTX_5080_GameRock__Grafikkarte@@100105341_5.jpg" />
+        <meta property="og:image:type" content="image/jpeg" />
+        <meta property="og:image:height" content="630" />
+        <meta property="og:image:width" content="1200" />
+        <meta property="og:image:alt" content="Palit GeForce RTX 5080 GameRock, Grafikkarte DLSS 4, 3x DisplayPort, 1x HDMI 2.1" />
+        <meta property="og:image" content="https://www.alternate.de/p/1200x630/1/4/Palit_GeForce_RTX_5080_GameRock__Grafikkarte@@100105341_6.jpg" />
+        <meta property="og:image:type" content="image/jpeg" />
+        <meta property="og:image:height" content="630" />
+        <meta property="og:image:width" content="1200" />
+        <meta property="og:image:alt" content="Palit GeForce RTX 5080 GameRock, Grafikkarte DLSS 4, 3x DisplayPort, 1x HDMI 2.1" />
+        <meta property="og:image" content="https://www.alternate.de/p/1200x630/1/4/Palit_GeForce_RTX_5080_GameRock__Grafikkarte@@100105341_7.jpg" />
+        <meta property="og:image:type" content="image/jpeg" />
+        <meta property="og:image:height" content="630" />
+        <meta property="og:image:width" content="1200" />
+        <meta property="og:image:alt" content="Palit GeForce RTX 5080 GameRock, Grafikkarte DLSS 4, 3x DisplayPort, 1x HDMI 2.1" />
+      <meta property="og:description" content="Die Palit GeForce RTX 5080 GameRock ist eine High-End-Grafikkarte mit der GeForce RTX 5080 GPU von NVIDIA. Die leistungsfähigen GeForce RTX 50-Graf..." />
+      <meta property="og:locale" content="de_DE" />
+      <meta property="og:site_name" content="ALTERNATE" />
+      <script type="application/ld+json">
+        [
+  {
+    "@context": "https://www.schema.org",
+    "@type": "Product",
+    "name": "GeForce RTX 5080 GameRock, Grafikkarte",
+    "description": "Die Palit GeForce RTX 5080 GameRock ist eine High-End-Grafikkarte mit der GeForce RTX 5080 GPU von NVIDIA. Die leistungsfähigen GeForce RTX 50-Grafikkartenserie basiert auf der NVIDIA Blackwell Architektur und bietet neue Stufen von Gaming Realismus, Geschwindigkeit und Leistungseffizienz, AI Features wie Frame Generation, Multi Frame Generation und realistische VR-Erlebnisse. Weitere Features sind Real-Time Ray Tracing, Ray-Reconstruction, NVIDIA Ansel, mit umfangreichen Werkzeugen zur Erstellung von Screenshots in Spielen sowie NVIDIA G-SYNC, G-SYNC HDR, NVIDIA DLSS 4, ShadowPlay, Highlights, NVENC Gen 9, AV1 Encoder und Decoder. Die auf der Palit GeForce RTX 5080 GameRock verbaute GPU verfügt über 10752 CUDA Cores. Der 16 Gbyte große GDDR7-Speicher verfügt über einen 256-Bit-Speicherkontroller.",
+    "brand": {
+      "@type": "Brand",
+      "name": "Palit"
+    },
+    "category": "Grafikkarte",
+    "image": "https://www.alternate.de/p/600x600/1/4/Palit_GeForce_RTX_5080_GameRock__Grafikkarte@@100105341.jpg",
+    "sku": 100105341,
+    "gtin8": "4710562244892",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://www.alternate.de/Palit/GeForce-RTX-5080-GameRock-Grafikkarte/html/product/100105341",
+      "priceCurrency": "EUR",
+      "price": "1269.0",
+      "itemCondition": "NewCondition",
+      "availability": "InStock",
+      "name": "GeForce RTX 5080 GameRock, Grafikkarte",
+      "seller": {
+        "@type": "Organization",
+        "name": "ALTERNATE GmbH"
+      },
+      "hasMerchantReturnPolicy": {
+        "@type": "MerchantReturnPolicy",
+        "applicableCountry": "DE",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "merchantReturnDays": 30,
+        "returnMethod": "https://schema.org/ReturnByMail"
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@Type": "QuantitativeValue",
+            "minValue": 1,
+            "maxValue": 2,
+            "unitCode": "DAY"
+          },
+          "transitTime": {
+            "@Type": "QuantitativeValue",
+            "minValue": 2,
+            "maxValue": 3,
+            "unitCode": "DAY"
+          }
+        },
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "DE"
+        },
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "currency": "EUR",
+          "value": 7.99
+        }
+      }
+    },
+    "hasEnergyConsumptionDetails": {
+      "@type": "EnergyConsumptionDetails"
+    },
+    "logo": "https://logos.tlecdn.net/100x30/m_603_palit_7.png",
+    "mpn": "NE75080019T2-GB2030G"
+  },
+  {
+    "@context": "https://www.schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 0,
+        "item": {
+          "@id": "https://www.alternate.de/",
+          "name": "Startseite"
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "item": {
+          "@id": "https://www.alternate.de/Hardware",
+          "name": "Hardware"
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "item": {
+          "@id": "https://www.alternate.de/Hardware/PC-Komponenten",
+          "name": "PC-Komponenten"
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "item": {
+          "@id": "https://www.alternate.de/Grafikkarten",
+          "name": "Grafikkarten"
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 4,
+        "item": {
+          "@id": "https://www.alternate.de/Grafikkarten/NVIDIA-Grafikkarten",
+          "name": "NVIDIA Grafikkarten"
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 5,
+        "item": {
+          "@id": "https://www.alternate.de/Grafikkarten/NVIDIA-Grafikkarten/GeForce-RTX-Gaming",
+          "name": "GeForce RTX Gaming"
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 6,
+        "item": {
+          "name": "Palit GeForce RTX 5080 GameRock, Grafikkarte"
+        }
+      }
+    ]
+  }
+]
+      </script>
+
+      <link rel="apple-touch-icon" sizes="180x180" href="/resources/pix/apple-touch-icon.png" />
+      <link rel="icon" type="image/png" href="/resources/pix/favicon.png" sizes="32x32" />
+        <link rel="preload" href="/mobile/jakarta.faces.resource/lato/S6uyw4BMUTPHjx4wXg.woff2.xhtml?ln=fonts" as="font" type="font/woff2" crossorigin="anonymous" />
+        <link rel="preload" href="/mobile/jakarta.faces.resource/lato/S6u9w4BMUTPHh6UVSwiPGQ.woff2.xhtml?ln=fonts" as="font" type="font/woff2" crossorigin="anonymous" />
+        <link rel="preload" href="/mobile/jakarta.faces.resource/lato/S6u9w4BMUTPHh50XSwiPGQ.woff2.xhtml?ln=fonts" as="font" type="font/woff2" crossorigin="anonymous" />
+        <link rel="preload" href="/mobile/jakarta.faces.resource/fontawesome/fa-solid-900.woff2.xhtml?ln=fonts" as="font" type="font/woff2" crossorigin="anonymous" />
+        <link rel="preload" href="/mobile/jakarta.faces.resource/css-bs4/fonts.min.css.xhtml?ln=minified&amp;v=f0d377ea" as="style" />
+        <link rel="preload" href="/mobile/jakarta.faces.resource/css-bs4/style.min.css.xhtml?ln=minified&amp;v=f0d377ea" as="style" />
+        <link rel="stylesheet" href="/mobile/jakarta.faces.resource/css-bs4/fonts.min.css.xhtml?ln=minified&amp;v=f0d377ea" type="text/css" />
+        <link rel="stylesheet" href="/mobile/jakarta.faces.resource/css-bs4/style.min.css.xhtml?ln=minified&amp;v=f0d377ea" type="text/css" />
+        <link rel="preload" href="https://web.cmp.usercentrics.eu/ui/loader.js" as="script" />
+        <link rel="preconnect" href="https://v1.api.service.cmp.usercentrics.eu" />
+        <script id="usercentrics-cmp" src="https://web.cmp.usercentrics.eu/ui/loader.js" data-language="de" data-settings-id="sC1K8TOng" async="async"></script>
+      <link rel="dns-prefetch" href="https://tlecdn.net" />
+      <script>
+        var global = {
+          getPreferredTheme: () => {
+            const storedTheme = localStorage.getItem('theme');
+            return storedTheme ? storedTheme : window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+          },
+          setTheme: (wantedTheme) => {
+            const theme = wantedTheme === 'auto' ? (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light') : wantedTheme;
+            document.documentElement.setAttribute('data-bs-theme', theme);
+            localStorage.setItem('theme', theme);
+          },
+          newSession: true,
+          onFaces: () => {
+            function waitForFaces(resolve, reject) {
+              if (window.faces) {resolve(window.faces);} else {setTimeout(waitForFaces.bind(this, resolve, reject), 40);}
+            }
+            return new Promise(waitForFaces);
+          }
+        };
+        global.setTheme(global.getPreferredTheme());
+        var mojarra={l:(args)=>{if(typeof args==='function')global.onFaces().then(()=>args());}};
+      </script>
+        <script>window.starfishTrackingURL = "https://click.alternate.de/track/1";</script>
+        <script src="/mobile/jakarta.faces.resource/js-bs4/script.min.js.xhtml?ln=minified&amp;v=f0d377ea" defer="defer"></script>
+      <link rel="preload" href="/mobile/jakarta.faces.resource/faces.js.xhtml?ln=jakarta.faces" as="script" /><script src="/mobile/jakarta.faces.resource/faces.js.xhtml?ln=jakarta.faces" async="async"></script>
+        <script type="text/plain" src="https://rs.epoq.de/web-api/epoqgo.js" defer="defer" data-usercentrics="epoq"></script></head><body id="mainContent" class="  mainTree7">
+      <div id="scroll-to-top-container" class="d-print-none">
+        <img id="scroll-to-top" class="d-none" src="/resources/pix/icons/back_to_top.svg" height="42" width="42" alt="Nach oben" title="Nach oben" loading="lazy" />
+      </div><div id="cmp-uc-shadow">         <template shadowrootmode="open">           <style>             ::-webkit-scrollbar {               background: 0 0;               width: 8px;             }             ::-webkit-scrollbar-thumb {               background: #acacac;               -webkit-border-radius: 1ex;             }             * {               box-sizing: border-box;               direction: ltr;             }             #cmp-uc-placeholder {               z-index: 2147483646;               width: 100%;               max-width: 625px;               position: fixed;               top: 50%;               left: 50%;               transform: translate(-50%,-50%);               font-family: BlinkMacSystemFont,-apple-system,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,Helvetica,Arial,sans-serif,Arial,sans-serif;               display: none;             }             #cmp-uc-placeholder-wrapper {               background-color: #fff;               border-radius: 4px;               font-size: 14px;               color: #303030;               outline: 0;               flex-flow: column;               width: 100%;               max-height: 80vh;               display: flex;               overflow: hidden;               box-shadow: 0 32px 68px rgba(0,0,0,.3);             }             main#cmp-uc-placeholder-header {               font-size: 1em;               line-height: 1.25;               overflow-y: auto;             }             main#cmp-uc-placeholder-header header {               padding: 24px 24px 0 24px;             }             #cmp-uc-head-image {               margin: 0 auto 24px auto;               object-fit: contain;               object-position: left 0;               max-width: 300px;               height: 48px;               max-height: 48px;               display: block;             }             #cmp-uc-privacy-title {               line-height: 1.25;               color:#303030;               margin-bottom: 12px;               font-size: 1.125em;               font-weight: 700;               line-height: 1.25;             }             #cmp-uc-privacy-text span {               font-family: Lato, Arial, "Liberation Sans", sans-serif;               font-size: 12px;               line-height: 15px;               color: rgb(0, 20, 36);             }             #cmp-uc-links {               margin-top: 16px;               font-size: 0.875em;             }             #cmp-uc-links a {               color:#303030;               cursor: pointer;               font-size: 1em;               line-height: 1.25;             }             #cmp-uc-links a+a {               margin-left: 12px;             }             #cmp-uc-footer {               padding:12px 24px;             }             #cmp-uc-buttons .uc-cmp-button-row {               grid-column-gap: 16px;               justify-content: center;               align-items: stretch;               display: flex;             }             #cmp-uc-buttons .uc-cmp-button-row button {               flex-grow: 1;               flex-basis: 0;               border: none;               background-color: #001424;               border-radius: 4px;               padding: 12px 16px;               text-align: center;               font-family: Arial;               font-size: inherit;               font-weight: 700;             }             #cmp-uc-poweredBy {               display: flex;               justify-content: center;               margin-top: 12px;               color:#303030;               font-size: 0.75em;             }             #cmp-uc-placeholder-wrapper a {               color: #303030;               text-decoration: none;             }             #cmp-uc-placeholder-wrapper a:hover {               text-decoration: underline;             }             @media (max-width:768px) and (orientation:portrait){               #cmp-uc-placeholder {                 top: unset;                 transform: unset;                 max-width: unset;                 border-bottom-left-radius: 0;                 border-bottom-right-radius: 0;                 width: 100%;                 bottom: 0;                 left: 0;               }               #cmp-uc-placeholder-wrapper {                 max-width: unset;               }               main#cmp-uc-placeholder-header header {                 padding: 12px 12px 0 12px;               }               #cmp-uc-head-image {                 margin-bottom: 12px;               }               #cmp-uc-privacy-title {                 margin-bottom: 6px;               }               #cmp-uc-links {                 margin-top: 8px;               }               #cmp-uc-links a+a {                 margin-left: 6px;               }               #cmp-uc-footer {                 margin-top: 6px;                 display: flex;                 flex-flow: wrap;                 padding: 6px 12px;               }               #cmp-uc-buttons {                 display: block;                 flex: 2 auto;                 height: auto;               }               #cmp-uc-buttons .uc-cmp-button-row {                 grid-column-gap: 8px;                 align-items: stretch;                 display: flex;                 margin: 0px;                 flex-direction: column;                 flex-direction: column-reverse;               }               #cmp-uc-buttons .uc-cmp-button-row button {                 padding: 8px;               }               #cmp-uc-buttons .uc-cmp-button-row button:nth-child(1) {                 margin-top: 4px;               }               #cmp-uc-buttons .uc-cmp-button-row button:nth-child(2) {                 margin-top: 0px;               }               #cmp-uc-poweredBy {                 display: block;                 text-align: center;                 margin: 10px 0;                 width: 100%;               }             }           </style>            <div id="cmp-uc-placeholder">             <div id="cmp-uc-placeholder-wrapper">               <main id="cmp-uc-placeholder-header">                 <header>                   <img id="cmp-uc-head-image" src="/mobile/javax.faces.resource/pix/headerlogo/alt.png.xhtml" aria-hidden="true" alt="" width="300" height="48" />                   <div class="cmp-uc-description">                     <div id="cmp-uc-privacy-title">Privatsphäre-Einstellungen</div>                     <div id="cmp-uc-privacy-text">                       <span>                         Für die ordnungsgemäße Funktion unserer Website (z.B. Navigation, Warenkorb, Kundenkonto) setzen wir so genannte Cookies ein. Darüber hinaus verwenden wir Cookies, Pixel und vergleichbare Technologien, um unsere Website an bevorzugte Verhaltensweisen anzupassen, Informationen über die Art und Weise der Nutzung unserer Website für Optimierungszwecke zu erhalten und personalisierte Werbung ausspielen zu können. Zu Werbezwecke können diese Daten auch an Dritte, wie z.B. Suchmaschinenanbieter, Social Networks oder Werbeagenturen weitergegeben werden. Sie können wählen, ob nur die für den ordnungsgemäßen Betrieb des Webshops notwendigen Cookies verwendet werden sollen (standardmäßig voreingestellt), oder ob Sie darüber hinaus noch weiteren Cookies zustimmen wollen. Dies können Sie entweder pauschal über "Nur notwendige Cookies" oder "Alles akzeptieren" machen oder für jeden Dienst einzelnd. Für letzteres wählen Sie bitte "Anbieterübersicht".                       </span>                       <br />                       <span>                         Sie können Ihre Einwilligungen jederzeit über "Cookie Einstellungen" im unteren Bereich unserer Seiten mit Wirkung für die Zukunft widerrufen oder ändern.                       </span>                       <br />                       <br />                       <span>                         Hinweis: Einige Anbieter verarbeiten Daten außerhalb des Europäischen Wirtschaftsraumes wie zum Beispiel in den USA. Indem Sie "Alles akzeptieren" auswählen, stimmen Sie einer Übertragung Ihrer Daten in Länder, die kein dem EU-Standard vergleichbares Datenschutzniveau haben gem. Art. 49 Abs. 1 S. 1 lit. a DSGVO zu. Dies bedeutet, dass gegebenenfalls Behörden Zugriff auf Ihre Daten haben und Ihnen möglicherweise keine Rechtsbehelfsmöglichkeiten dagegen zustehen. Einzelheiten hierzu finden Sie in der Anbieterübersicht.                       </span>                       <br />                       <br />                       <span>                         Weitergehende Informationen hierzu sind in unserer Datenschutzerklärung bei dem Unterpunkt Cookies zu finden.                       </span>                     </div>                   </div>                   <div id="cmp-uc-links">                     <a tabindex="0" href="/HILFE/ALTERNATE/Datenschutz" aria-label="Öffnen Datenschutzerklärung" id="privacyPolicy" target="_blank" rel="noopener" data-action="link" data-action-type="privacyPolicy">                       Datenschutzerklärung                     </a>                     <a tabindex="0" href="/HILFE/ALTERNATE/Impressum" aria-label="Öffnen Impressum" id="imprint" target="_blank" rel="noopener" data-action="link" data-action-type="imprint">                       Impressum                     </a>                     <a role="button" tabindex="0" aria-label="Anbieterübersicht" id="uc-more-link" data-action="consent" data-action-type="more">                       <!--Anbieterübersicht--> ...                     </a>                   </div>                 </header>               </main>               <footer id="cmp-uc-footer" tabindex="0">                 <div id="cmp-uc-buttons">                   <div class="uc-cmp-button-row">                     <button data-action="consent" data-action-type="deny" class="deny uc-deny-button" id="deny" aria-label="Nur notwendige Cookies" tabindex="0" disabled="disabled">                       Nur notwendige Cookies                     </button>                     <button data-action="consent" data-action-type="accept" class="accept uc-accept-button" id="accept" aria-label="Alles akzeptieren" tabindex="0" disabled="disabled">                       Alles akzeptieren                     </button>                   </div>                 </div>                 <div id="cmp-uc-poweredBy">                   <span>                     Powered by <a href="https://usercentrics.com/de/consent-management-platform-powered-by-usercentrics/" target="_blank" rel="noopener nofollow" tabindex="0">Usercentrics Consent Management</a>                   </span>                 </div>               </footer>             </div>           </div>         </template>         <script>           try {             const placeholder = document.querySelector('#cmp-uc-shadow').shadowRoot.childNodes[3];             if (placeholder) {               if (window.__ucCmp) {                 window.__ucCmp.isInitialized().then(initialized => {                   if (initialized) {                     window.__ucCmp.isConsentRequired().then(consentRequired => {                       if (!consentRequired) {                         placeholder.remove();                       }                     });                   }                 }); const interactionDone = localStorage.getItem('cmp-uc-interaction-done');               if (interactionDone) {                 placeholder.remove();               } else {                 placeholder.style.display = 'block';               }               window.addEventListener('UC_CONSENT', function (e) {                 if (event.detail.consent.type === 'EXPLICIT') {                   placeholder.remove();                   localStorage.setItem('cmp-uc-interaction-done', true);                 }               });             }           }    } catch (err) {             console.log('err', err);           }         </script>       </div><div class="headerbanner-bg-color " style="background-color: #000000"> <div class="headerbanner track_this_link" data-key="505652a896bf71f94602098213438aa3;21466"> <div class="marquee">  <a href="/cyberweek" title="CyberWeek Angebote - jetzt sparen!" data-key="505652a896bf71f94602098213438aa3;21466" style="color: #ffffff">CyberWeek Angebote - jetzt sparen!</a>   </div> </div></div>
+
+      <div id="header-intersection"></div><div id="header_container" class="sticky-top">
+
+    <header class="mb-1" id="header">
+      <noscript>
+        <div class="container-fluid">
+          <div class="row">
+            <div class="col-12 alert mb-0 alert-danger text-center" role="alert">JavaScript ist nicht aktiviert!<br>Um die Seite nutzen zu können, müssen Sie JavaScript in Ihrem Browser aktivieren.
+            </div>
+          </div>
+        </div>
+      </noscript>
+      <div class="header-top shadow-sm">
+        <div class="container">
+          <nav class="navbar">
+            <ul class="navbar-nav flex-grow-1 flex-row" id="mainnav">
+              
+              <li class="d-block d-lg-none" id="burger-md">
+                <button type="button" class="btn btn-link nav-link p-1 icon-click-size" data-bs-toggle="offcanvas" data-bs-target="#navigation" aria-owns="navigation" aria-controls="navigation" aria-expanded="false" aria-label="Alle Kategorien">
+                  <img src="/mobile/jakarta.faces.resource/icons/burger_b.svg.xhtml?ln=pix" class="invert" alt="Alle Kategorien" width="20" height="20" aria-hidden="true" />
+                </button>
+              </li>
+              
+              <li id="company-logo"><a href="/" class="navbar-brand alternate" aria-label="Startseite ALTERNATE">
+                  <img class="header-logo colormode-img w-auto" width="859" height="130" src="/mobile/jakarta.faces.resource/pix/headerlogo/alt.svg.xhtml" alt="ALTERNATE" /></a>
+              </li>
+              <li class="d-none d-md-flex w-100 flex-column" id="searchbar-md">
+    <form method="get" action="/listing.xhtml" class="mx-2 searchbar" enctype="application/x-www-form-urlencoded" autocomplete="off" name="search_word_inc" accept-charset="utf-8" role="search">
+      <label class="visually-hidden" for="search-input-d">Suche</label>
+      <div class="input-group borderless">
+        <input type="search" id="search-input-d" name="q" class="form-control" placeholder="Shop durchsuchen..." />
+        <button class="input-group-text">
+          <em class="fas fa-search" aria-hidden="true"></em>
+          <span class="visually-hidden">Suche durchführen</span>
+        </button>
+      </div>
+    </form>
+              </li>
+                
+                <li class="d-none d-lg-block nav-item dropdown" id="b2b-nav">
+                  <div class="dropdown-arrow"></div>
+                  <button type="button" class="nav-link dropdown-toggle text-center" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    <img src="/mobile/jakarta.faces.resource/icons/Profile-new_Business.svg.xhtml?ln=pix" class="invert" alt="Geschäftskunden" width="20" height="20" aria-hidden="true" />
+                    <span class="ml-1 text-nowrap">Geschäftskunden</span>
+                  </button>
+                  <div class="dropdown-menu dropdown-menu-end shadow">
+                    <div class="font-big font-weight-bold px-3 mb-2">
+                      Ihre Vorteile als ALTERNATE Geschäftskunde:
+                    </div>
+                        <div class="d-flex">
+                          <div class="px-3 border-right">
+                            <ul>
+                              <li>Persönlich erreichbare Ansprechpartner</li>
+                              <li>Individuelle Angebots- und Projektpreise</li>
+                              <li>Angebotserstellung für Firmen, Behörden und Öffentliche Einrichtungen</li>
+                                <li>Beratung zu maßgeschneiderten Komplett-PC Projekten</li>
+                              <li>Kein Mindestbestellwert</li>
+                              <li>Netto-Rechnungsstellung mit ausgewiesener Umsatzsteuer</li>
+                            </ul>
+                          </div>
+                          <div class="d-flex flex-column justify-content-around px-3">
+                            <ul>
+                              <li>Flexibler Kauf auf Rechnung (nach positiver Bonitätsprüfung)</li>
+                                <li>Weitere alternative Zahlungsmöglichkeiten z.B. SEPA-Lastschrift oder Leasing</li>
+                                <li>Telefonische Beratung und Bestellung:
+                                  <br />
+                                  <span class="fw-bold">(+49) 6403 90 50 3700</span>
+                                </li>
+                            </ul>
+                            <div class="d-grid">
+                              <button data-bs-toggle="modal" data-bs-target="#homepage-redirect" class="btn btn-primary">Zum B2B-Shop</button>
+                            </div>
+                          </div>
+                        </div>
+                  </div>
+                </li>
+              
+              <li class="nav-item dropdown text-center">
+                <div class="dropdown-arrow"></div>
+                <button type="button" class="nav-link dropdown-toggle text-center" data-bs-toggle="dropdown" aria-label="Konto" aria-haspopup="true" aria-expanded="false">
+                  <img src="/mobile/jakarta.faces.resource/icons/Profile-new.svg.xhtml?ln=pix" class="invert" alt="Konto" width="20" height="20" aria-hidden="true" />
+                  <span class="ml-1 d-none d-lg-inline text-nowrap">Konto</span>
+                </button>
+                <ul class="dropdown-menu dropdown-menu-end shadow">
+                    <li class="d-grid dropdown-item-text" id="dropdown-greeting"><a href="/login.xhtml" class="btn btn-primary mt-1">Anmelden</a>
+                    </li>
+                    <li class="dropdown-divider"></li>
+                    <li><a href="/customerAccountRegistration.xhtml" class="dropdown-item">Kundenkonto erstellen</a>
+                    </li>
+                    <li class="dropdown-divider"></li>
+          <li>
+            <a class="dropdown-item" href="/Mein-Konto">
+              Mein Konto
+            </a>
+          </li>
+            <li>
+              <a class="dropdown-item" href="/Mein-Konto/Bestellungen">Bestellungen</a>
+            </li>
+            <li>
+              <a class="dropdown-item" href="/Mein-Konto/Merkliste">Merkliste</a>
+            </li>
+            <li>
+              <a class="dropdown-item" href="/Mein-Konto/Produktvergleich">Produktvergleich</a>
+            </li>
+            <li>
+              <a class="dropdown-item" href="/Mein-Konto/Zuletzt-angesehen">Zuletzt angesehen</a>
+            </li>
+                    <li class="d-flex justify-content-around py-0">
+                      <button type="button" class="btn btn-link theme-switch px-4" data-theme="light" aria-label="Wechsle zum hellen Farbmodus">
+                        <em class="fa fa-sun" aria-hidden="true"></em>
+                      </button>
+                      <button type="button" class="btn btn-link theme-switch px-4" data-theme="dark" aria-label="Wechsle zum dunklen Farbmodus">
+                        <em class="fa fa-moon" aria-hidden="true"></em>
+                      </button>
+                    </li>
+                </ul>
+              </li>
+              
+              <li id="cart-link"><span id="tle-header:header-cart-count">
+                  <a class="nav-link navbar-nav d-inline-flex flex-row w-100 justify-content-center" aria-label="Warenkorb" href="/cart.xhtml">
+                    <span class="position-relative"><img src="/mobile/jakarta.faces.resource/icons/Warenkorb-black.svg.xhtml?ln=pix" alt="Warenkorb" height="20" width="20" class="invert" />
+                      <span id="cart-count" class="d-none">
+                        0
+                      </span>
+                    </span>
+                    <span class="d-none d-lg-inline text-nowrap ml-1">Warenkorb</span>
+                  </a></span>
+              </li>
+            </ul>
+          </nav>
+        </div>
+      </div>
+      
+      <div class="container d-none d-lg-block">
+        <nav class="d-flex" id="subnav">
+          <ul class="nav nav-pills">
+            <li class="nav-item" id="all-categories">
+              <button type="button" class="btn btn-link nav-link dropdown-toggle active btn-season" data-bs-toggle="offcanvas" data-bs-target="#navigation" aria-owns="navigation" aria-controls="navigation" aria-expanded="false">
+                <img src="/mobile/jakarta.faces.resource/icons/burger_wh.svg.xhtml?ln=pix" alt="" width="20" height="20" aria-hidden="true" /><span class="mx-2">Alle Kategorien</span>
+              </button>
+            </li>
+               <li class="nav-item">
+                <a class="nav-link font-weight-bold text-uppercase " href="/TagesDeals" aria-label="TagesDeals"><span class="text-red">Tages</span>Deals
+                </a>
+              </li>
+               <li class="nav-item">
+                <a class="nav-link font-weight-bold text-uppercase " href="/Refurbished" aria-label="Refurbished">Refurbished
+                </a>
+              </li>
+               <li class="nav-item">
+                <a class="nav-link font-weight-bold text-uppercase " href="/Outlet" aria-label="Outlet">Outlet
+                </a>
+              </li>
+               <li class="nav-item">
+                <a class="nav-link font-weight-bold text-uppercase " href="/Angebote" aria-label="Angebote">Angebote
+                </a>
+              </li>
+               <li class="nav-item">
+                <a class="nav-link font-weight-bold text-uppercase " href="/PC-Konfigurator" aria-label="PC-Konfigurator">PC-Konfigurator
+                </a>
+              </li>
+               <li class="nav-item">
+                <a class="nav-link font-weight-bold text-uppercase " href="/Balkonkraftwerk-Konfigurator" aria-label="Balkonkraftwerk-Konfigurator">Balkonkraftwerk-Konfigurator
+                </a>
+              </li>
+          </ul>
+          <span class="navbar-text" id="toggle-container">
+              <span class="form-check form-switch mx-1">
+                <label class="visually-hidden" for="theme-toggle">Zwischen hellem und dunklem Farbmodus wechseln</label>
+                <input class="form-check-input" type="checkbox" role="switch" id="theme-toggle" />
+              </span>
+          </span>
+        </nav>
+      </div>
+      
+      <div class="container">
+        <nav class="row collapse d-md-none show" id="collapse-searchbar">
+    <form method="get" action="/listing.xhtml" class="py-2 searchbar" enctype="application/x-www-form-urlencoded" autocomplete="off" name="search_word_inc" accept-charset="utf-8" role="search">
+      <label class="visually-hidden" for="search-input-m">Suche</label>
+      <div class="input-group borderless">
+        <input type="search" id="search-input-m" name="q" class="form-control" placeholder="Shop durchsuchen..." />
+        <button class="input-group-text">
+          <em class="fas fa-search" aria-hidden="true"></em>
+          <span class="visually-hidden">Suche durchführen</span>
+        </button>
+      </div>
+    </form>
+        </nav>
+      </div>
+    </header>
+      <div class="modal fade" id="homepage-redirect" role="dialog">
+        <div class="modal-dialog modal-sm modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-body">Sie werden jetzt zu unserem Shop für Geschäftskunden weitergeleitet. Bitte beachten Sie, dass Ihr aktueller Warenkorb dabei nicht übernommen wird.
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-outline-dark" data-bs-dismiss="modal">Zurück</button><a href="https://www.alternate-b2b.de/" class="btn btn-primary">Fortfahren</a>
+            </div>
+          </div>
+        </div>
+      </div></div>
+
+      <div class="position-fixed darkener hideDarkener" id="darkener"></div>
+      <div class="position-fixed darkener" id="modal-darkener"></div>
+
+      <div class="container position-relative">
+
+    <div class="skyscraper left position-absolute">
+    </div>
+
+    <div class="skyscraper right position-absolute"><a href="/adc/c1699661-f062-4041-8920-91ab44707516"  title="Intel Spring Bundle" class="track_this_link position-relative w-100 d-inline-block" data-key="84ba319ca0a7e0a0221bbb87730fffff;21466" rel=""> <picture> <source media="(max-width: 575px)" srcset="/tw/mar-98858/teaser/mobile/MAR-98858_Sky.jpg" width="16" height="60" /> <img src="/tw/mar-98858/teaser/desktop/MAR-98858_Sky.jpg" alt="Intel Spring Bundle" class="w-100 img-fluid" width="16" height="60" loading="lazy" /> </picture> </a>
+    </div>
+    <div class="offcanvas shadow" id="navigation">
+      <nav class="offcanvas-body d-flex">
+
+        <div id="navigation-overview" class="position-relative">
+            <div id="navigation-tree-head" class="py-2 d-lg-none">
+              <button type="button" class="btn btn-link text-uppercase step-back d-lg-none w-100 d-block text-left" data-tree-id="8378" data-step-back="true"> <strong>zurück</strong></button>
+            </div>
+              <div id="gotoCategory" class="d-lg-none">
+                <a href="/Grafikkarten/NVIDIA-Grafikkarten" class="d-block my-2 text-decoration-none font-weight-bold py-3 py-lg-1 px-3 border-bottom border-gray-lighter">
+                  <span>NVIDIA Grafikkarten</span>
+                </a>
+              </div>
+
+          <div id="navigation-tree">
+              <a href="/TagesDeals" class=" d-none d-lg-block text-decoration-none font-weight-bold p-3 py-lg-1 border-bottom border-gray-lighter " data-tree-id="20245" data-leaf="true" aria-expanded="false" aria-haspopup="tree">
+                TagesDeals
+                
+              </a>
+              <a href="/Refurbished" class=" d-none d-lg-block text-decoration-none font-weight-bold p-3 py-lg-1 border-bottom border-gray-lighter " data-tree-id="35121" data-leaf="false" aria-expanded="false" aria-haspopup="tree">
+                Refurbished
+                
+              </a>
+              <a href="/Angebote" class=" d-none d-lg-block text-decoration-none font-weight-bold p-3 py-lg-1 border-bottom border-gray-lighter " data-tree-id="29836" data-leaf="true" aria-expanded="false" aria-haspopup="tree">
+                Angebote
+                
+              </a>
+              <a href="/Hardware" class=" d-none d-lg-block text-decoration-none font-weight-bold p-3 py-lg-1 border-bottom border-gray-lighter " data-tree-id="7" data-leaf="false" aria-expanded="false" aria-haspopup="tree">
+                Hardware
+                
+              </a>
+              <a href="/PC" class=" d-none d-lg-block text-decoration-none font-weight-bold p-3 py-lg-1 border-bottom border-gray-lighter " data-tree-id="14198" data-leaf="false" aria-expanded="false" aria-haspopup="tree">
+                PC
+                
+              </a>
+              <a href="/Notebook" class=" d-none d-lg-block text-decoration-none font-weight-bold p-3 py-lg-1 border-bottom border-gray-lighter " data-tree-id="8" data-leaf="false" aria-expanded="false" aria-haspopup="tree">
+                Notebook
+                
+              </a>
+              <a href="/Gaming" class=" d-none d-lg-block text-decoration-none font-weight-bold p-3 py-lg-1 border-bottom border-gray-lighter " data-tree-id="13" data-leaf="false" aria-expanded="false" aria-haspopup="tree">
+                Gaming
+                
+              </a>
+              <a href="/TV-Audio" class=" d-none d-lg-block text-decoration-none font-weight-bold p-3 py-lg-1 border-bottom border-gray-lighter " data-tree-id="10" data-leaf="false" aria-expanded="false" aria-haspopup="tree">
+                TV &amp; Audio
+                
+              </a>
+              <a href="/Smartphone" class=" d-none d-lg-block text-decoration-none font-weight-bold p-3 py-lg-1 border-bottom border-gray-lighter " data-tree-id="15" data-leaf="false" aria-expanded="false" aria-haspopup="tree">
+                Smartphone
+                
+              </a>
+              <a href="/Apple" class=" d-none d-lg-block text-decoration-none font-weight-bold p-3 py-lg-1 border-bottom border-gray-lighter " data-tree-id="12" data-leaf="false" aria-expanded="false" aria-haspopup="tree">
+                Apple
+                
+              </a>
+              <a href="/Smart-Home" class=" d-none d-lg-block text-decoration-none font-weight-bold p-3 py-lg-1 border-bottom border-gray-lighter " data-tree-id="12174" data-leaf="false" aria-expanded="false" aria-haspopup="tree">
+                Smart Home
+                
+              </a>
+              <a href="/Photovoltaik" class=" d-none d-lg-block text-decoration-none font-weight-bold p-3 py-lg-1 border-bottom border-gray-lighter " data-tree-id="32858" data-leaf="false" aria-expanded="false" aria-haspopup="tree">
+                Photovoltaik
+                
+              </a>
+              <a href="/Haushalt" class=" d-none d-lg-block text-decoration-none font-weight-bold p-3 py-lg-1 border-bottom border-gray-lighter " data-tree-id="5304" data-leaf="false" aria-expanded="false" aria-haspopup="tree">
+                Haushalt
+                
+              </a>
+              <a href="/Spielzeug" class=" d-none d-lg-block text-decoration-none font-weight-bold p-3 py-lg-1 border-bottom border-gray-lighter " data-tree-id="13574" data-leaf="false" aria-expanded="false" aria-haspopup="tree">
+                Spielzeug
+                
+              </a>
+              <a href="/Werkzeug" class=" d-none d-lg-block text-decoration-none font-weight-bold p-3 py-lg-1 border-bottom border-gray-lighter " data-tree-id="15464" data-leaf="false" aria-expanded="false" aria-haspopup="tree">
+                Werkzeug
+                
+              </a>
+              <a href="/Garten" class=" d-none d-lg-block text-decoration-none font-weight-bold p-3 py-lg-1 border-bottom border-gray-lighter " data-tree-id="5306" data-leaf="false" aria-expanded="false" aria-haspopup="tree">
+                Garten
+                
+              </a>
+              <a href="/Grill" class=" d-none d-lg-block text-decoration-none font-weight-bold p-3 py-lg-1 border-bottom border-gray-lighter " data-tree-id="17566" data-leaf="false" aria-expanded="false" aria-haspopup="tree">
+                Grill
+                
+              </a>
+              <a href="/Outdoor" class=" d-none d-lg-block text-decoration-none font-weight-bold p-3 py-lg-1 border-bottom border-gray-lighter " data-tree-id="20328" data-leaf="false" aria-expanded="false" aria-haspopup="tree">
+                Outdoor
+                
+              </a>
+              <a href="/E-Mobility" class=" d-none d-lg-block text-decoration-none font-weight-bold p-3 py-lg-1 border-bottom border-gray-lighter " data-tree-id="32066" data-leaf="false" aria-expanded="false" aria-haspopup="tree">
+                E-Mobility
+                
+              </a>
+              <a href="/Kamera" class=" d-none d-lg-block text-decoration-none font-weight-bold p-3 py-lg-1 border-bottom border-gray-lighter " data-tree-id="14" data-leaf="false" aria-expanded="false" aria-haspopup="tree">
+                Kamera
+                
+              </a>
+              <a href="/Software" class=" d-none d-lg-block text-decoration-none font-weight-bold p-3 py-lg-1 border-bottom border-gray-lighter " data-tree-id="9" data-leaf="false" aria-expanded="false" aria-haspopup="tree">
+                Software
+                
+              </a>
+              <a href="/Bürobedarf" class=" d-none d-lg-block text-decoration-none font-weight-bold p-3 py-lg-1 border-bottom border-gray-lighter " data-tree-id="19229" data-leaf="false" aria-expanded="false" aria-haspopup="tree">
+                Bürobedarf
+                
+              </a>
+              <a href="/Outlet" class=" d-none d-lg-block text-decoration-none font-weight-bold p-3 py-lg-1  " data-tree-id="9157" data-leaf="false" aria-expanded="false" aria-haspopup="tree">
+                Outlet
+                
+              </a>
+              <a href="/Grafikkarten/NVIDIA-Grafikkarten/GeForce-RTX-Gaming" class="entry-active bg-gray-lightest d-block d-lg-none text-decoration-none font-weight-bold p-3 py-lg-1 border-bottom border-gray-lighter " data-tree-id="21466" data-leaf="true" aria-expanded="false" aria-haspopup="tree">
+                GeForce RTX Gaming
+                
+              </a>
+              <a href="/Grafikkarten/NVIDIA-Grafikkarten/RTX-5000-Serie" class=" d-block d-lg-none text-decoration-none font-weight-bold p-3 py-lg-1 border-bottom border-gray-lighter " data-tree-id="35088" data-leaf="true" aria-expanded="false" aria-haspopup="tree">
+                RTX 5000-Serie
+                
+              </a>
+              <a href="/Grafikkarten/NVIDIA-Grafikkarten/RTX-5090" class=" d-block d-lg-none text-decoration-none font-weight-bold p-3 py-lg-1 border-bottom border-gray-lighter " data-tree-id="35087" data-leaf="true" aria-expanded="false" aria-haspopup="tree">
+                RTX 5090
+                
+              </a>
+              <a href="/Grafikkarten/NVIDIA-Grafikkarten/RTX-5080" class=" d-block d-lg-none text-decoration-none font-weight-bold p-3 py-lg-1 border-bottom border-gray-lighter " data-tree-id="35086" data-leaf="true" aria-expanded="false" aria-haspopup="tree">
+                RTX 5080
+                
+              </a>
+              <a href="/Grafikkarten/NVIDIA-Grafikkarten/RTX-5070-Ti" class=" d-block d-lg-none text-decoration-none font-weight-bold p-3 py-lg-1 border-bottom border-gray-lighter " data-tree-id="36060" data-leaf="true" aria-expanded="false" aria-haspopup="tree">
+                RTX 5070 Ti
+                
+              </a>
+              <a href="/Grafikkarten/NVIDIA-Grafikkarten/RTX-5070" class=" d-block d-lg-none text-decoration-none font-weight-bold p-3 py-lg-1 border-bottom border-gray-lighter " data-tree-id="36059" data-leaf="true" aria-expanded="false" aria-haspopup="tree">
+                RTX 5070
+                
+              </a>
+              <a href="/Grafikkarten/NVIDIA-Grafikkarten/RTX-5060-Ti" class=" d-block d-lg-none text-decoration-none font-weight-bold p-3 py-lg-1 border-bottom border-gray-lighter " data-tree-id="36113" data-leaf="true" aria-expanded="false" aria-haspopup="tree">
+                RTX 5060 Ti
+                
+              </a>
+              <a href="/Grafikkarten/NVIDIA-Grafikkarten/RTX-5060" class=" d-block d-lg-none text-decoration-none font-weight-bold p-3 py-lg-1 border-bottom border-gray-lighter " data-tree-id="36112" data-leaf="true" aria-expanded="false" aria-haspopup="tree">
+                RTX 5060
+                
+              </a>
+              <a href="/Grafikkarten/NVIDIA-Grafikkarten/RTX-4000-Serie" class=" d-block d-lg-none text-decoration-none font-weight-bold p-3 py-lg-1 border-bottom border-gray-lighter " data-tree-id="33096" data-leaf="true" aria-expanded="false" aria-haspopup="tree">
+                RTX 4000-Serie
+                
+              </a>
+              <a href="/Grafikkarten/NVIDIA-Grafikkarten/RTX-4070-SUPER" class=" d-block d-lg-none text-decoration-none font-weight-bold p-3 py-lg-1 border-bottom border-gray-lighter " data-tree-id="34216" data-leaf="true" aria-expanded="false" aria-haspopup="tree">
+                RTX 4070 SUPER
+                
+              </a>
+              <a href="/Grafikkarten/NVIDIA-Grafikkarten/RTX-4060-Ti" class=" d-block d-lg-none text-decoration-none font-weight-bold p-3 py-lg-1 border-bottom border-gray-lighter " data-tree-id="33743" data-leaf="true" aria-expanded="false" aria-haspopup="tree">
+                 RTX 4060 Ti
+                
+              </a>
+              <a href="/Grafikkarten/NVIDIA-Grafikkarten/RTX-4060" class=" d-block d-lg-none text-decoration-none font-weight-bold p-3 py-lg-1 border-bottom border-gray-lighter " data-tree-id="33771" data-leaf="true" aria-expanded="false" aria-haspopup="tree">
+                RTX 4060
+                
+              </a>
+              <a href="/Grafikkarten/NVIDIA-Grafikkarten/RTX-3060" class=" d-block d-lg-none text-decoration-none font-weight-bold p-3 py-lg-1 border-bottom border-gray-lighter " data-tree-id="29903" data-leaf="true" aria-expanded="false" aria-haspopup="tree">
+                RTX 3060
+                
+              </a>
+              <a href="/Grafikkarten/NVIDIA-Grafikkarten/RTX-3050" class=" d-block d-lg-none text-decoration-none font-weight-bold p-3 py-lg-1 border-bottom border-gray-lighter " data-tree-id="31527" data-leaf="true" aria-expanded="false" aria-haspopup="tree">
+                RTX 3050
+                
+              </a>
+              <a href="/Grafikkarten/NVIDIA-Grafikkarten/Geforce-GT" class=" d-block d-lg-none text-decoration-none font-weight-bold p-3 py-lg-1 border-bottom border-gray-lighter " data-tree-id="8408" data-leaf="true" aria-expanded="false" aria-haspopup="tree">
+                Geforce GT 
+                
+              </a>
+              <a href="/Grafikkarten/NVIDIA-Grafikkarten/NVIDIA-Quadro" class=" d-block d-lg-none text-decoration-none font-weight-bold p-3 py-lg-1 border-bottom border-gray-lighter " data-tree-id="8407" data-leaf="true" aria-expanded="false" aria-haspopup="tree">
+                NVIDIA Quadro
+                
+              </a>
+          </div>
+
+        </div>
+        <div id="navigation-content"></div>
+
+      </nav>
+    </div>
+        <div class="suggest-layer-container position-fixed shadow" style="display: none;"></div>
+        <main class="position-relative" id="content">
+
+      <div id="details">
+      <div class="row ">
+        <div class="col-12 mb-3">
+          <nav class="swiper swiper-common border-bottom" aria-label="breadcrumb" data-slides="auto" data-insufficient-left="true" data-space="0">
+            <div class="swiper-wrapper breadcrumb">
+              <div class="swiper-slide breadcrumb-item">
+                <a href="/" title="Startseite">
+                  <span class="visually-hidden">Startseite</span>
+                  <em class="fas fa-home" aria-hidden="true"></em>
+                </a>
+              </div>
+                <div class="swiper-slide breadcrumb-item " aria-current="false"><a href="/Hardware" rel="">
+                    Hardware
+                  </a>
+                </div>
+                <div class="swiper-slide breadcrumb-item " aria-current="false"><a href="/Hardware/PC-Komponenten" rel="">
+                    PC-Komponenten
+                  </a>
+                </div>
+                <div class="swiper-slide breadcrumb-item " aria-current="false"><a href="/Grafikkarten" rel="">
+                    Grafikkarten
+                  </a>
+                </div>
+                <div class="swiper-slide breadcrumb-item " aria-current="false"><a href="/Grafikkarten/NVIDIA-Grafikkarten" rel="">
+                    NVIDIA Grafikkarten
+                  </a>
+                </div>
+                <div class="swiper-slide breadcrumb-item " aria-current="false"><a href="/Grafikkarten/NVIDIA-Grafikkarten/GeForce-RTX-Gaming" rel="">
+                    GeForce RTX Gaming
+                  </a>
+                </div>
+                <div class="swiper-slide breadcrumb-item active" aria-current="page">Palit GeForce RTX 5080 GameRock, Grafikkarte
+                </div>
+            </div>
+          </nav>
+        </div>
+      </div>
+        <div class="row mb-3">
+          <div class="col-12">
+            <div id="product-top" class="card p-3">
+              <div class="row">
+
+                <div class="col-12 eyecatcher-container mb-2">
+            <div class="badge bg-black mr-2 text-uppercase">
+              <span>+ Beigabe</span>
+            </div>
+            <div class="badge bg-black mr-2 text-uppercase">
+              <span>Sparbundle</span>
+            </div>
+                </div>
+
+                <div class="col-12 my-0 d-flex justify-content-between">
+                  <div class="product-name">
+                    <h1>
+
+                      <span>Palit</span>
+
+                      <span>GeForce RTX 5080 GameRock, Grafikkarte</span>
+                        <small class="product-name-sub d-block font-weight-normal">(DLSS 4, 3x DisplayPort, 1x HDMI 2.1)</small>
+                    </h1>
+                  </div>
+
+                  <a class="d-none d-md-block product-manufacturer-logo" href="/listing.xhtml?q=Palit&amp;filterBrand=Palit" title="Mehr von Palit anzeigen"><img src="https://logos.tlecdn.net/100x30/m_603_palit_7.png" alt="Palit" height="30" width="100" class=" show-light" /><img src="https://logos.tlecdn.net/100x30/m_603_palit_7_dark.png" alt="Palit" height="30" width="100" class="show-dark " />
+                  </a>
+                </div>
+              </div>
+
+              <div class="row">
+                <div class="col-12 col-md-6 text-center" id="product-top-left">
+    <div class="product-image-media-carousel-container mt-3 position-relative" data-productid="100105341">
+
+      <div class="product-image-media-big position-relative mb-3">
+        <div class="swiper">
+          <div class="swiper-button-prev d-sm-none"></div>
+          <div class="swiper-wrapper">
+              <div class="swiper-slide text-center" data-index="0">
+                  <img src="/p/160x160/1/4/Palit_GeForce_RTX_5080_GameRock__Grafikkarte@@100105341.jpg" srcset="/p/600x600/1/4/Palit_GeForce_RTX_5080_GameRock__Grafikkarte@@100105341.jpg" loading="eager" fetchpriority="high" alt="Palit GeForce RTX 5080 GameRock, Grafikkarte DLSS 4, 3x DisplayPort, 1x HDMI 2.1" class="cursor-magnify productPicture img-fluid img-sized" data-productid="100105341" data-bs-toggle="modal" data-bs-target="#product-image-media-modal-container-100105341" width="600" height="600" />
+
+              </div>
+              <div class="swiper-slide text-center" data-index="1">
+                  <img src="/p/160x160/1/4/Palit_GeForce_RTX_5080_GameRock__Grafikkarte@@100105341_1.jpg" srcset="/p/600x600/1/4/Palit_GeForce_RTX_5080_GameRock__Grafikkarte@@100105341_1.jpg" loading="lazy" fetchpriority="low" alt="Palit GeForce RTX 5080 GameRock, Grafikkarte DLSS 4, 3x DisplayPort, 1x HDMI 2.1" class="cursor-magnify productPicture img-fluid img-sized" data-productid="100105341" data-bs-toggle="modal" data-bs-target="#product-image-media-modal-container-100105341" width="600" height="600" />
+
+              </div>
+              <div class="swiper-slide text-center" data-index="2">
+                  <img src="/p/160x160/1/4/Palit_GeForce_RTX_5080_GameRock__Grafikkarte@@100105341_2.jpg" srcset="/p/600x600/1/4/Palit_GeForce_RTX_5080_GameRock__Grafikkarte@@100105341_2.jpg" loading="lazy" fetchpriority="low" alt="Palit GeForce RTX 5080 GameRock, Grafikkarte DLSS 4, 3x DisplayPort, 1x HDMI 2.1" class="cursor-magnify productPicture img-fluid img-sized" data-productid="100105341" data-bs-toggle="modal" data-bs-target="#product-image-media-modal-container-100105341" width="600" height="600" />
+
+              </div>
+              <div class="swiper-slide text-center" data-index="3">
+                  <img src="/p/160x160/1/4/Palit_GeForce_RTX_5080_GameRock__Grafikkarte@@100105341_3.jpg" srcset="/p/600x600/1/4/Palit_GeForce_RTX_5080_GameRock__Grafikkarte@@100105341_3.jpg" loading="lazy" fetchpriority="low" alt="Palit GeForce RTX 5080 GameRock, Grafikkarte DLSS 4, 3x DisplayPort, 1x HDMI 2.1" class="cursor-magnify productPicture img-fluid img-sized" data-productid="100105341" data-bs-toggle="modal" data-bs-target="#product-image-media-modal-container-100105341" width="600" height="600" />
+
+              </div>
+              <div class="swiper-slide text-center" data-index="4">
+                  <img src="/p/160x160/1/4/Palit_GeForce_RTX_5080_GameRock__Grafikkarte@@100105341_4.jpg" srcset="/p/600x600/1/4/Palit_GeForce_RTX_5080_GameRock__Grafikkarte@@100105341_4.jpg" loading="lazy" fetchpriority="low" alt="Palit GeForce RTX 5080 GameRock, Grafikkarte DLSS 4, 3x DisplayPort, 1x HDMI 2.1" class="cursor-magnify productPicture img-fluid img-sized" data-productid="100105341" data-bs-toggle="modal" data-bs-target="#product-image-media-modal-container-100105341" width="600" height="600" />
+
+              </div>
+              <div class="swiper-slide text-center" data-index="5">
+                  <img src="/p/160x160/1/4/Palit_GeForce_RTX_5080_GameRock__Grafikkarte@@100105341_5.jpg" srcset="/p/600x600/1/4/Palit_GeForce_RTX_5080_GameRock__Grafikkarte@@100105341_5.jpg" loading="lazy" fetchpriority="low" alt="Palit GeForce RTX 5080 GameRock, Grafikkarte DLSS 4, 3x DisplayPort, 1x HDMI 2.1" class="cursor-magnify productPicture img-fluid img-sized" data-productid="100105341" data-bs-toggle="modal" data-bs-target="#product-image-media-modal-container-100105341" width="600" height="600" />
+
+              </div>
+              <div class="swiper-slide text-center" data-index="6">
+                  <img src="/p/160x160/1/4/Palit_GeForce_RTX_5080_GameRock__Grafikkarte@@100105341_6.jpg" srcset="/p/600x600/1/4/Palit_GeForce_RTX_5080_GameRock__Grafikkarte@@100105341_6.jpg" loading="lazy" fetchpriority="low" alt="Palit GeForce RTX 5080 GameRock, Grafikkarte DLSS 4, 3x DisplayPort, 1x HDMI 2.1" class="cursor-magnify productPicture img-fluid img-sized" data-productid="100105341" data-bs-toggle="modal" data-bs-target="#product-image-media-modal-container-100105341" width="600" height="600" />
+
+              </div>
+              <div class="swiper-slide text-center" data-index="7">
+                  <img src="/p/160x160/1/4/Palit_GeForce_RTX_5080_GameRock__Grafikkarte@@100105341_7.jpg" srcset="/p/600x600/1/4/Palit_GeForce_RTX_5080_GameRock__Grafikkarte@@100105341_7.jpg" loading="lazy" fetchpriority="low" alt="Palit GeForce RTX 5080 GameRock, Grafikkarte DLSS 4, 3x DisplayPort, 1x HDMI 2.1" class="cursor-magnify productPicture img-fluid img-sized" data-productid="100105341" data-bs-toggle="modal" data-bs-target="#product-image-media-modal-container-100105341" width="600" height="600" />
+
+              </div>
+          </div>
+          <div class="swiper-button-next d-sm-none"></div>
+        </div>
+        <div class="product-image-badges d-flex align-items-end">
+          <span class="pinned-award"></span>
+        </div>
+      </div>
+
+      <div class="product-image-media-pics">
+        <div class="text-center">
+          <small>Abb. kann vom Original abweichen.</small>
+        </div><div class="row justify-content-center flex-nowrap">
+          <div class="col-auto d-none d-sm-flex justify-content-center align-items-center position-relative">
+            <div class="swiper-button-prev"></div>
+          </div>
+          <div class="col-10 col-sm-8 col-lg-8">
+            <div class="swiper">
+              <div class="swiper-wrapper">
+                  <div class="swiper-slide border rounded d-flex justify-content-center align-items-center h-auto cursor-pointer overflow-hidden">
+                    <img src="/p/160x160/1/4/Palit_GeForce_RTX_5080_GameRock__Grafikkarte@@100105341.jpg" srcset="/p/160x160/1/4/Palit_GeForce_RTX_5080_GameRock__Grafikkarte@@100105341.jpg" loading="lazy" alt="Palit GeForce RTX 5080 GameRock, Grafikkarte DLSS 4, 3x DisplayPort, 1x HDMI 2.1" class="bg-white productPicture" width="60" height="60" />
+                  </div>
+                  <div class="swiper-slide border rounded d-flex justify-content-center align-items-center h-auto cursor-pointer overflow-hidden">
+                    <img src="/p/160x160/1/4/Palit_GeForce_RTX_5080_GameRock__Grafikkarte@@100105341_1.jpg" srcset="/p/160x160/1/4/Palit_GeForce_RTX_5080_GameRock__Grafikkarte@@100105341_1.jpg" loading="lazy" alt="Palit GeForce RTX 5080 GameRock, Grafikkarte DLSS 4, 3x DisplayPort, 1x HDMI 2.1" class="bg-white productPicture" width="60" height="60" />
+                  </div>
+                  <div class="swiper-slide border rounded d-flex justify-content-center align-items-center h-auto cursor-pointer overflow-hidden">
+                    <img src="/p/160x160/1/4/Palit_GeForce_RTX_5080_GameRock__Grafikkarte@@100105341_2.jpg" srcset="/p/160x160/1/4/Palit_GeForce_RTX_5080_GameRock__Grafikkarte@@100105341_2.jpg" loading="lazy" alt="Palit GeForce RTX 5080 GameRock, Grafikkarte DLSS 4, 3x DisplayPort, 1x HDMI 2.1" class="bg-white productPicture" width="60" height="60" />
+                  </div>
+                  <div class="swiper-slide border rounded d-flex justify-content-center align-items-center h-auto cursor-pointer overflow-hidden">
+                    <img src="/p/160x160/1/4/Palit_GeForce_RTX_5080_GameRock__Grafikkarte@@100105341_3.jpg" srcset="/p/160x160/1/4/Palit_GeForce_RTX_5080_GameRock__Grafikkarte@@100105341_3.jpg" loading="lazy" alt="Palit GeForce RTX 5080 GameRock, Grafikkarte DLSS 4, 3x DisplayPort, 1x HDMI 2.1" class="bg-white productPicture" width="60" height="60" />
+                  </div>
+                  <div class="swiper-slide border rounded d-flex justify-content-center align-items-center h-auto cursor-pointer overflow-hidden">
+                    <img src="/p/160x160/1/4/Palit_GeForce_RTX_5080_GameRock__Grafikkarte@@100105341_4.jpg" srcset="/p/160x160/1/4/Palit_GeForce_RTX_5080_GameRock__Grafikkarte@@100105341_4.jpg" loading="lazy" alt="Palit GeForce RTX 5080 GameRock, Grafikkarte DLSS 4, 3x DisplayPort, 1x HDMI 2.1" class="bg-white productPicture" width="60" height="60" />
+                  </div>
+                  <div class="swiper-slide border rounded d-flex justify-content-center align-items-center h-auto cursor-pointer overflow-hidden">
+                    <img src="/p/160x160/1/4/Palit_GeForce_RTX_5080_GameRock__Grafikkarte@@100105341_5.jpg" srcset="/p/160x160/1/4/Palit_GeForce_RTX_5080_GameRock__Grafikkarte@@100105341_5.jpg" loading="lazy" alt="Palit GeForce RTX 5080 GameRock, Grafikkarte DLSS 4, 3x DisplayPort, 1x HDMI 2.1" class="bg-white productPicture" width="60" height="60" />
+                  </div>
+                  <div class="swiper-slide border rounded d-flex justify-content-center align-items-center h-auto cursor-pointer overflow-hidden">
+                    <img src="/p/160x160/1/4/Palit_GeForce_RTX_5080_GameRock__Grafikkarte@@100105341_6.jpg" srcset="/p/160x160/1/4/Palit_GeForce_RTX_5080_GameRock__Grafikkarte@@100105341_6.jpg" loading="lazy" alt="Palit GeForce RTX 5080 GameRock, Grafikkarte DLSS 4, 3x DisplayPort, 1x HDMI 2.1" class="bg-white productPicture" width="60" height="60" />
+                  </div>
+                  <div class="swiper-slide border rounded d-flex justify-content-center align-items-center h-auto cursor-pointer overflow-hidden">
+                    <img src="/p/160x160/1/4/Palit_GeForce_RTX_5080_GameRock__Grafikkarte@@100105341_7.jpg" srcset="/p/160x160/1/4/Palit_GeForce_RTX_5080_GameRock__Grafikkarte@@100105341_7.jpg" loading="lazy" alt="Palit GeForce RTX 5080 GameRock, Grafikkarte DLSS 4, 3x DisplayPort, 1x HDMI 2.1" class="bg-white productPicture" width="60" height="60" />
+                  </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-auto d-none d-sm-flex justify-content-center align-items-center position-relative">
+            <div class="swiper-button-next"></div>
+          </div></div>
+
+      </div>
+
+    </div>
+
+
+    <div id="product-image-media-modal-container-100105341" class="modal product-image-media-modal-container" data-productid="100105341" tabindex="-1" aria-labelledby="product-image-media-modal-container" aria-hidden="true">
+      <div class="modal-dialog modal-fullscreen">
+        <div class="modal-content">
+          <div class="modal-header p-0">
+            <div class="slides-count ml-2" data-slides-count="$0 / $1"></div>
+            <div>
+              <button type="button" class="btn btn-zoom" title="zoom"><em class="fas fa-search-plus"></em></button>
+              <button type="button" class="btn btn-fullscreen" title="fullscreen"><em class="fas fa-expand"></em></button>
+              <button type="button" class="btn btn-close ml-2 mr-3" data-bs-dismiss="modal" aria-label="Schließen (Esc)"></button>
+            </div>
+          </div>
+          <div class="modal-body p-0 overflow-hidden">
+            <div class="product-image-media-big-modal">
+              <div class="swiper">
+                <div class="swiper-button-prev pl-3"></div>
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide text-center">
+                        <div class="swiper-zoom-container">
+                          <img src="data:image/gif;base64,R0lGODdhAQABAIAAAP///////ywAAAAAAQABAAACAkQBADs=" srcset="/p/o/1/4/Palit_GeForce_RTX_5080_GameRock__Grafikkarte@@100105341.jpg" loading="lazy" alt="Palit GeForce RTX 5080 GameRock, Grafikkarte DLSS 4, 3x DisplayPort, 1x HDMI 2.1" class="img-fluid" draggable="false" width="2000" height="2000" />
+                          <div class="swiper-lazy-preloader"></div>
+                        </div>
+
+                    </div>
+                    <div class="swiper-slide text-center">
+                        <div class="swiper-zoom-container">
+                          <img src="data:image/gif;base64,R0lGODdhAQABAIAAAP///////ywAAAAAAQABAAACAkQBADs=" srcset="/p/o/1/4/Palit_GeForce_RTX_5080_GameRock__Grafikkarte@@100105341_1.jpg" loading="lazy" alt="Palit GeForce RTX 5080 GameRock, Grafikkarte DLSS 4, 3x DisplayPort, 1x HDMI 2.1" class="img-fluid" draggable="false" width="2000" height="2000" />
+                          <div class="swiper-lazy-preloader"></div>
+                        </div>
+
+                    </div>
+                    <div class="swiper-slide text-center">
+                        <div class="swiper-zoom-container">
+                          <img src="data:image/gif;base64,R0lGODdhAQABAIAAAP///////ywAAAAAAQABAAACAkQBADs=" srcset="/p/o/1/4/Palit_GeForce_RTX_5080_GameRock__Grafikkarte@@100105341_2.jpg" loading="lazy" alt="Palit GeForce RTX 5080 GameRock, Grafikkarte DLSS 4, 3x DisplayPort, 1x HDMI 2.1" class="img-fluid" draggable="false" width="2000" height="2000" />
+                          <div class="swiper-lazy-preloader"></div>
+                        </div>
+
+                    </div>
+                    <div class="swiper-slide text-center">
+                        <div class="swiper-zoom-container">
+                          <img src="data:image/gif;base64,R0lGODdhAQABAIAAAP///////ywAAAAAAQABAAACAkQBADs=" srcset="/p/o/1/4/Palit_GeForce_RTX_5080_GameRock__Grafikkarte@@100105341_3.jpg" loading="lazy" alt="Palit GeForce RTX 5080 GameRock, Grafikkarte DLSS 4, 3x DisplayPort, 1x HDMI 2.1" class="img-fluid" draggable="false" width="2000" height="2000" />
+                          <div class="swiper-lazy-preloader"></div>
+                        </div>
+
+                    </div>
+                    <div class="swiper-slide text-center">
+                        <div class="swiper-zoom-container">
+                          <img src="data:image/gif;base64,R0lGODdhAQABAIAAAP///////ywAAAAAAQABAAACAkQBADs=" srcset="/p/o/1/4/Palit_GeForce_RTX_5080_GameRock__Grafikkarte@@100105341_4.jpg" loading="lazy" alt="Palit GeForce RTX 5080 GameRock, Grafikkarte DLSS 4, 3x DisplayPort, 1x HDMI 2.1" class="img-fluid" draggable="false" width="2000" height="2000" />
+                          <div class="swiper-lazy-preloader"></div>
+                        </div>
+
+                    </div>
+                    <div class="swiper-slide text-center">
+                        <div class="swiper-zoom-container">
+                          <img src="data:image/gif;base64,R0lGODdhAQABAIAAAP///////ywAAAAAAQABAAACAkQBADs=" srcset="/p/o/1/4/Palit_GeForce_RTX_5080_GameRock__Grafikkarte@@100105341_5.jpg" loading="lazy" alt="Palit GeForce RTX 5080 GameRock, Grafikkarte DLSS 4, 3x DisplayPort, 1x HDMI 2.1" class="img-fluid" draggable="false" width="2000" height="2000" />
+                          <div class="swiper-lazy-preloader"></div>
+                        </div>
+
+                    </div>
+                    <div class="swiper-slide text-center">
+                        <div class="swiper-zoom-container">
+                          <img src="data:image/gif;base64,R0lGODdhAQABAIAAAP///////ywAAAAAAQABAAACAkQBADs=" srcset="/p/o/1/4/Palit_GeForce_RTX_5080_GameRock__Grafikkarte@@100105341_6.jpg" loading="lazy" alt="Palit GeForce RTX 5080 GameRock, Grafikkarte DLSS 4, 3x DisplayPort, 1x HDMI 2.1" class="img-fluid" draggable="false" width="2000" height="2000" />
+                          <div class="swiper-lazy-preloader"></div>
+                        </div>
+
+                    </div>
+                    <div class="swiper-slide text-center">
+                        <div class="swiper-zoom-container">
+                          <img src="data:image/gif;base64,R0lGODdhAQABAIAAAP///////ywAAAAAAQABAAACAkQBADs=" srcset="/p/o/1/4/Palit_GeForce_RTX_5080_GameRock__Grafikkarte@@100105341_7.jpg" loading="lazy" alt="Palit GeForce RTX 5080 GameRock, Grafikkarte DLSS 4, 3x DisplayPort, 1x HDMI 2.1" class="img-fluid" draggable="false" width="2000" height="2000" />
+                          <div class="swiper-lazy-preloader"></div>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="swiper-button-next pr-3"></div>
+              </div>
+            </div>
+          </div>
+          <div class="modal-footer p-0 m-0 d-block">
+            <div class="product-image-media-pics-modal"><div class="row justify-content-center flex-nowrap">
+                <div class="col-auto position-relative">
+                  <div class="swiper-button-prev"></div>
+                </div>
+                <div class="col-10 col-sm-6 col-md-5 col-lg-3">
+                  <div class="swiper">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide border rounded d-flex justify-content-center align-items-center h-auto cursor-pointer overflow-hidden">
+                          <img src="data:image/gif;base64,R0lGODdhAQABAIAAAP///////ywAAAAAAQABAAACAkQBADs=" srcset="/p/160x160/1/4/Palit_GeForce_RTX_5080_GameRock__Grafikkarte@@100105341.jpg" loading="lazy" alt="Palit GeForce RTX 5080 GameRock, Grafikkarte DLSS 4, 3x DisplayPort, 1x HDMI 2.1" class="bg-white productPicture" width="60" height="60" />
+                        </div>
+                        <div class="swiper-slide border rounded d-flex justify-content-center align-items-center h-auto cursor-pointer overflow-hidden">
+                          <img src="data:image/gif;base64,R0lGODdhAQABAIAAAP///////ywAAAAAAQABAAACAkQBADs=" srcset="/p/160x160/1/4/Palit_GeForce_RTX_5080_GameRock__Grafikkarte@@100105341_1.jpg" loading="lazy" alt="Palit GeForce RTX 5080 GameRock, Grafikkarte DLSS 4, 3x DisplayPort, 1x HDMI 2.1" class="bg-white productPicture" width="60" height="60" />
+                        </div>
+                        <div class="swiper-slide border rounded d-flex justify-content-center align-items-center h-auto cursor-pointer overflow-hidden">
+                          <img src="data:image/gif;base64,R0lGODdhAQABAIAAAP///////ywAAAAAAQABAAACAkQBADs=" srcset="/p/160x160/1/4/Palit_GeForce_RTX_5080_GameRock__Grafikkarte@@100105341_2.jpg" loading="lazy" alt="Palit GeForce RTX 5080 GameRock, Grafikkarte DLSS 4, 3x DisplayPort, 1x HDMI 2.1" class="bg-white productPicture" width="60" height="60" />
+                        </div>
+                        <div class="swiper-slide border rounded d-flex justify-content-center align-items-center h-auto cursor-pointer overflow-hidden">
+                          <img src="data:image/gif;base64,R0lGODdhAQABAIAAAP///////ywAAAAAAQABAAACAkQBADs=" srcset="/p/160x160/1/4/Palit_GeForce_RTX_5080_GameRock__Grafikkarte@@100105341_3.jpg" loading="lazy" alt="Palit GeForce RTX 5080 GameRock, Grafikkarte DLSS 4, 3x DisplayPort, 1x HDMI 2.1" class="bg-white productPicture" width="60" height="60" />
+                        </div>
+                        <div class="swiper-slide border rounded d-flex justify-content-center align-items-center h-auto cursor-pointer overflow-hidden">
+                          <img src="data:image/gif;base64,R0lGODdhAQABAIAAAP///////ywAAAAAAQABAAACAkQBADs=" srcset="/p/160x160/1/4/Palit_GeForce_RTX_5080_GameRock__Grafikkarte@@100105341_4.jpg" loading="lazy" alt="Palit GeForce RTX 5080 GameRock, Grafikkarte DLSS 4, 3x DisplayPort, 1x HDMI 2.1" class="bg-white productPicture" width="60" height="60" />
+                        </div>
+                        <div class="swiper-slide border rounded d-flex justify-content-center align-items-center h-auto cursor-pointer overflow-hidden">
+                          <img src="data:image/gif;base64,R0lGODdhAQABAIAAAP///////ywAAAAAAQABAAACAkQBADs=" srcset="/p/160x160/1/4/Palit_GeForce_RTX_5080_GameRock__Grafikkarte@@100105341_5.jpg" loading="lazy" alt="Palit GeForce RTX 5080 GameRock, Grafikkarte DLSS 4, 3x DisplayPort, 1x HDMI 2.1" class="bg-white productPicture" width="60" height="60" />
+                        </div>
+                        <div class="swiper-slide border rounded d-flex justify-content-center align-items-center h-auto cursor-pointer overflow-hidden">
+                          <img src="data:image/gif;base64,R0lGODdhAQABAIAAAP///////ywAAAAAAQABAAACAkQBADs=" srcset="/p/160x160/1/4/Palit_GeForce_RTX_5080_GameRock__Grafikkarte@@100105341_6.jpg" loading="lazy" alt="Palit GeForce RTX 5080 GameRock, Grafikkarte DLSS 4, 3x DisplayPort, 1x HDMI 2.1" class="bg-white productPicture" width="60" height="60" />
+                        </div>
+                        <div class="swiper-slide border rounded d-flex justify-content-center align-items-center h-auto cursor-pointer overflow-hidden">
+                          <img src="data:image/gif;base64,R0lGODdhAQABAIAAAP///////ywAAAAAAQABAAACAkQBADs=" srcset="/p/160x160/1/4/Palit_GeForce_RTX_5080_GameRock__Grafikkarte@@100105341_7.jpg" loading="lazy" alt="Palit GeForce RTX 5080 GameRock, Grafikkarte DLSS 4, 3x DisplayPort, 1x HDMI 2.1" class="bg-white productPicture" width="60" height="60" />
+                        </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-auto position-relative">
+                  <div class="swiper-button-next"></div>
+                </div></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+                </div>
+
+                <div class="col-12 col-md-6 campaign-timer-container" id="product-top-right">
+    <div class="row py-3 border-bottom" id="tle-details-price-section"><div class="col campaign-timer-price-section">
+          <div class="row align-items-baseline text-center text-md-left">
+            <div class="col-12 col-md-auto"><span class="price ">€ 1.269,00</span>
+            </div>
+            <div class="col-12 col-md-auto">
+              <div class="d-flex flex-column justify-content-center justify-content-md-start base-price">
+                  <div id="shipping-price"><span class="mr-1">inkl. MwSt. und zzgl. Versandkosten ab</span><span class=" ">€ 7,99</span><span class="ml-1"></span>
+                  </div>
+              </div>
+            </div>
+          </div></div>
+    <div class="pp-message" data-pp-amount="1269.0" data-pp-placement="product" data-pp-clientid="AQygO67SkOeIN953SzFcv00xqZyvIbK-R6kaYZ3K4Oq2-4mhMgYxOq5qSjr6EWem88gYltQcnj0baJxz&amp;currency=EUR"></div>
+
+    <div class="modal fade" id="payment-more-infos" role="dialog">
+      <div class="modal-dialog modal-lg modal-dialog-centered" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <div class="modal-title font-bigger"></div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body"><div id="bs5">
+ <h1>Zahlungsarten</h1>
+ <div id="accordionPayment" class="accordion">
+  <!-- <div class="accordion-item">
+      <h2 class="accordion-header">
+        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#cod"
+          aria-expanded="true" aria-controls="cod">
+          Zahlung per Bar-Nachnahme
+        </button>
+      </h2>
+        <div id="cod" class="accordion-collapse collapse" data-bs-parent="#accordionPayment">
+          <div class="accordion-body">
+            <ul>
+              <li>
+                <p>Sie können alle angebotenen Artikel bestellen.</p>
+              </li>
+              <li>
+                <p>Der Versand erfolgt, sobald alle Artikel verfügbar sind.</p>
+              </li>
+              <li>
+                <p>Der Rechnungsbetrag (zzgl. Nachnahmegebühren) muss bei Auslieferung der Sendung in bar an den Zusteller entrichtet werden.</p>
+              </li>
+              <li>
+                <p>Es fallen € 7,90 Nachnahmegebühr an.</p>
+              </li>
+              <li>
+                <p>Der maximale Bestellwert liegt bei € 3.500.</p></li>
+                    <li>Der Kauf von Speditionsartikeln kann nicht mit der Zahlart Bar-Nachnahme erfolgen.</li>
+            </ul>
+            Achtung: Die Zusteller händigen die bestellte Ware nur gegen den kompletten Betrag in bar aus. Bitte halten Sie die Summe passend bereit, um Wechselgeldprobleme zu vermeiden.
+          </div>
+        </div>
+      </div> -->
+  <div class="accordion-item">
+   <h2 class="accordion-header">
+    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#prepay" aria-expanded="true" aria-controls="prepay">Zahlung per Vorkasse</button></h2>
+   <div id="prepay" class="accordion-collapse collapse" data-bs-parent="#accordionPayment">
+    <div class="accordion-body">
+     <ul style="margin-bottom: 20px;">
+      <li>
+       <p>Artikel mit begrenzter Verfügbarkeit/hoher Nachfrage sowie Outlet Artikel können nicht bestellt werden.</p></li>
+      <li>
+       <p>Nachdem Sie den Bestellvorgang abgeschlossen haben, erhalten Sie alle nötigen Bankdaten, die für die Transaktion von Belang sind. Der Versand Ihrer Bestellung erfolgt nach Zahlungseingang.</p></li>
+      <li>
+       <p>Bitte unbedingt den exakten Rechnungsbetrag überweisen, nicht Auf- oder Abrunden.</p></li>
+     </ul> Bankverbindung 
+     <br>
+     <br>
+     <table>
+      <tbody>
+       <tr>
+        <td>Empfänger:</td>
+        <td>ALTERNATE GmbH</td>
+       </tr>
+       <tr>
+        <td>Bank:</td>
+        <td>Commerzbank AG</td>
+       </tr>
+       <tr>
+        <td>IBAN:</td>
+        <td>DE30 5138 0040 0880 8910 03</td>
+       </tr>
+       <tr>
+        <td>BIC:</td>
+        <td>DRESDEFF513</td>
+       </tr>
+      </tbody>
+     </table>
+     <br>
+      Bitte beachten: Banküberweisungen dauern in der Regel 1-2 Werktage, darüber hinaus behalten wir uns einen Werktag zur Bearbeitung vor. Die Transaktion bei der Zahlungsart Vorkasse verzögert die Auslieferung dementsprechend.
+    </div>
+   </div>
+  </div>
+  <div class="accordion-item">
+   <h2 class="accordion-header">
+    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#ppx" aria-expanded="true" aria-controls="ppx">Zahlung per PayPal</button></h2>
+   <div id="ppx" class="accordion-collapse collapse" data-bs-parent="#accordionPayment">
+    <div class="accordion-body">
+     <ul>
+      <li>
+       <p>Nach Absenden der Bestellung werden Sie zu PayPal weitergeleitet. Dort erfolgt durch Klicken des Buttons "Zahlung" die Buchung.</p></li>
+      <li>
+       <p>Um die Zahlung via PayPal durchführen zu können, benötigen Sie ein PayPal-Konto.</p></li>
+      <li>
+       <p>Anmeldung: <a href="https://www.paypal.de/anmeldung" target="_blank" title="www.paypal.de/anmeldung">www.paypal.de/anmeldung</a>.</p></li>
+      <li>
+       <p>Der Versand erfolgt, sobald wir einen Zahlungseingang feststellen konnten und alle Artikel verfügbar sind.</p></li>
+      <li>
+       <p>Eine abweichende Lieferadresse kann nur vor Abschließen des Bestellvorgangs eingetragen werden, danach ist eine Änderung nicht mehr möglich.</p></li>
+      <li>
+       <p>Der maximale Bestellwert liegt bei € 8.000 inkl. Versandkosten.</p></li>
+      <li>
+       <p>Bei der Bezahlung per PayPal ist eine nachträgliche Änderung der Lieferadresse nach dem Bestelleingang nicht mehr möglich.</p></li>
+      <li>
+       <p>Ob Ihnen eine Ratenzahlung zur Verfügung steht, erfahren Sie nach dem Absenden der Bestellung in den Bestell/Bezahlinformationen auf der Seite von PayPal</p></li>
+     </ul>
+     <br>
+      Bei Express-Zahlungen ist die Verrechnung von produktbezogenen Gutscheinen (Rabattaktionen durch einen Code) und des Newslettergutscheins nicht möglich. 
+     <br>
+     <br><strong>PayPal - Kundenservice</strong>
+     <br>
+     <br>
+      Mo-Sa: 08:00 - 19:30 Uhr 
+     <br>
+      Tel: 0 800 - 723 4500 
+     <br>
+     <br>
+      (Der Anruf aus dem deutschen Festnetz ist kostenfrei) 
+     <br>
+    </div>
+   </div>
+  </div>
+  <div class="accordion-item">
+   <h2 class="accordion-header">
+    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#creditcard" aria-expanded="true" aria-controls="creditcard">Zahlung per Kreditkarte</button></h2>
+   <div id="creditcard" class="accordion-collapse collapse" data-bs-parent="#accordionPayment">
+    <div class="accordion-body">
+     <ul>
+      <li>
+       <p>Es können alle Artikel bestellt werden, außer bei der Verfügbarkeitsanzeige "Liefertermin unbekannt" sowie "Artikel kann nicht gekauft werden".</p></li>
+      <li>
+       <p>Der Versand erfolgt, sobald wir einen Zahlungseingang feststellen konnten und alle Artikel verfügbar sind.</p></li>
+      <li>
+       <p>Eine abweichende Lieferadresse kann genutzt werden.</p></li>
+      <li>
+       <p>Der maximale Bestellwert liegt bei € 5.000 inkl. Versandkosten.</p></li>
+      <li>
+       <p>Es werden nur Kreditkarten von VISA und Master-Card akzeptiert.</p></li>
+     </ul>
+    </div>
+   </div>
+  </div>  
+  <div class="accordion-item">
+   <h2 class="accordion-header">
+    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#shop" aria-expanded="true" aria-controls="shop">Zahlungsarten vor Ort</button></h2>
+   <div id="shop" class="accordion-collapse collapse" data-bs-parent="#accordionPayment">
+    <div class="accordion-body">
+     <span style="font-size: 10pt;"> Als Zahlungsmöglichkeiten in unseren Stores vor Ort in Linden stehen Ihnen zur Verfügung: <br><br></span>
+     <ul>
+      <li>
+       <p>Bar bis € 10.000 (ab 10.000€ muss die Bestellung auf ein Kundenkonto angelegt werden)</p></li>
+      <li>
+       <p>EC Cash</p></li>
+      <li>
+       <p>Kreditkarte (nur kontaktlos)</p></li>
+      <li>
+       <p>Gutschein</p></li>
+     </ul><span style="font-size: 10pt;"> Bitte beachten Sie, dass der maximale Auftragswert für Onlinebestellungen zur Abholung derzeit 3.000 EUR beträgt. Bei höheren Auftragswerten bitten wir Sie, Ihre Bestellung vor Ort oder telefonisch aufzugeben. </span>
+     <br><span style="font-size: 10pt;"> In Pohlheim-Garbenteich kann nur per Karte bezahlt werden. </span>
+    </div>
+   </div>
+  </div>
+  <div class="accordion-item">
+   <h2 class="accordion-header">
+    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#applepay" aria-expanded="true" aria-controls="applepay">Zahlung per ApplePay</button></h2>
+   <div id="applepay" class="accordion-collapse collapse" data-bs-parent="#accordionPayment" style="">
+    <div class="accordion-body">
+     <ul>
+      <li>
+       <p>ApplePay steht nur auf Apple Geräten zur Verfügung.</p></li>
+      <li>
+       <p>Um die Zahlung via Apple Pay durchführen zu können, müssen Sie in der Apple Wallet App eine Visa- oder Mastercard hinzufügen (andere Karten werden nicht akzeptiert).</p></li>
+      <li>
+       <p>Der Versand erfolgt, sobald wir einen Zahlungseingang feststellen konnten und alle Artikel verfügbar sind.</p></li>
+      <li>
+       <p>Eine abweichende Lieferadresse kann nur vor Abschließen des Bestellvorgangs eingetragen werden, danach ist eine Änderung nicht mehr möglich.</p></li>
+      <li>
+       <p>Der maximale Bestellwert liegt bei € 5.000 inkl. Versandkosten.</p></li>
+     </ul>
+    </div>
+   </div>
+  </div>
+  <div class="accordion-item">
+   <h2 class="accordion-header">
+    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#klarna" aria-expanded="true" aria-controls="klarna">Zahlung per Klarna</button></h2>
+   <div id="klarna" class="accordion-collapse collapse" data-bs-parent="#accordionPayment" style="">
+    <div class="accordion-body">
+     <ul>
+      <li>
+       <p>Legen Sie alle gewünschten Artikel in den Warenkorb und wählen Sie an der Kasse "Klarna" aus.</p></li>
+      <li>
+       <p>Geben Sie die erforderlichen persönlichen Daten ein. Danach erfahren Sie sofort, ob die Bezahlung genehmigt wird.</p></li>
+      <li>
+       <p>Klarna schickt Ihnen eine Bestellbestätigung per E-Mail und erinnert Sie, wenn es an der Zeit ist, zu bezahlen.</p></li>
+      <li>
+       <p>Der Versand erfolgt, sobald alle Artikel verfügbar sind.</p></li>
+      <li>
+       <p>Eine abweichende Lieferadresse kann nur vor Abschließen des Bestellvorgangs eingetragen werden, danach ist eine Änderung nicht mehr möglich.</p></li>
+      <li>
+       <p>Der maximale Bestellwert liegt bei € 5.000 inkl. Versandkosten.</p></li>
+      <li>
+       <p>Bei der Bezahlung per Klarna ist eine nachträgliche Änderung der Liefer- und/oder Rechnungsadresse nach dem Bestelleingang nicht mehr möglich.</p></li>
+      <li>
+       <p>Bestellungen zur Abholung in unserem Ladengeschäft in Linden sind nicht mit der Zahlart Klarna möglich.</p></li>
+      <li>
+       <p>Aktuell können nur lagernde Artikel mit der Zahlart Klarna bestellt werden.</p></li>
+      <li>
+       <p>Der Kauf von Gutscheinen ist aktuell mit der Zahlart Klarna nicht möglich.</p></li>
+     </ul>
+    </div>
+   </div>
+  </div>
+ </div>
+</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    </div>
+      <div class="row border-bottom py-3" id="product-free-additions">
+            <div class="col-12">
+              <em class="fas fa-plus-circle mr-1"></em>inkl.  DOOM: The Dark Ages - RTX 50 Series bundle (Code auf Rechnung), Gutschein
+            </div>
+      </div>
+    <div class="row border-bottom">
+        <a href="#product-details-tab" id="product-details-anchor" class="col details-info-tile" title="Details" aria-label="Sprungmarke zu Details">
+          <img class="d-block mx-auto my-auto" src="/mobile/jakarta.faces.resource/icons/Details.svg.xhtml?ln=pix" alt="Details" width="25" height="25" />
+          <span class="icon-click-size">
+            <span class="text-center mb-0">Details</span>
+          </span>
+        </a>
+        <div class="col details-info-tile"><a href="/addRating.xhtml?p=100105341" title="Jetzt bewerten" class="text-decoration-none my-auto"><span class="ratingstars"><img src="/jakarta.faces.resource/pix/fontawesome/regular/star.svg.xhtml" alt="Leerer Stern" width="20" height="20" loading="lazy" aria-hidden="true" /><img src="/jakarta.faces.resource/pix/fontawesome/regular/star.svg.xhtml" alt="Leerer Stern" width="20" height="20" loading="lazy" aria-hidden="true" /><img src="/jakarta.faces.resource/pix/fontawesome/regular/star.svg.xhtml" alt="Leerer Stern" width="20" height="20" loading="lazy" aria-hidden="true" /><img src="/jakarta.faces.resource/pix/fontawesome/regular/star.svg.xhtml" alt="Leerer Stern" width="20" height="20" loading="lazy" aria-hidden="true" /><img src="/jakarta.faces.resource/pix/fontawesome/regular/star.svg.xhtml" alt="Leerer Stern" width="20" height="20" loading="lazy" aria-hidden="true" /></span></a><a href="/addRating.xhtml?p=100105341" title="Jetzt bewerten" class="text-center"><span class="icon-click-size">Jetzt bewerten</span></a>
+        </div>
+
+    </div>
+<form id="add-to-cart-form" name="add-to-cart-form" method="post" action="/mobile/details.xhtml" class="tp-form" enctype="application/x-www-form-urlencoded">
+<input type="hidden" name="add-to-cart-form" value="add-to-cart-form" />
+
+                      <div class="row gx-2 justify-content-center align-items-center text-center mt-4">
+                        <div class="col-12 col-lg"><label for="add-to-cart-form:warrantyextension" class="fw-bold">Das Produkt länger schützen?</label>
+                        </div>
+                        <div class="col-12 col-lg-auto mt-2 mt-xl-0">
+                          <div class="d-flex flex-nowrap align-items-center"><select id="add-to-cart-form:warrantyextension" name="add-to-cart-form:warrantyextension" class="form-select text-center" size="1" aria-label="ALTERNATE Produktschutz">	<option value="-1" selected="selected">Kein Produktschutz</option>
+	<option value="1910947">ALTERNATE Produktschutz auf 4 J.  PC3  (+ € 129,90)</option>
+	<option value="1911036">ALTERNATE Produktschutz auf 5 J.  PC3  (+ € 229,90)</option>
+</select>
+                            <button type="button" class="btn btn-link icon-click-size cursor-pointer" data-bs-toggle="popover" data-bs-placement="top" data-bs-content="Mit diesem Produktschutz schließen Sie eine Reparaturkostenversicherung für den erworbenen Zeitraum ab.&lt;br&gt;
+Bitte beachten Sie: Der Erwerb einer Reparaturkostenversicherung lässt Ihre gesetzlichen Gewährleistungsrechte unberührt. Diese stehen Ihnen innerhalb der Gewährleistungszeit, unabhängig vom Erwerb einer Reparaturkosten­versicherung, von Gesetzes wegen zu.&lt;br&gt;
+&lt;!--&lt;div id=&quot;bs4&quot;&gt;&lt;/div&gt;--&gt;&lt;a href=&quot;/Produktschutz&quot; target=&quot;_warranty&quot; class=&quot;d-block font-weight-bold text-font mt-1&quot;&gt;Mehr Informationen&lt;/a&gt;" aria-label="Mehr Informationen zum ALTERNATE Produktschutz">
+                              <em class="fas fa-info-circle text-gray-darker font-biggest" aria-hidden="true"></em>
+                            </button>
+
+                          </div>
+                        </div>
+                      </div>
+      <div class="row border-bottom">
+        <div class="col-12 p-3 text-center">
+          <span class="d-flex justify-content-center align-items-center">
+              <strong class="availability-text" style="color: var(--availability-GREEN);">Auf Lager
+              </strong>
+              <button class="btn btn-link cursor-pointer icon-click-size" type="button" data-bs-toggle="popover" data-bs-placement="top" data-bs-content="Lieferung zwischen Fr. 23. und Sa. 24. Mai. Ihre gewählten Versand- und Zahlungsoptionen können den Liefertermin ggf. verzögern. Genauere Informationen erhalten Sie am Ende des Bestellvorgangs." aria-label="Mehr Informationen zur Verfügbarkeit">
+                <em class="fas fa-info-circle text-gray-darker font-biggest" aria-hidden="true"></em>
+              </button>
+          </span>
+        </div>
+      </div><div id="add-to-cart-form:add-to-cart-section" class="row">
+                        <div class="col-12"><div class="border-bottom">
+      <div class="row my-3 gy-2 justify-content-center">
+          <div class="col-auto d-flex">
+            <div class="row align-items-center"><div id="add-to-cart-form:tle-details-add-to-cart-button:quantity-section" class="col-12 col-lg-auto order-lg-1 text-center text-nowrap"><label for="add-to-cart-form:tle-details-add-to-cart-button:quantity" class="visually-hidden">Menge wählen</label><input id="add-to-cart-form:tle-details-add-to-cart-button:j_idt861" type="submit" name="add-to-cart-form:tle-details-add-to-cart-button:j_idt861" value="" disabled="disabled" class="btn btn-outline-gray d-inline-block font-awesome mb-1 mx-2 py-2" aria-label="Menge reduzieren" /><input id="add-to-cart-form:tle-details-add-to-cart-button:quantity" name="add-to-cart-form:tle-details-add-to-cart-button:quantity" value="1" class="quantity-input d-inline-block form-control form-control-lg w-35" onchange="mojarra.ab(this,event,'valueChange',0,'add-to-cart-form:tle-details-add-to-cart-button:quantity-section')" min="1" inputmode="decimal" max="2" type="number" /><input id="add-to-cart-form:tle-details-add-to-cart-button:j_idt862" type="submit" name="add-to-cart-form:tle-details-add-to-cart-button:j_idt862" value="" class="btn btn-outline-gray d-inline-block font-awesome mb-1 mx-2 py-2" onclick="mojarra.ab(this,event,'action',0,'add-to-cart-form:tle-details-add-to-cart-button:quantity-section');return false" aria-label="Menge erhöhen" /></div>
+            </div>
+          </div>
+
+        <div class="col-12">
+
+          <a class="add-to-cart details-cart-button btn btn-primary btn-lg d-flex justify-content-center tp-button btn-season" href="#" title="In den Warenkorb" role="button">
+            <em class="fas fa-cog fa-spin d-none"></em>
+            <span class="cart-btn-text"><img src="/mobile/jakarta.faces.resource/icons/Warenkorb-white.svg.xhtml?ln=pix" alt="In den Warenkorb" height="20" width="20" /><span class="mx-2">In den Warenkorb</span>
+            </span>
+          </a><input id="add-to-cart-form:tle-details-add-to-cart-button:add-to-cart-btn" type="submit" name="add-to-cart-form:tle-details-add-to-cart-button:add-to-cart-btn" value="In den Warenkorb" class="d-none add-to-cart" onclick="mojarra.ab(this,event,'action','@form','@form tle-add-to-cart-modal:add-to-cart-modal-dialog messages tle-soft-bundle-abc:add-to-cart-form');return false" translate="no"><input type="hidden" name="add-to-cart-form:tle-details-add-to-cart-button:j_idt868:j_idt871" value="" />
+      <input type="hidden" name="tp-vt" value="3635ae533e3bb714f96c103a260b8562" />
+      <input type="hidden" name="tp-ft" value="2f756b85149c88a6c76a6a54e3e75789" />
+      <input type="hidden" name="tp-rt" value="2770" /></input>
+
+        </div>
+      </div></div>
+                        </div></div>
+    <nav class="fixed-top shadow pt-3 pb-0" id="details-fixed-header" style="display:none;">
+      <div class="container d-flex flex-column justify-content-between h-100">
+        <div class="row align-items-center w-100">
+          <div class="col-8 text-truncate">
+            <strong class="product-name">Palit GeForce RTX 5080 GameRock, Grafikkarte</strong>
+          </div>
+          <div class="col-4"><div class="">
+      <div class="row  gy-2 justify-content-center">
+
+        <div class="col-12">
+
+          <a class="add-to-cart details-cart-button btn btn-primary btn-lg d-flex justify-content-center tp-button btn-season" href="#" title="In den Warenkorb" role="button">
+            <em class="fas fa-cog fa-spin d-none"></em>
+            <span class="cart-btn-text"><img src="/mobile/jakarta.faces.resource/icons/Warenkorb-white.svg.xhtml?ln=pix" alt="In den Warenkorb" height="20" width="20" /><span class="mx-2">In den Warenkorb</span>
+            </span>
+          </a><input id="add-to-cart-form:tle-details-fixed-container:tle-details-fixed-header:add-to-cart-btn" type="submit" name="add-to-cart-form:tle-details-fixed-container:tle-details-fixed-header:add-to-cart-btn" value="In den Warenkorb" class="d-none add-to-cart" onclick="mojarra.ab(this,event,'action','@form','@form tle-add-to-cart-modal:add-to-cart-modal-dialog messages tle-soft-bundle-abc:add-to-cart-form');return false" translate="no"><input type="hidden" name="add-to-cart-form:tle-details-fixed-container:tle-details-fixed-header:j_idt967:j_idt970" value="" />
+      <input type="hidden" name="tp-vt" value="3635ae533e3bb714f96c103a260b8562" />
+      <input type="hidden" name="tp-ft" value="2f756b85149c88a6c76a6a54e3e75789" />
+      <input type="hidden" name="tp-rt" value="2769" /></input>
+
+        </div>
+      </div></div>
+          </div>
+        </div>
+        <div class="nav-product-details swiper-nav-container">
+
+    <div class="nav-product-details swiper-nav-container ">
+      <div class="swiper swiper-nav-tabs nav nav-tabs " role="tablist" data-slides="auto" id="header-product-nav">
+        <div class="swiper-wrapper">
+            <div class="swiper-slide" data-nav-slide="product-description">
+              <div class="nav-item">
+                <a href="#product-description-tab" class="nav-link" role="tab" aria-controls="product-description-tab" aria-selected="true">Produktbeschreibung</a>
+              </div>
+            </div>
+            <div class="swiper-slide" data-nav-slide="product-details">
+              <div class="nav-item">
+                <a href="#product-details-tab" class="nav-link" role="tab" aria-controls="product-details-tab" aria-selected="true">Details</a>
+              </div>
+            </div>
+            <div class="swiper-slide" data-nav-slide="product-questionanswers">
+              <div class="nav-item">
+                <div data-anchor="#lazyQuestionAnswer" class="nav-link" onclick="global.handleExternalContentBeforeNavSlideAnchor(this)" role="tab" aria-controls="lazyQuestionAnswer" aria-selected="true">Kunden fragen Kunden</div>
+              </div>
+            </div>
+            <div class="swiper-slide" data-nav-slide="product-ratings">
+              <div class="nav-item">
+                <div data-anchor="#lazyRatings" class="nav-link" onclick="global.handleExternalContentBeforeNavSlideAnchor(this, event)" role="tab" aria-controls="lazyRatings" aria-selected="true">Bewertungen</div>
+              </div>
+            </div>
+        </div>
+      </div>
+    </div>
+        </div>
+      </div>
+    </nav>
+
+    <nav class="fixed-bottom shadow-top" id="details-fixed-footer" style="display:none;">
+      <div class="container pb-2">
+
+    <div class="nav-product-details swiper-nav-container mb-2">
+      <div class="swiper swiper-nav-tabs nav nav-tabs nav-active-top" role="tablist" data-slides="auto" id="footer-product-nav">
+        <div class="swiper-wrapper">
+            <div class="swiper-slide" data-nav-slide="product-description">
+              <div class="nav-item">
+                <a href="#product-description-tab" class="nav-link" role="tab" aria-controls="product-description-tab" aria-selected="true">Produktbeschreibung</a>
+              </div>
+            </div>
+            <div class="swiper-slide" data-nav-slide="product-details">
+              <div class="nav-item">
+                <a href="#product-details-tab" class="nav-link" role="tab" aria-controls="product-details-tab" aria-selected="true">Details</a>
+              </div>
+            </div>
+            <div class="swiper-slide" data-nav-slide="product-questionanswers">
+              <div class="nav-item">
+                <div data-anchor="#lazyQuestionAnswer" class="nav-link" onclick="global.handleExternalContentBeforeNavSlideAnchor(this)" role="tab" aria-controls="lazyQuestionAnswer" aria-selected="true">Kunden fragen Kunden</div>
+              </div>
+            </div>
+            <div class="swiper-slide" data-nav-slide="product-ratings">
+              <div class="nav-item">
+                <div data-anchor="#lazyRatings" class="nav-link" onclick="global.handleExternalContentBeforeNavSlideAnchor(this, event)" role="tab" aria-controls="lazyRatings" aria-selected="true">Bewertungen</div>
+              </div>
+            </div>
+        </div>
+      </div>
+    </div><div class="">
+      <div class="row gx-3 gy-2 justify-content-center">
+
+        <div class="col-12">
+
+          <a class="add-to-cart details-cart-button btn btn-primary btn-lg d-flex justify-content-center tp-button btn-season" href="#" title="In den Warenkorb" role="button">
+            <em class="fas fa-cog fa-spin d-none"></em>
+            <span class="cart-btn-text"><img src="/mobile/jakarta.faces.resource/icons/Warenkorb-white.svg.xhtml?ln=pix" alt="In den Warenkorb" height="20" width="20" /><span class="mx-2">In den Warenkorb</span>
+            </span>
+          </a><input id="add-to-cart-form:tle-details-fixed-container:tle-details-fixed-footer:add-to-cart-btn" type="submit" name="add-to-cart-form:tle-details-fixed-container:tle-details-fixed-footer:add-to-cart-btn" value="In den Warenkorb" class="d-none add-to-cart" onclick="mojarra.ab(this,event,'action','@form','@form tle-add-to-cart-modal:add-to-cart-modal-dialog messages tle-soft-bundle-abc:add-to-cart-form');return false" translate="no"><input type="hidden" name="add-to-cart-form:tle-details-fixed-container:tle-details-fixed-footer:j_idt1083:j_idt1085" value="" />
+      <input type="hidden" name="tp-vt" value="3635ae533e3bb714f96c103a260b8562" />
+      <input type="hidden" name="tp-ft" value="2f756b85149c88a6c76a6a54e3e75789" />
+      <input type="hidden" name="tp-rt" value="2746" /></input>
+
+        </div>
+      </div></div>
+      </div>
+    </nav>
+                    <input type="hidden" name="p" value="100105341" /><input type="hidden" name="jakarta.faces.ViewState" id="j_id1:jakarta.faces.ViewState:0" value="-2973368341139355445:8014072433774477238" autocomplete="off" />
+</form>
+
+                  <div class="row justify-content-around pt-3" id="additional-feature-section">
+                    <div id="product-wishlist" class="col-auto">
+<form id="wishlist-form" name="wishlist-form" method="post" action="/mobile/details.xhtml" enctype="application/x-www-form-urlencoded">
+<input type="hidden" name="wishlist-form" value="wishlist-form" />
+<a id="wishlist-form:add-btn" href="#" rel="nofollow" title="Auf die Merkliste" onclick="mojarra.ab(this,event,'click','@this','@form');return false" class="icon-click-size text-center">
+                          <img src="/mobile/jakarta.faces.resource/icons/Herz_nicht_gesetzt.svg.xhtml?ln=pix" alt="Auf die Merkliste" class="invert" width="20" height="20" /><span class="ml-2 d-none d-lg-inline">Auf die Merkliste</span></a>
+                        <input type="hidden" name="p" value="100105341" /><input type="hidden" name="jakarta.faces.ViewState" id="j_id1:jakarta.faces.ViewState:1" value="-2973368341139355445:8014072433774477238" autocomplete="off" />
+</form>
+                    </div>
+<form id="notification_modal_button_pricelimit:details_notification_modal_button_details_icon" name="notification_modal_button_pricelimit:details_notification_modal_button_details_icon" method="post" action="/mobile/details.xhtml" class="col-auto" enctype="application/x-www-form-urlencoded">
+<input type="hidden" name="notification_modal_button_pricelimit:details_notification_modal_button_details_icon" value="notification_modal_button_pricelimit:details_notification_modal_button_details_icon" />
+<a id="notification_modal_button_pricelimit:details_notification_modal_button_details_icon:j_idt1155" href="#" rel="nofollow" title="Informiere mich" onclick="mojarra.ab(this,event,'action',0,'notification_modal:product-notification-modal-form:modalcontent',{'params':{'p':'100105341'}});return false" class="icon-click-size text-center pointer" data-bs-target=".product-notification-modal_100105341" data-bs-toggle="modal"><img src="/mobile/jakarta.faces.resource/icons/Glocke_inaktiv.svg.xhtml?ln=pix" alt="Vergleichen" height="20" width="20" class="invert" /><span class="ml-2 d-none d-lg-inline">Informiere mich</span></a><input type="hidden" name="jakarta.faces.ViewState" id="j_id1:jakarta.faces.ViewState:2" value="-2973368341139355445:8014072433774477238" autocomplete="off" />
+</form>
+<form id="compare-form" name="compare-form" method="post" action="/mobile/details.xhtml" class="col-auto" enctype="application/x-www-form-urlencoded">
+<input type="hidden" name="compare-form" value="compare-form" />
+<a href="#" onclick="faces.util.chain(this,event,'global.disableAfterTimeout(this.id);','mojarra.cljs(document.getElementById(\'compare-form\'),{\'compare-form:j_idt1167\':\'compare-form:j_idt1167\',\'p_compare\':\'100105341\'},\'compare\')');return false" class="icon-click-size text-center" target="compare"><img src="/mobile/jakarta.faces.resource/icons/Vergleichen.svg.xhtml?ln=pix" alt="Vergleichen" height="20" width="20" class="invert" /><span class="ml-2 d-none d-lg-inline">Vergleichen</span></a><input type="hidden" name="jakarta.faces.ViewState" id="j_id1:jakarta.faces.ViewState:3" value="-2973368341139355445:8014072433774477238" autocomplete="off" />
+</form>
+<form id="j_idt1172" name="j_idt1172" method="post" action="/mobile/details.xhtml" class="col-auto" enctype="application/x-www-form-urlencoded">
+<input type="hidden" name="j_idt1172" value="j_idt1172" />
+<a id="j_idt1172:j_idt1173" href="#" rel="nofollow" onclick="mojarra.ab(this,event,'action',0,'share_modal');return false" class="icon-click-size text-center" data-bs-target=".product-share-modal" data-bs-toggle="modal"><img src="/mobile/jakarta.faces.resource/icons/Share.svg.xhtml?ln=pix" alt="Teilen" height="20" width="20" class="invert" /><span class="ml-2 d-none d-lg-inline">Teilen</span>
+                        <input type="hidden" name="p" value="100105341" /></a><input type="hidden" name="jakarta.faces.ViewState" id="j_id1:jakarta.faces.ViewState:4" value="-2973368341139355445:8014072433774477238" autocomplete="off" />
+</form>
+
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+    <h2 class="font-bigger">Gemeinsam günstiger</h2>
+
+    <div class="row mb-3 soft-bundle-abc-container">
+
+      <div class="col-12 col-lg-9 mb-3 mb-lg-0 order-2 order-md-1">
+        <div class="row gx-3"><div id="tle-soft-bundle-abc:soft-bundle-b" class="col-12 col-md-6">
+            <div class="grid-container h-100">
+              <div class="align-self-center text-center mt-3 mt-md-0">
+                <i class="fas fa-plus-circle font-biggest"></i>
+              </div>
+              <div class="mw-0 position-relative">
+                <div class="swiper swiper-soft-bundle h-100" data-slides="1" data-space="10" data-pagination="#tle-soft-bundle-abc-pagination-b" data-pagination-max="5">
+                  <div class="swiper-wrapper">
+    <div class="swiper-slide" data-bundle-product-kid="100112860" data-bundle-part="B">
+      <a href="https://www.alternate.de/be-quiet/POWER-ZONE-2-1000W-PC-Netzteil/html/product/100112860" class="card h-100 text-center text-sm-left text-md-center text-lg-left">
+        <span class="card-body">
+          <span class="row gx-3 mb-2">
+            <span class="col-12 col-sm-auto col-md-12 col-lg-auto">
+      <img src="/p/160x160/0/6/be_quiet__POWER_ZONE_2_1000W__PC_Netzteil@@100112860.jpg" loading="lazy" alt="be quiet! POWER ZONE 2 1000W, PC-Netzteil schwarz, 1x 12 Pin High Power GPU, 3x PCIe, 1000 Watt" class="productPicture img-fluid m-auto  " width="160" height="160" />
+            </span>
+            <span class="col-12 col-sm col-md-12 col-lg pr-3 py-2">
+              <span class="font-weight-bold d-block">
+                be quiet! POWER ZONE 2 1000W, PC-Netzteil
+              </span><span class="ratingstars" aria-description="5.0 Sterne bei 8 Bewertungen"><img src="/jakarta.faces.resource/pix/fontawesome/star.svg.xhtml" alt="Voller Stern" width="20" height="20" loading="lazy" aria-hidden="true" /><img src="/jakarta.faces.resource/pix/fontawesome/star.svg.xhtml" alt="Voller Stern" width="20" height="20" loading="lazy" aria-hidden="true" /><img src="/jakarta.faces.resource/pix/fontawesome/star.svg.xhtml" alt="Voller Stern" width="20" height="20" loading="lazy" aria-hidden="true" /><img src="/jakarta.faces.resource/pix/fontawesome/star.svg.xhtml" alt="Voller Stern" width="20" height="20" loading="lazy" aria-hidden="true" /><img src="/jakarta.faces.resource/pix/fontawesome/star.svg.xhtml" alt="Voller Stern" width="20" height="20" loading="lazy" aria-hidden="true" /></span><span id="tle-soft-bundle-abc:productsB:0:tle-entry:bundle-price" class="mt-2 d-block">
+                Im Kombi-Angebot für nur
+                <span class="text-nowrap ">€ 145,90</span></span>
+              <span class="d-block">
+                Einzelpreis:
+                <span class="text-nowrap ">€ 163,90</span>
+              </span>
+            </span>
+          </span>
+        </span>
+      </a>
+    </div>
+    <div class="swiper-slide" data-bundle-product-kid="1628178" data-bundle-part="B">
+      <a href="https://www.alternate.de/Sharkoon/1337-RGB-V2-Gaming-Mat-360-Gaming-Mauspad/html/product/1628178" class="card h-100 text-center text-sm-left text-md-center text-lg-left">
+        <span class="card-body">
+          <span class="row gx-3 mb-2">
+            <span class="col-12 col-sm-auto col-md-12 col-lg-auto">
+      <img src="/p/160x160/n/Sharkoon_1337_RGB_V2_Gaming_Mat_360__Gaming_Mauspad@@nmps30a.jpg" loading="lazy" alt="Sharkoon 1337 RGB V2 Gaming Mat 360, Gaming-Mauspad schwarz" class="productPicture img-fluid m-auto  " width="160" height="160" />
+            </span>
+            <span class="col-12 col-sm col-md-12 col-lg pr-3 py-2">
+              <span class="font-weight-bold d-block">
+                Sharkoon 1337 RGB V2 Gaming Mat 360, Gaming-Mauspad
+              </span><span class="ratingstars" aria-description="5.0 Sterne bei 7 Bewertungen"><img src="/jakarta.faces.resource/pix/fontawesome/star.svg.xhtml" alt="Voller Stern" width="20" height="20" loading="lazy" aria-hidden="true" /><img src="/jakarta.faces.resource/pix/fontawesome/star.svg.xhtml" alt="Voller Stern" width="20" height="20" loading="lazy" aria-hidden="true" /><img src="/jakarta.faces.resource/pix/fontawesome/star.svg.xhtml" alt="Voller Stern" width="20" height="20" loading="lazy" aria-hidden="true" /><img src="/jakarta.faces.resource/pix/fontawesome/star.svg.xhtml" alt="Voller Stern" width="20" height="20" loading="lazy" aria-hidden="true" /><img src="/jakarta.faces.resource/pix/fontawesome/star.svg.xhtml" alt="Voller Stern" width="20" height="20" loading="lazy" aria-hidden="true" /></span><span id="tle-soft-bundle-abc:productsB:1:tle-entry:bundle-price" class="mt-2 d-block">
+                Im Kombi-Angebot für nur
+                ...</span>
+              <span class="d-block">
+                Einzelpreis:
+                <span class="text-nowrap ">€ 15,49</span>
+              </span>
+            </span>
+          </span>
+        </span>
+      </a>
+    </div>
+                  </div>
+                  <div class="swiper-button-prev button-bg-opacity"></div>
+                  <div class="swiper-button-next button-bg-opacity"></div>
+                </div>
+                <div class="swiper-pagination" id="tle-soft-bundle-abc-pagination-b"></div>
+              </div>
+            </div></div><div id="tle-soft-bundle-abc:soft-bundle-c" class="d-none"></div>
+
+        </div>
+      </div>
+
+      <div class="col-12 col-lg-3 order-1 order-md-2">
+        <div class="card h-100">
+          <div class="card-body">
+<form id="tle-soft-bundle-abc:add-to-cart-form" name="tle-soft-bundle-abc:add-to-cart-form" method="post" action="/mobile/details.xhtml" class="row align-items-center tp-form h-100" enctype="application/x-www-form-urlencoded">
+<input type="hidden" name="tle-soft-bundle-abc:add-to-cart-form" value="tle-soft-bundle-abc:add-to-cart-form" />
+
+              <div class="col-12 col-sm-6 offset-sm-3 col-lg-12 offset-lg-0"><input id="tle-soft-bundle-abc:add-to-cart-form:selectedBundleProductB" type="text" name="tle-soft-bundle-abc:add-to-cart-form:selectedBundleProductB" value="100112860" class="d-none" onchange="mojarra.ab(this,event,'change','@form',0)" /><input id="tle-soft-bundle-abc:add-to-cart-form:selectedBundleProductC" type="text" name="tle-soft-bundle-abc:add-to-cart-form:selectedBundleProductC" value="0" class="d-none" onchange="mojarra.ab(this,event,'change','@form',0)" />
+                <input type="hidden" name="sliderIndexB" />
+                <input type="hidden" name="sliderIndexC" />
+
+                <div class="mx-3 fw-bold text-center">Kaufen Sie alle genannten Produkte für</div>
+                <div class="mx-3 d-flex flex-wrap justify-content-center align-items-baseline"><span class="fw-bold text-price text-nowrap font-big ">€ 1.414,90</span>
+                  <span class="mx-1">statt</span><span class="text-nowrap ">€ 1.432,90</span>
+                </div>
+                <div class="badge-rebate my-3">
+                  <div class="rebate-icon" aria-hidden="true">%</div>
+                  <div class="rebate-text justify-content-evenly text-green font-weight-bold overflow-hidden">
+                    <div class="w-100">
+                      <span class="d-block text-center">
+                        Sie sparen
+                        <span class="ml-1 text-nowrap ">€ 18,00</span>
+                      </span>
+                    </div>
+                  </div>
+                </div>
+
+                <a href="#" class="addSoftBundleToCart add-to-cart details-cart-button btn btn-primary tp-button d-grid" role="button">
+                  <em class="fas fa-cog fa-spin d-none"></em>
+                  <span class="d-flex align-items-center justify-content-center">
+                      <img src="/mobile/jakarta.faces.resource/icons/Warenkorb-white.svg.xhtml?ln=pix" alt="" width="20" height="20" class="d-inline-block" /><span class="ml-2">Angebot in den Warenkorb</span>
+                    </span>
+                </a><input id="tle-soft-bundle-abc:add-to-cart-form:add-to-cart-soft-bundle-btn" type="submit" name="tle-soft-bundle-abc:add-to-cart-form:add-to-cart-soft-bundle-btn" value="In den Warenkorb" class="d-none add-to-cart" onclick="mojarra.ab(this,event,'action','@form','@form tle-add-to-cart-modal:add-to-cart-modal-dialog add-to-cart-form:add-to-cart-section',{'params':{'p':'100105341'}});return false" translate="no"><input type="hidden" name="tle-soft-bundle-abc:add-to-cart-form:j_idt1313:j_idt1317" value="" />
+      <input type="hidden" name="tp-vt" value="3635ae533e3bb714f96c103a260b8562" />
+      <input type="hidden" name="tp-ft" value="2f756b85149c88a6c76a6a54e3e75789" />
+      <input type="hidden" name="tp-rt" value="2738" /></input>
+                <input type="hidden" name="p" value="100105341" />
+
+              </div><input type="hidden" name="jakarta.faces.ViewState" id="j_id1:jakarta.faces.ViewState:5" value="-2973368341139355445:8014072433774477238" autocomplete="off" />
+</form>
+
+          </div>
+        </div>
+      </div>
+
+    </div>
+    <div class="banner-container  mb-3">
+      <div class="banner swiper" data-lazy="true" data-loop="true" data-autoplay="true" data-slides="1">
+        <div class="swiper-wrapper"><div class="swiper-slide">  <a href="/adc/f14ccf2e-ac34-4980-8301-c72a8881aa9c"  title="NVIDIA RTX On Kampagne" class="track_this_link position-relative d-inline-block" data-key="b2988401da41543ea3721fad990ef8a5;21466" rel=""> <picture> <source media="(max-width: 575px)" srcset="/tw/mar-99118/teaser/mobile/MAR-99118_Detail_m.jpg" /> <img src="/tw/mar-99118/teaser/desktop/MAR-99118_Detail_d.jpg" alt="NVIDIA RTX On Kampagne" class="img-fluid w-100" width="13" height="2" loading="lazy" /> </picture>  </a>  </div><div class="swiper-slide">  <a href="/adc/29b5e797-3812-49b5-a126-a7218694b662"  title="RTX 50 Serie Ankündigung" class="track_this_link position-relative d-inline-block" data-key="1dcb0a7d732a401882c153d4e4b8f991;21466" rel=""> <picture> <source media="(max-width: 575px)" srcset="/tw/mar-97715/teaser/mobile/MAR-97715_Detail_m.jpg" /> <img src="/tw/mar-97715/teaser/desktop/MAR-97715_Detail_d.jpg" alt="RTX 50 Serie Ankündigung" class="img-fluid w-100" width="13" height="2" loading="lazy" /> </picture>  </a>  </div>
+        </div>
+        <div class="swiper-pagination"></div>
+      </div>
+    </div>
+    <div class="row d-none mb-3" id="pro-awards">
+      <div class="col-12">
+        <div class="card">
+          <div class="card-body">
+            <h2>Auszeichnungen</h2>
+            <div class="product-award-carousel swiper swiper-common" data-insufficient-left="true" data-space="20" data-slides="auto">
+              <div class="swiper-wrapper">
+              </div>
+              <div class="swiper-button-prev button-bg-opacity" id="swiper-award-button-prev"></div>
+              <div class="swiper-button-next button-bg-opacity" id="swiper-award-button-next"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+          <div class="row mb-3" id="product-description-tab" data-nav-target="product-description">
+            <div class="col-12">
+              <div class="card">
+                <div class="card-body">
+                  <h2 class="font-bigger">Produktbeschreibung</h2>
+                  <div class="mb-2">
+                  </div>Die Palit GeForce RTX 5080 GameRock ist eine High-End-Grafikkarte mit der GeForce RTX 5080 GPU von NVIDIA. Die leistungsfähigen GeForce RTX 50-Grafikkartenserie basiert auf der NVIDIA Blackwell Architektur und bietet neue Stufen von Gaming Realismus, Geschwindigkeit und Leistungseffizienz, AI Features wie Frame Generation, Multi Frame Generation und realistische VR-Erlebnisse. Weitere Features sind Real-Time Ray Tracing, Ray-Reconstruction, NVIDIA Ansel, mit umfangreichen Werkzeugen zur Erstellung von Screenshots in Spielen sowie NVIDIA G-SYNC, G-SYNC HDR, NVIDIA DLSS 4, ShadowPlay, Highlights, NVENC Gen 9, AV1 Encoder und Decoder. Die auf der Palit GeForce RTX 5080 GameRock verbaute GPU verfügt über 10752 CUDA Cores. Der 16 Gbyte große GDDR7-Speicher verfügt über einen 256-Bit-Speicherkontroller.<span class="font-weight-bold d-block mt-2">Art.-Nr.: 100105341</span>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="row mb-3" id="product-details-tab" data-nav-target="product-details">
+            <div class="col-12">
+              <div class="card nav-product-details">
+                <div class="card-body">
+                  <h2 class="font-bigger">Details</h2><div class="d-block details-www mb-2"><table><tr><td class="c1">Typ</td><td class="c4" colspan="3">Grafikkarte</td></tr><tr><td class="c1">EAN</td><td class="c4" colspan="3">4710562244892</td></tr><tr><td class="c1">Hersteller-Nr.</td><td class="c4" colspan="3">NE75080019T2-GB2030G</td></tr><tr><td class="c1">Steckplatz</td><td class="c4" colspan="3">PCIe x16 Version 5.0</td></tr><tr><td class="c1">belegte Slots</td><td class="c4" colspan="3">3,5</td></tr><tr><td class="c1">GPU</td><td class="c2">Bezeichnung</td><td class="c4" colspan="2">NVIDIA GeForce RTX 5080</td></tr><tr><td class="c1"></td><td class="c2">GPU Klasse</td><td class="c4" colspan="2">NVIDIA GeForce RTX Gaming</td></tr><tr><td class="c1"></td><td class="c2">Taktfrequenz</td><td class="c4" colspan="2">2295 MHz</td></tr><tr><td class="c1"></td><td class="c2">GPU Boost-Takt</td><td class="c4" colspan="2">2617 MHz</td></tr><tr><td class="c1"></td><td class="c2">Streamprozessoren</td><td class="c4" colspan="2">10752</td></tr><tr><td class="c1"></td><td class="c2">Support</td><td class="c4" colspan="2">DirectX 12 Ultimate, OpenGL 4.6</td></tr><tr><td class="c1">Speicher</td><td class="c2">Kapazität</td><td class="c4" colspan="2">16 GB (GDDR7)</td></tr><tr><td class="c1"></td><td class="c2">Anbindung</td><td class="c4" colspan="2">256 Bit</td></tr><tr><td class="c1"></td><td class="c2">effektiver Takt</td><td class="c4" colspan="2">30 GHz</td></tr><tr><td class="c1">Anschlüsse</td><td class="c4" colspan="3">1x HDMI Version 2.1b, 3x Displayport Version 2.1b</td></tr><tr><td class="c1">Stromversorgung</td><td class="c2">Durchschnittlicher Verbrauch</td><td class="c4" colspan="2">360 W</td></tr><tr><td class="c1"></td><td class="c2">Anschlüsse</td><td class="c4" colspan="2">1x 16-Pin (12VHPWR) Stromanschluss</td></tr><tr><td class="c1"></td><td class="c2">benötigte Netzteilleistung</td><td class="c4" colspan="2">min. 850 W</td></tr><tr><td class="c1">Kühlung</td><td class="c4" colspan="3">Kühlung mit Lüfter</td></tr><tr><td class="c1">Betriebssysteme</td><td class="c2">Unterstützt</td><td class="c4" colspan="2">Windows 11, Windows 10</td></tr><tr><td class="c1">Feature</td><td class="c4" colspan="3">NVIDIA DLSS 4, Reflex 2, RTX Video, RTX Remix, NVIDIA Broadcast, NVIDIA ShadowPlay, NVIDIA Highlights, NVIDIA G-SYNC, NVIDIA App, Game Ready-Treiber, NVIDIA Studio-Treiber, NVIDIA GPU Boost, NVENC Encoder: Gen 9, NVENC Decoder: Gen 6, AV1 Encoder und Decoder, Raytracing Cores: Gen 4, TensorCores (AI): Gen 5</td></tr><tr><td class="c1">Weitere Informationen</td><td class="c4" colspan="3">Max. Auflösung: 4K bei 480Hz oderr 8K bei 120Hz mit DSC</td></tr><tr><td class="c1">Hinweis</td><td class="c4" colspan="3">Für die Stromversorgung wird ein Netzteil mit nativen 16-Pin Stecker oder ein Netzteil mit 3x 8-Pin PCIe für den mitgeliefertem Adapter benötigt</td></tr><tr><td class="c1">Abmessungen</td><td class="c4" colspan="3">Breite: 150 mm x Höhe: 70,4 mm x Tiefe/Länge: 331,9 mm</td></tr></table></div>
+      <strong>WEEE-Nummer</strong> 28205850
+    
+      <div class="row">
+        <div class="col-auto">
+          <div class="card mt-1">
+            <button type="button" class="btn btn-link align-baseline text-left weeeNummerInfo" data-bs-toggle="collapse" data-bs-target="#weeeInfo" aria-expanded="false" aria-controls="weeeInfo">
+              <strong> Verantwortliche Person für die EU</strong>
+              <span class=" collapse-arrow ml-1"></span>
+            </button>
+            <div class="card-body collapse" id="weeeInfo"> XpertVision GmbH<br />
+              Schmelzerstraße 30
+              <br />
+              47877
+              Willich<br />
+              
+              DE<br />
+              <a href="mailto:support@xpertvision.de" aria-label="Kontaktiere support@xpertvision.de">support@xpertvision.de</a><br />
+              <a href="https://www.eu.palit.com/index.php?lang=de" target="_blank">https://www.eu.palit.com/index.php?lang=de</a></div>
+          </div>
+        </div>
+      </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+        <div class="partial-load partial-spinner-yes" data-callback="accessories" data-url="/part/product_accessories.xhtml?p=100105341&amp;aks=15:accessory:1;21466:2;100105341"></div>
+      <div id="epoq_recommended" data-aks="15:epoq_recommended:1;21466:2;100105341" class="epoq-container mb-3" data-tenantId="alternate" data-sessionId="d9f6f4e77903f33e3b81bab7d4f6057d10d40fc4731b85698ba817f5ed396bc9" data-productId="100105341" data-area="Hardware">
+        <div class="headline-style font-bigger headline  d-none">Das könnte Ihnen auch gefallen</div><div> <div id="epoq-widget-NotInCategoryFilter" class="epoq-recommendations-widget" data-rules="NotInCategoryFilter" data-template-url="/part/epoq-recommendation-carousel.xhtml"> </div></div>
+      </div>
+      <div id="epoq_lastseen" data-aks="15:epoq_lastseen:1;21466:2;100105341" class="epoq-container mb-3" data-tenantId="alternate" data-sessionId="d9f6f4e77903f33e3b81bab7d4f6057d10d40fc4731b85698ba817f5ed396bc9" data-productId="100105341" data-area="Hardware">
+        <div class="headline-style font-bigger headline headline-style d-none">Zuletzt angesehen</div><div> <div id="epoq-widget-lastseen" class="epoq-recommendations-widget" data-rules="lastseen" data-template-url="/part/epoq-recommendation-carousel.xhtml"> </div></div>
+      </div>
+      <div id="epoq_accessory" data-aks="15:epoq_accessory:1;21466:2;100105341" class="epoq-container mb-3" data-tenantId="alternate" data-sessionId="d9f6f4e77903f33e3b81bab7d4f6057d10d40fc4731b85698ba817f5ed396bc9" data-productId="100105341" data-area="Hardware">
+        <div class="headline-style font-bigger headline headline-style d-none">Passendes Zubehör</div><div> <div id="epoq-widget-pdpzubehoer" class="epoq-recommendations-widget" data-rules="pdpzubehoer" data-template-url="/part/epoq-recommendation-carousel.xhtml"> </div></div>
+      </div>
+
+        <div id="lazyExternalContent">
+          <div id="external-content">
+            <div class="partial-load partial-spinner-yes" data-callback="externalContent" data-url="/part/external_content.xhtml?p=100105341"></div>
+          </div>
+        </div>
+          <div id="lazyQuestionAnswer" data-nav-target="product-questionanswers" class="mb-3">
+            <div class="partial-load partial-spinner-no" data-callback="questionAnswer" data-url="/part/question_answer.xhtml?p=100105341"></div>
+          </div>
+          <div id="lazyRatings" data-nav-target="product-ratings">
+            <div class="partial-load partial-spinner-yes" data-callback="ratings" data-url="/part/ratings_detail.xhtml?p=100105341"></div>
+          </div>
+    <div class="modal fade" id="add-to-cart-modal"><div id="tle-add-to-cart-modal:add-to-cart-modal-dialog" class="modal-dialog modal-dialog-centered modal-dialog-scrollable modal-lg"></div>
+    </div>
+
+      <div class="modal fade product-notification-modal product-notification-modal_100105341" role="dialog" aria-hidden="true">
+<form id="notification_modal:product-notification-modal-form" name="notification_modal:product-notification-modal-form" method="post" action="/mobile/details.xhtml" class="modal-dialog modal-md modal-dialog-centered tp-form" enctype="application/x-www-form-urlencoded" role="document">
+<input type="hidden" name="notification_modal:product-notification-modal-form" value="notification_modal:product-notification-modal-form" />
+<input type="hidden" value="100105341" name="p" /><div id="notification_modal:product-notification-modal-form:modalcontent" class="modal-content"></div><input type="hidden" name="jakarta.faces.ViewState" id="j_id1:jakarta.faces.ViewState:6" value="-2973368341139355445:8014072433774477238" autocomplete="off" />
+</form>
+      </div>
+    <div class="modal fade product-share-modal" role="dialog" aria-hidden="true">
+      <div class="modal-dialog modal-md modal-dialog-centered" role="document">
+        <div class="modal-content" id="modalcontent">
+          <div class="modal-header">
+            <div class="modal-title w-100 text-center">Teilen</div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Schließen (Esc)"></button>
+          </div>
+          <div class="modal-body">
+            <div class="row align-items-center">
+              <a href="https://api.whatsapp.com/send?text=Palit%20GeForce%20RTX%205080%20GameRock%2C%20Grafikkarte%20https%3A%2F%2Fwww.alternate.de%2FPalit%2FGeForce-RTX-5080-GameRock-Grafikkarte%2Fhtml%2Fproduct%2F100105341" target="_blank" class="col text-center" title="Whatsapp">
+                <img height="48" width="48" class="img-fluid" src="/mobile/jakarta.faces.resource/icons/WhatsApp.svg.xhtml?ln=pix" alt="Whatsapp" loading="lazy" />
+              </a>
+              <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.alternate.de%2FPalit%2FGeForce-RTX-5080-GameRock-Grafikkarte%2Fhtml%2Fproduct%2F100105341&amp;t=Palit%20GeForce%20RTX%205080%20GameRock%2C%20Grafikkarte" target="_blank" class="col text-center" title="Facebook">
+                <img height="48" width="48" class="img-fluid" src="/mobile/jakarta.faces.resource/icons/Facebook.svg.xhtml?ln=pix" alt="Facebook" loading="lazy" />
+              </a>
+              <a href="https://twitter.com/intent/tweet?text=Palit%20GeForce%20RTX%205080%20GameRock%2C%20Grafikkarte%20https%3A%2F%2Fwww.alternate.de%2FPalit%2FGeForce-RTX-5080-GameRock-Grafikkarte%2Fhtml%2Fproduct%2F100105341" target="_blank" class="col text-center" title="X">
+                <img height="48" width="48" class="invert img-fluid" src="/mobile/jakarta.faces.resource/icons/T_X.svg.xhtml?ln=pix" alt="X" loading="lazy" />
+              </a>
+              <a href="mailto:?body=Palit%20GeForce%20RTX%205080%20GameRock,%20Grafikkarte%20https://www.alternate.de/Palit/GeForce-RTX-5080-GameRock-Grafikkarte/html/product/100105341" class="col text-center" title="Mail">
+                <img height="48" width="48" class="invert img-fluid" src="/mobile/jakarta.faces.resource/icons/E-Mail.svg.xhtml?ln=pix" alt="Mail" loading="lazy" />
+              </a>
+              <a href="#" data-bs-dismiss="modal" class="col text-center" id="share-print" title="Drucken">
+                <img height="48" width="48" class="invert img-fluid" src="/mobile/jakarta.faces.resource/icons/Print.svg.xhtml?ln=pix" alt="Drucken" loading="lazy" />
+              </a>
+            </div>
+            <div class="row align-items-center mt-4">
+              <div class="col-12">
+                <div class="input-group input-group-sm">
+                  <label for="current-url" class="visually-hidden">zu kopierende URL</label>
+                  <input type="text" class="form-control" value="https://www.alternate.de/Palit/GeForce-RTX-5080-GameRock-Grafikkarte/html/product/100105341" id="current-url" readonly="readonly" />
+                  <button class="btn btn-dark" id="copyToClipboard" aria-label="URL kopieren"><em class="fa fa-link" aria-hidden="true"></em></button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="toast-container position-fixed bottom-0 end-0 p-3">
+      <div id="add-to-cart-toast" class="toast" role="alert" data-bs-delay="8000" aria-live="assertive" aria-atomic="true">
+        <div class="d-flex">
+          <div class="toast-body"></div>
+          <button type="button" class="btn-close m-2" data-bs-dismiss="toast" aria-label="Close"></button>
+        </div>
+      </div>
+    </div>
+
+      </div>
+        </main>
+<form id="lazyForm" name="lazyForm" method="post" action="/mobile/details.xhtml" class="d-none" enctype="application/x-www-form-urlencoded">
+<input type="hidden" name="lazyForm" value="lazyForm" />
+
+              <input type="hidden" name="p" value="100105341" />
+              <input type="hidden" name="partner" value="DeBilliger" />
+              <input type="hidden" name="campaign" value="Grafikkarte/Palit/100105341" />
+          <input type="hidden" id="lazyComponent" name="lazyComponent" value="" /><input id="lazyButton" type="submit" name="lazyButton" value="" onclick="mojarra.ab(this,event,'action',0,0);return false" /><input type="hidden" name="jakarta.faces.ViewState" id="j_id1:jakarta.faces.ViewState:7" value="-2973368341139355445:8014072433774477238" autocomplete="off" />
+</form>
+      </div>
+  <br />
+  <br />
+  <div class="container">
+    <div class="row text-center" id="footerheading">
+    </div>
+  </div>
+  <div id="footer-scroll-to-top">
+    <div class="container">
+      <div class="row text-center">
+        <div class="col-12 my-1">
+          <a href="#" onclick="global.scrollToTop()">Zurück zum Anfang</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <footer id="footer">
+    <div class="container px-4">
+      <div class="row pt-3">
+        <div class="col-12">
+          <div class="row align-items-start">
+            <div class="col-12 col-md-6">
+                    <div class="font-weight-bold font-bigger">Stets informiert</div>
+                    <div class="w-100 mb-1">In unserem Newsletter warten exklusive Angebote, Gutschein- &amp; Gewinnspielaktionen auf Sie!</div>
+                    <form class="no-state" action="/newsletter.xhtml#headline" method="POST">
+                      <label for="email-input-field" class="visually-hidden">E-Mail</label>
+                      <div class="input-group">
+                        <input id="email-input-field" class="form-control" type="email" value="" name="email" placeholder="E-Mail" maxlength="100" />
+                        <button class="btn btn-green" type="submit">Anmelden</button>
+                      </div>
+                    </form>Hinweise zum <strong><a href="/content.xhtml?c=9a3fe361-a0dc-4737-ad37-b9e3bbb71930#newsletter">Datenschutz</a></strong>
+            </div>
+            <div class="col-12 col-md-6 mt-4 mt-md-0">
+              <div class="row align-items-end">
+                <div class="col-12 col-md-11 offset-md-1">
+                  <div class="font-weight-bold font-bigger">Folge ALTERNATE auf:</div>
+                    <div class="mb-1 ">Über unsere Social-Media-Kanäle sind wir Mo-Fr 9:00 Uhr - 17:00 Uhr für Sie da.</div>
+                    <div class="row row-cols-auto justify-content-center justify-content-md-start gx-5 gx-md-2 gy-2 mb-2 mb-md-0">
+                        <div class="col">
+                          <a href="https://www.facebook.com/alternate.de/" target="_blank" title="Facebook" class="text-decoration-none">
+                            <img src="/mobile/jakarta.faces.resource/footer/FB_100x100px.svg.xhtml?ln=pix" loading="lazy" height="35" width="35" class="invert mt-1" alt="Facebook" />
+                          </a>
+                        </div>
+                        <div class="col">
+                          <a href="https://www.instagram.com/alternate.de/" target="_blank" title="Instagram" class="text-decoration-none">
+                            <img src="/mobile/jakarta.faces.resource/footer/Instagram_100x100px.svg.xhtml?ln=pix" loading="lazy" height="35" width="35" class="invert mt-1" alt="Instagram" />
+                          </a>
+                        </div>
+                        <div class="col">
+                          <a href="https://www.threads.net/@alternate.de" target="_blank" title="Threads" class="text-decoration-none">
+                            <img src="/mobile/jakarta.faces.resource/footer/Threads.svg.xhtml?ln=pix" loading="lazy" height="35" width="35" class="invert mt-1" alt="Threads" />
+                          </a>
+                        </div>
+                        <div class="col">
+                          <a href="https://www.tiktok.com/@alternate.de" target="_blank" title="TikTok" class="text-decoration-none">
+                            <img src="/mobile/jakarta.faces.resource/footer/TikTok_100x100px.svg.xhtml?ln=pix" loading="lazy" height="35" width="35" class="invert mt-1" alt="TikTok" />
+                          </a>
+                        </div>
+                        <div class="col">
+                          <a href="https://www.pinterest.de/alternatede/" target="_blank" title="Pinterest" class="text-decoration-none">
+                            <img src="/mobile/jakarta.faces.resource/footer/Pinterest_100x100px.svg.xhtml?ln=pix" loading="lazy" height="35" width="35" class="invert mt-1" alt="Pinterest" />
+                          </a>
+                        </div>
+                        <div class="col">
+                          <a href="https://www.alternate.de/whatsapp" target="_blank" title="WhatsApp" class="text-decoration-none">
+                            <img src="/mobile/jakarta.faces.resource/footer/WhatsApp.svg.xhtml?ln=pix" loading="lazy" height="35" width="35" class="invert mt-1" alt="WhatsApp" />
+                          </a>
+                        </div>
+                        <div class="col">
+                          <a href="https://techrush.de/" target="_blank" title="TechRush" class="text-decoration-none">
+                            <img src="/mobile/jakarta.faces.resource/footer/Techrush_100x100px.svg.xhtml?ln=pix" loading="lazy" height="35" width="35" class="invert mt-1" alt="TechRush" />
+                          </a>
+                        </div>
+                        <div class="col">
+                          <a href="https://www.youtube.com/c/Alternate" target="_blank" title="YouTube" class="text-decoration-none">
+                            <img src="/mobile/jakarta.faces.resource/footer/Youtube_100x100px.svg.xhtml?ln=pix" loading="lazy" height="35" width="35" class="invert mt-1" alt="YouTube" />
+                          </a>
+                        </div>
+                        <div class="col">
+                          <a href="https://www.twitch.tv/alternate" target="_blank" title="Twitch" class="text-decoration-none">
+                            <img src="/mobile/jakarta.faces.resource/footer/Twitch_100x100px.svg.xhtml?ln=pix" loading="lazy" height="35" width="35" class="invert mt-1" alt="Twitch" />
+                          </a>
+                        </div>
+                    </div>
+                </div>
+              </div>
+            </div>
+
+          </div>
+            <hr class="d-md-none" />
+            <div class="row mt-0 my-md-4 justify-content-between"><div class="col-12 col-md-auto my-1">
+                <a href="/EMAS/CO2-neutraler-Versand" title="CO₂ - neutraler Versand">
+                  <em class="fas fa-check-circle text-green font-bigger font-weight-normal"> </em><span class="font-bigger"><span class="text-green">CO<sub>2</sub>-neutraler</span> Versand</span><sup>1</sup>
+                </a>
+                <small class="ml-4 d-block"><sup>1</sup>(durch Kompensation)</small></div><div class="col-12 col-md-auto my-1">
+                <a href="/paypal" title="PayPal">
+                  <em class="fas fa-check-circle text-green font-bigger font-weight-normal"> </em><span class="font-bigger">PayPal Ratenzahlung</span><sup>2</sup>
+                </a>
+                <small class="ml-4 d-block"><sup>2</sup>Vorb. Kreditwürdigkeitsprüfung</small></div>
+            </div>
+
+          <hr />
+
+          <div class="row">
+            <div class="col-12 col-md-6">
+              <div class="row"><div class="col-6 my-1">
+                  <a class="text-decoration-none d-flex align-items-start mb-1" href="/bestellung/" title="Bestellstatus abrufen">
+                    <img src="/mobile/jakarta.faces.resource/footer/Icon_Bestellung.svg.xhtml?ln=pix" loading="lazy" width="25" height="25" class="mr-1 mt-1 invert" alt="Bestellstatus abrufen" /><span class="font-bigger">Bestellstatus abrufen</span>
+                  </a>
+
+                  <div class="d-none d-md-block mt-1 mb-2">Sie möchten Ihren Bestellstatus einsehen oder die Sendungsverfolgung prüfen? Hier finden Sie alle Informationen rund um Ihre Bestellung.
+                  </div></div><div class="col-6 my-1">
+                  <a class="text-decoration-none d-flex align-items-start mb-1" href="/HILFE/ALTERNATE/Kontakt" title="E-Mail">
+                    <img src="/mobile/jakarta.faces.resource/footer/Icon_Mail.svg.xhtml?ln=pix" loading="lazy" width="25" height="25" class="mr-1 invert" alt="E-Mail" />
+                    <strong class="d-none d-md-inline font-bigger">Wir sind für Sie da!</strong>
+                    <strong class="d-md-none font-bigger">E-Mail</strong>
+                  </a>
+                  <span class="d-none d-md-block mt-1 mb-2">Sie benötigen Hilfe oder Informationen? Dann nutzen Sie <a href="/contact.xhtml" title="Email-Kontaktformular">hier</a> unser Email-Kontaktformular und wir helfen Ihnen!
+                  </span></div><div class="col-6 my-1">
+                  <a class="text-decoration-none d-flex align-items-start mb-1" href="/PC-Konfigurator" title="PC-Konfigurator">
+                    <img src="/mobile/jakarta.faces.resource/footer/Icon_PCK.svg.xhtml?ln=pix" loading="lazy" width="25" height="25" class="mr-1 invert" alt="PC-Konfigurator" />
+                    <strong class="font-bigger">PC-Konfigurator</strong>
+                  </a><span class="d-none d-md-block mt-1 mb-2">Konfigurieren Sie Ihren neuen PC mit Hilfe des ALTERNATE PC-Builder genau so, wie Sie es wünschen!</span></div><div class="col-6 my-1">
+                  <a class="text-decoration-none d-flex align-items-start mb-1" href="/ruecksendung/" title="Retoure &amp; Reklamation">
+                    <img src="/mobile/jakarta.faces.resource/help/Icon_Ruecksendung.svg.xhtml?ln=pix" loading="lazy" width="25" height="25" class="mr-1 invert" alt="Retoure &amp; Reklamation" />
+                    <strong class="d-none d-md-inline font-bigger">Retoure &amp; Reklamation</strong>
+                    <strong class="d-md-none font-bigger">Retoure &amp; Reklamation</strong>
+                  </a>
+                  <span class="d-none d-md-block mt-1 mb-2">Ob Widerruf oder Defekt – hier können Sie Ihre Rücksendung beantragen.</span></div>
+              </div>
+            </div>
+
+            <div class="col-12 col-md-6">
+              <div class="row">
+                <div class="col-12 offset-md-1 col-md-5">
+                  <hr class="d-md-none" /><span class="d-none d-md-block font-bigger">Kundenservice</span>
+                  <button type="button" class="btn-collapse d-flex d-md-none justify-content-between font-bigger" aria-expanded="false" data-bs-toggle="collapse" data-bs-target="#services">
+                    Kundenservice
+                    <span class="collapse-arrow"></span>
+                  </button>
+                  <div id="services" class="collapse collapse-none-md-block">
+                      <a class="d-block my-1 " href="/Mein-Konto" title="Mein Konto">Mein Konto</a>
+                      <a class="d-block my-1 " href="/bestellung/" title="Bestellstatus und Rechnung">Bestellstatus und Rechnung</a>
+                      <a class="d-block my-1 " href="/ruecksendung/" title="Retourencenter">Retourencenter</a>
+                      <a class="d-block my-1 " href="/HILFE/ALTERNATE/Widerrufsrecht" title="Widerrufsrecht">Widerrufsrecht</a>
+                      <a class="d-block my-1 " href="/Newsletter" title="Newsletter">Newsletter</a>
+                      <a class="d-block my-1 " href="/HILFE" title="Hilfe">Hilfe</a>
+                      <a class="d-block my-1 " href="/Altgeräteentsorgung" title="Altgeräte-/ Batterieentsorgung">Altgeräte-/ Batterieentsorgung</a>
+                      <a class="d-block my-1 " href="/Gutschein" title="Gutschein">Gutschein</a>
+                      <a class="d-block my-1 " href="/Drucker/Druckerzubehör/Tinten-und-Tonerfinder" title="Tinten- und Tonerfinder">Tinten- und Tonerfinder</a>
+                      <a class="d-block my-1 " href="/Fragen-und-Antworten" title="Kunden fragen Kunden">Kunden fragen Kunden</a>
+                  </div>
+                </div>
+                <div class="col-12 offset-md-1 col-md-5">
+                  <hr class="d-md-none" /><span class="d-none d-md-block font-bigger">Über ALTERNATE</span>
+                  <button type="button" class="btn-collapse d-flex d-md-none justify-content-between font-bigger" aria-expanded="false" data-bs-toggle="collapse" data-bs-target="#overus">
+                    Über ALTERNATE
+                    <span class="collapse-arrow"></span>
+                  </button>
+                  <div id="overus" class="collapse collapse-none-md-block">
+                        <a class="d-block my-1" href="/HILFE/ALTERNATE/Über-uns" title="Über uns">Über uns</a>
+                        <a class="d-block my-1" href="/Jobs/Festanstellung" title="Jobs &amp; Karriere">Jobs &amp; Karriere</a>
+                        <a class="d-block my-1" href="/HILFE/ALTERNATE/Presse" title="Presse">Presse</a>
+                        <a class="d-block my-1" href="/brandGlossary.xhtml?bgl=A" title="Markenwelt">Markenwelt</a>
+                        <a class="d-block my-1" href="/HILFE/ALTERNATE/Stores-vor-Ort" title="Stores vor Ort">Stores vor Ort</a>
+                        <a class="d-block my-1" href="/HILFE/ALTERNATE/Partnerprogramme" title="Partnerprogramme">Partnerprogramme</a>
+                        <a class="d-block my-1" href="/HILFE/ALTERNATE/Leitbild" title="Unser Leitbild">Unser Leitbild</a>
+                        <a class="d-block my-1" href="/HILFE/ALTERNATE/AGB" title="AGB">AGB</a>
+                        <a class="d-block my-1" href="/HILFE/ALTERNATE/Datenschutz#Alternate" title="Datenschutz">Datenschutz</a>
+                        <a class="d-block my-1" href="#" onclick="TLECookieAcceptance.showConfirmDialog(); return false;" title="Cookie Einstellungen">Cookie Einstellungen</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+            <hr />
+            <div class="row">
+              <div class="col-12">
+                <strong class="d-none d-md-block font-bigger text-center">Einfach bezahlen</strong>
+                <button type="button" class="btn-collapse d-flex d-md-none justify-content-between font-bigger" aria-expanded="false" data-bs-toggle="collapse" data-bs-target="#payments">
+                  Einfach bezahlen
+                  <span class="collapse-arrow"></span>
+                </button>
+              </div>
+              <div id="payments" class="col-12 collapse collapse-none-md-block"><div class="row justify-content-around">
+                    <div class="col-6 col-md-2 mb-4 mb-md-0 pb-2 pt-2 d-flex align-items-center justify-content-center flex-column">
+                      <a href="/content.xhtml?c=ecd1a3ec-b40c-4b7e-a2a2-f9300a4cc36a#applepay">
+                          <img src="/resources/pix/footer/Apple_Pay_Mark_RGB_041619.svg" loading="lazy" height="50" width="200" alt="Applepay" class="colormode-img img-fluid height-50 w-auto" />
+                      </a>
+                    </div>
+                    <div class="col-6 col-md-2 mb-4 mb-md-0 pb-2 pt-2 d-flex align-items-center justify-content-center flex-column">
+                      <a href="/content.xhtml?c=ecd1a3ec-b40c-4b7e-a2a2-f9300a4cc36a#ppx">
+                          <img src="/resources/pix/footer/PayPal_logo.svg" loading="lazy" height="50" width="200" alt="PayPal" class="colormode-img img-fluid height-50 w-auto" />
+                      </a>
+                    </div>
+                    <div class="col-6 col-md-2 mb-4 mb-md-0 pb-2 pt-2 d-flex align-items-center justify-content-center flex-column">
+                      <a href="/content.xhtml?c=ecd1a3ec-b40c-4b7e-a2a2-f9300a4cc36a#creditcard">
+                          <img src="/resources/pix/footer/CreditCard.svg" loading="lazy" height="50" width="200" alt="Kreditkarte" class="colormode-img img-fluid width-200 h-auto" />
+                      </a>
+                    </div>
+                    <div class="col-6 col-md-2 mb-4 mb-md-0 pb-2 pt-2 d-flex align-items-center justify-content-center flex-column">
+                      <a href="/content.xhtml?c=ecd1a3ec-b40c-4b7e-a2a2-f9300a4cc36a#prepay">
+                          <img src="/resources/pix/footer/Vorkasse.svg" loading="lazy" height="50" width="200" alt="Vorkasse" class="colormode-img img-fluid height-50 w-auto" />
+                      </a>
+                    </div>
+                    <div class="col-6 col-md-2 mb-4 mb-md-0 pb-2 pt-2 d-flex align-items-center justify-content-center flex-column">
+                      <a href="/adc/891c3cb2-1862-4297-8ce1-136667fd8733#">
+                          <img src="/resources/pix/footer/Klarna_badge.svg" loading="lazy" height="50" width="200" alt="Klarna" class="colormode-img img-fluid height-50 w-auto" />
+                      </a>
+                    </div></div>
+              </div>
+            </div>
+            <hr class="d-none d-md-block" />
+            <hr class="d-md-none" />
+            <div class="row font-bigger">
+              <div class="col-12">
+                <strong class="d-none d-md-block font-bigger text-center">Geprüft &amp; ausgezeichnet</strong>
+                <button type="button" class="btn-collapse d-flex d-md-none justify-content-between font-bigger" aria-expanded="false" data-bs-toggle="collapse" data-bs-target="#awards">
+                  Geprüft &amp; ausgezeichnet
+                  <span class="collapse-arrow"></span>
+                </button>
+              </div>
+              <div id="awards" class="offset-1 col-10 collapse collapse-none-md-block"><div class="row justify-content-around">
+                    <div class="col-6 col-md-auto mb-4 mb-md-0 pb-2 pt-2 d-flex align-items-center justify-content-center">
+                      <a href="https://www.alternate.de/EMAS/Info" target="_blank">
+                        <img src="/resources/pix/EMAS.png" loading="lazy" width="75" height="75" alt="EMAS" class="img-fluid" />
+                      </a>
+                    </div>
+                    <div class="col-6 col-md-auto mb-4 mb-md-0 pb-2 pt-2 d-flex align-items-center justify-content-center">
+                      <a href="https://www.youtube.com/watch?v=i16xCxTgE4I" target="_blank">
+                        <img src="/resources/pix/footer/IHK.png" loading="lazy" width="75" height="75" alt="IHK" class="img-fluid" />
+                      </a>
+                    </div>
+                    <div class="col-6 col-md-auto mb-4 mb-md-0 pb-2 pt-2 d-flex align-items-center justify-content-center">
+                      <a href="https://cert.ehi-siegel.de/webshop/ALTERNATE_4034015?lang=deu" target="_blank">
+                        <img src="/resources/pix/footer/ehi_logo.svg" loading="lazy" width="75" height="75" alt="EHI" class="img-fluid" />
+                      </a>
+                    </div>
+                    <div class="col-6 col-md-auto mb-4 mb-md-0 pb-2 pt-2 d-flex align-items-center justify-content-center">
+                      <a href="https://www.idealo.de/preisvergleich/Shop/1362.html" target="_blank">
+                        <img src="/resources/pix/footer/s1_idealo-partner.png" loading="lazy" width="75" height="75" alt="Idealo" class="img-fluid" />
+                      </a>
+                    </div>
+                    <div class="col-6 col-md-auto mb-4 mb-md-0 pb-2 pt-2 d-flex align-items-center justify-content-center">
+                      <a href="https://www.testsieger.de" target="_blank">
+                        <img src="/resources/pix/footer/testsieger_partner.png" loading="lazy" width="75" height="75" alt="Testsieger" class="img-fluid" />
+                      </a>
+                    </div>
+                    <div class="col-6 col-md-auto mb-4 mb-md-0 pb-2 pt-2 d-flex align-items-center justify-content-center">
+                      <a href="https://geizhals.de" target="_blank">
+                        <img src="/resources/pix/footer/geizhals.svg" loading="lazy" width="75" height="75" alt="Geizhals Preisvergleich" class="img-fluid" />
+                      </a>
+                    </div>
+                    <div class="col-6 col-md-auto mb-4 mb-md-0 pb-2 pt-2 d-flex align-items-center justify-content-center">
+                      <a href="/pressDetail.xhtml?pa_id=807" target="_blank">
+                        <img src="/resources/pix/footer/Award_Technikmarken_Alternate.png" loading="lazy" width="75" height="75" alt="SIEGER" class="img-fluid" />
+                      </a>
+                    </div></div>
+              </div>
+            </div>
+
+          <hr class="d-none d-md-block" />
+          <hr class="d-md-none" />
+          <form id="country-select-form">
+            <div class="row mb-2">
+              <div class="col-12 font-bigger text-center">
+                  <a class="icon-click-size" href="/HILFE/ALTERNATE/Impressum" title="Impressum">Impressum</a>
+              </div>
+                <label for="select-country" class="col-12 font-big text-center mt-3">Länderauswahl</label>
+                <div class="col-12 mt-1 d-flex align-items-center justify-content-center">
+                  <select id="select-country" class="form-select cursor-pointer onselect-url-shop">
+                      <option value="https://fr.alternate.be/">
+                        Belgien(FR)
+                      </option>
+                      <option value="https://www.alternate.be/">
+                        Belgien(NL)
+                      </option>
+                      <option value="https://www.alternate.de/" selected="selected">
+                        Deutschland
+                      </option>
+                      <option value="https://www.alternate.dk/">
+                        Dänemark
+                      </option>
+                      <option value="https://www.alternate.fr/">
+                        Frankreich
+                      </option>
+                      <option value="https://www.alternate.it/">
+                        Italien
+                      </option>
+                      <option value="https://www.alternate.lu/">
+                        Luxemburg
+                      </option>
+                      <option value="https://www.alternate.nl/">
+                        Niederlande
+                      </option>
+                      <option value="https://www.alternate.ch/">
+                        Schweiz
+                      </option>
+                      <option value="https://www.alternate.es/">
+                        Spanien
+                      </option>
+                      <option value="https://www.alternate.at/">
+                        Österreich
+                      </option>
+                  </select>
+                  <img src="/resources/pix/footer/Flagge_DE.png" loading="lazy" class="flag" width="20" height="14" alt="flag" />
+                </div>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+      <div id="default-modal" class="modal fade" tabindex="-1" role="dialog">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+            </div>
+            <div class="modal-body">
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div id="loader">
+        <div class="spinner-cog fa fa-cog fa-spin" role="status"></div>
+      </div>
+      <div id="spa-intspa"></div><script type="text/plain" data-usercentrics="Google Tag Manager">
+var dataLayer = window.dataLayer || [];  function gtag() {    dataLayer.push(arguments);  }
+  gtag("consent", "default", {
+    ad_storage: "denied",
+    analytics_storage: "denied",
+    wait_for_update: 1000
+  });
+  gtag("set", "ads_data_redaction", true);
+dataLayer.push({ ecommerce: null });
+dataLayer.push({
+  event: "view_item",
+  ecommerce: {
+    currency: "EUR",
+    value: 1066.39,
+    items: [
+{ item_id: "100105341", item_name: "Palit\x20GeForce\x20RTX\x205080\x20GameRock,\x20Grafikkarte\x20100105341", item_brand: "Palit", price: 1066.39, discount: 0.0, quantity: 1, item_category: "Hardware", item_category2: "PC\x2DKomponenten", item_category3: "Grafikkarten", item_category4: "NVIDIA\x20Grafikkarten", item_category5: "GeForce\x20RTX\x20Gaming", item_category_primary: "GeForce\x20RTX\x20Gaming", ean: "4710562244892" }
+    ]
+  }
+});
+dataLayer.push({'language': 'de'});
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='/gtm/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-NNTVS52');</script>
+<script type="text/plain" data-usercentrics="Facebook Pixel">
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('init', '739482569583270');fbq('track', 'PageView');fbq('track', 'ViewContent', {content_ids: ['100105341'],content_type: 'product',value: '1066.39',currency: 'EUR'});
+</script>
+<script type="text/plain" data-usercentrics="epoq">
+(function(d,url,c) {
+var n = document.createElement("script");n.onload = c;n.async = true;n.src = url;d.getElementsByTagName('head')[0].appendChild(n);
+})(document,'https://cdn.epoq.de/flow/alternate.js',function() {
+epoq_tenantId = 'alternate';
+epoq_tag = true;
+epoq_sessionId = 'd9f6f4e77903f33e3b81bab7d4f6057d10d40fc4731b85698ba817f5ed396bc9';
+epoq_productId = '100105341';
+epoq_viewItem();
+});
+</script>
+<div id="partial-events"></div>
+<form id="j_idt3471:tle-cli-f" name="j_idt3471:tle-cli-f" method="post" action="/mobile/details.xhtml" enctype="application/x-www-form-urlencoded" data-r="240000">
+<input type="hidden" name="j_idt3471:tle-cli-f" value="j_idt3471:tle-cli-f" />
+<input type="hidden" name="jakarta.faces.ViewState" id="j_id1:jakarta.faces.ViewState:8" value="-2973368341139355445:8014072433774477238" autocomplete="off" />
+</form>
+
+    <div class="modal fade" id="invalidSessionModal" tabindex="-1" aria-labelledby="invalidSessionModalLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+          <div class="modal-header">
+            <div class="modal-title">Zeitüberschreitung / Session abgelaufen.</div>
+          </div>
+          <div class="modal-body">
+            Klicken Sie den folgenden Button, um die Seite neu zu laden:
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-primary" onclick="location.reload()">Seite neu laden</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+      <div class="toast top-50 start-50 translate-middle position-fixed z-3" id="tarpit-toast" role="alert" aria-live="assertive" aria-atomic="true">
+        <div class="toast-header">
+          <strong class="me-auto">Es ist ein Fehler aufgetreten</strong>
+          <button type="button" class="btn-close" data-bs-dismiss="toast" aria-label="Close"></button>
+        </div>
+        <div class="toast-body">
+          Bitte verwenden Sie an dieser Stelle nicht die Browser-Navigation (Vor- und Zurück-Button) und arbeiten Sie nicht parallel in mehreren Browserfenstern oder Tabs.
+        </div>
+      </div></body>
+</html>

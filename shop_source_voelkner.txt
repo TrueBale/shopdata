@@ -1,0 +1,3130 @@
+<!doctype html>
+<html class="no-js" dir="ltr" lang="de">
+        <head>
+        <meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1, maximum-scale=5"/>
+<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+<meta name="description" content="voelkner - versandkostenfrei ► "/>
+<meta name="language" content="de"/>
+<meta name="robots" content="noindex, follow"/>
+<meta name="revisit-after" content="3 days"/>
+<meta http-equiv="expires" content="0"/>
+<meta name="page-topic" content="Computer, Büro, Kommunikation, Tontechnik, Unterhaltungselektronik, Foto, Video, Auto, Navigation, Akku, Lader, Batterien, Stromversorgung, Elektromaterial, Haus, Garten, Freizeit, Sicherheit, Licht, Werkzeug, Messtechnik, Kabel, Zubehör, Bauelemente"/>
+<meta name="keywords" content="; versandkostenfrei"/>
+<meta name="copyright" content="Copyright (c) 2025 by RE-INvent Retail GmbH"/>
+<meta name="page-type" content="Online Shop"/>
+<meta name="publisher" content="RE-INvent Retail GmbH"/>
+<meta name="audience" content="Elektronik verarbeitende Unternehmen, Privatkunden"/>
+<meta name="author" content="RE-INvent Retail GmbH"/>
+<meta http-equiv="pragma" content="no-cache"/>
+<meta name="resource-type" content="document"/>
+<meta name="revision" content="Sat,09 Aug 2025"/>
+<meta name="distribution" content="Global"/>
+<meta name="rating" content="General"/>
+    
+        <title>Palit RTX 5080 GameRock 16 GB GDDR7 versandkostenfrei | voelkner</title>
+    <base href="https://www.voelkner.de/"/>
+    
+        
+    
+            
+            
+            
+
+
+
+        <script type="text/javascript">
+    ;window.NREUM||(NREUM={});NREUM.init={privacy:{cookies_enabled:false}};
+    window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var i=e[n]={exports:{}};t[n][0].call(i.exports,function(e){var i=t[n][1][e];return r(i||e)},i,i.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<n.length;i++)r(n[i]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var i,o=t("ee"),a=t(23),c={};try{i=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,i.indexOf("dev")!==-1&&(c.dev=!0),i.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&o.on("internal-error",function(t){r(t.stack)}),c.dev&&o.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,c){try{p?p-=1:i(c||new UncaughtException(t,e,n),!0)}catch(f){try{o("ierr",[f,s.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function i(t,e){var n=e?null:s.now();o("err",[t,n])}var o=t("handle"),a=t(24),c=t("ee"),s=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(9),t(8),"addEventListener"in window&&t(5),s.xhrWrappable&&t(10),d=!0)}c.on("fn-start",function(t,e,n){d&&(p+=1)}),c.on("fn-err",function(t,e,n){d&&!n[l]&&(f(n,l,function(){return!0}),this.thrown=!0,i(n))}),c.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),c.on("internal-error",function(t){o("ierr",[t,s.now(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var i=t("ee"),o=t("handle"),a=t(9),c=t(8),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",g="pushState",y=t("loader");y.features.stn=!0,t(7),"addEventListener"in window&&t(5);var x=NREUM.o.EV;i.on(m,function(t,e){var n=t[0];n instanceof x&&(this.bstStart=y.now())}),i.on(w,function(t,e){var n=t[0];n instanceof x&&o("bst",[n,e,this.bstStart,y.now()])}),a.on(m,function(t,e,n){this.bstStart=y.now(),this.bstType=n}),a.on(w,function(t,e){o(v,[e,this.bstStart,y.now(),this.bstType])}),c.on(m,function(){this.bstStart=y.now()}),c.on(w,function(t,e){o(v,[e,this.bstStart,y.now(),"requestAnimationFrame"])}),i.on(g+p,function(t){this.time=y.now(),this.startPath=location.pathname+location.hash}),i.on(g+h,function(t){o("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){o(d,[window.performance.getEntriesByType(l)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){o(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&i(e)}function i(t){c.inPlace(t,[u,d],"-",o)}function o(t,e){return t[1]}var a=t("ee").get("events"),c=t("wrap-function")(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(i(window),i(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,e,n){function r(t,e,n){var r=t[e];"function"==typeof r&&(t[e]=function(){var t=o(arguments),e={};i.emit(n+"before-start",[t],e);var a;e[m]&&e[m].dt&&(a=e[m].dt);var c=r.apply(this,t);return i.emit(n+"start",[t,a],c),c.then(function(t){return i.emit(n+"end",[null,t],c),t},function(t){throw i.emit(n+"end",[t],c),t})})}var i=t("ee").get("fetch"),o=t(24),a=t(23);e.exports=i;var c=window,s="fetch-",f=s+"body-",u=["arrayBuffer","blob","json","text","formData"],d=c.Request,l=c.Response,p=c.fetch,h="prototype",m="nr@context";d&&l&&p&&(a(u,function(t,e){r(d[h],e,f),r(l[h],e,f)}),r(c,"fetch",s),i.on(s+"end",function(t,e){var n=this;if(e){var r=e.headers.get("content-length");null!==r&&(n.rxSize=r),i.emit(s+"done",[null,e],n)}else i.emit(s+"done",[t],n)}))},{}],7:[function(t,e,n){var r=t("ee").get("history"),i=t("wrap-function")(r);e.exports=r;var o=window.history&&window.history.constructor&&window.history.constructor.prototype,a=window.history;o&&o.pushState&&o.replaceState&&(a=o),i.inPlace(a,["pushState","replaceState"],"-")},{}],8:[function(t,e,n){var r=t("ee").get("raf"),i=t("wrap-function")(r),o="equestAnimationFrame";e.exports=r,i.inPlace(window,["r"+o,"mozR"+o,"webkitR"+o,"msR"+o],"raf-"),r.on("raf-start",function(t){t[0]=i(t[0],"fn-")})},{}],9:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function i(t,e,n){this.method=n,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,n)}var o=t("ee").get("timer"),a=t("wrap-function")(o),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=o,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),o.on(s+u,r),o.on(c+u,i)},{}],10:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function i(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,g,"fn-",c)}function o(t){y.push(t),h&&(b?b.then(a):w?w(a):(E=-E,R.data=E))}function a(){for(var t=0;t<y.length;t++)r([],y[t]);y.length&&(y=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t("wrap-function")(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",g=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],y=[];e.exports=u;var x=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(v,i,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,x),x.prototype=p.prototype,d.inPlace(x.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),o(e)}),u.on("open-xhr-start",r),h){var b=m&&m.resolve();if(!w&&!m){var E=1,R=document.createTextNode(E);new h(a).observe(R,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],11:[function(t,e,n){function r(t){if(!c(t))return null;var e=window.NREUM;if(!e.loader_config)return null;var n=(e.loader_config.accountID||"").toString()||null,r=(e.loader_config.agentID||"").toString()||null,f=(e.loader_config.trustKey||"").toString()||null;if(!n||!r)return null;var h=p.generateSpanId(),m=p.generateTraceId(),w=Date.now(),v={spanId:h,traceId:m,timestamp:w};return(t.sameOrigin||s(t)&&l())&&(v.traceContextParentHeader=i(h,m),v.traceContextStateHeader=o(h,w,n,r,f)),(t.sameOrigin&&!u()||!t.sameOrigin&&s(t)&&d())&&(v.newrelicHeader=a(h,m,w,n,r,f)),v}function i(t,e){return"00-"+e+"-"+t+"-01"}function o(t,e,n,r,i){var o=0,a="",c=1,s="",f="";return i+"@nr="+o+"-"+c+"-"+n+"-"+r+"-"+t+"-"+a+"-"+s+"-"+f+"-"+e}function a(t,e,n,r,i,o){var a="btoa"in window&&"function"==typeof window.btoa;if(!a)return null;var c={v:[0,1],d:{ty:"Browser",ac:r,ap:i,id:t,tr:e,ti:n}};return o&&r!==o&&(c.d.tk=o),btoa(JSON.stringify(c))}function c(t){return f()&&s(t)}function s(t){var e=!1,n={};if("init"in NREUM&&"distributed_tracing"in NREUM.init&&(n=NREUM.init.distributed_tracing),t.sameOrigin)e=!0;else if(n.allowed_origins instanceof Array)for(var r=0;r<n.allowed_origins.length;r++){var i=h(n.allowed_origins[r]);if(t.hostname===i.hostname&&t.protocol===i.protocol&&t.port===i.port){e=!0;break}}return e}function f(){return"init"in NREUM&&"distributed_tracing"in NREUM.init&&!!NREUM.init.distributed_tracing.enabled}function u(){return"init"in NREUM&&"distributed_tracing"in NREUM.init&&!!NREUM.init.distributed_tracing.exclude_newrelic_header}function d(){return"init"in NREUM&&"distributed_tracing"in NREUM.init&&NREUM.init.distributed_tracing.cors_use_newrelic_header!==!1}function l(){return"init"in NREUM&&"distributed_tracing"in NREUM.init&&!!NREUM.init.distributed_tracing.cors_use_tracecontext_headers}var p=t(20),h=t(13);e.exports={generateTracePayload:r,shouldGenerateTrace:c}},{}],12:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<l;r++)t.removeEventListener(d[r],this.listener,!1);e.aborted||(n.duration=a.now()-this.startTime,this.loadCaptureCalled||4!==t.readyState?null==e.status&&(e.status=0):o(this,t),n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime]))}}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.parsedOrigin=s(e),t.sameOrigin=t.parsedOrigin.sameOrigin}function o(t,e){t.params.status=e.status;var n=w(e,t.lastSize);if(n&&(t.metrics.rxSize=n),t.sameOrigin){var r=e.getResponseHeader("X-NewRelic-App-Data");r&&(t.params.cat=r.split(", ").pop())}t.loadCaptureCalled=!0}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(13),f=t(11).generateTracePayload,u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(17),m=t(16),w=t(14),v=window.XMLHttpRequest;a.features.xhr=!0,t(10),t(6),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,e.loadCaptureCalled=!1,t.addEventListener("load",function(n){o(e,t)},!1),h&&(h>34||h<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid);var n=f(this.parsedOrigin);if(n){var r=!1;n.newrelicHeader&&(e.setRequestHeader("newrelic",n.newrelicHeader),r=!0),n.traceContextParentHeader&&(e.setRequestHeader("traceparent",n.traceContextParentHeader),n.traceContextStateHeader&&e.setRequestHeader("tracestate",n.traceContextStateHeader),r=!0),r&&(this.dt=n)}}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],i=this;if(n&&r){var o=m(r);o&&(n.txSize=o)}this.startTime=a.now(),this.listener=function(t){try{"abort"!==t.type||i.loadCaptureCalled||(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var c=0;c<l;c++)e.addEventListener(d[c],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof v&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof v&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof v&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,e],e)}),u.on("fetch-before-start",function(t){function e(t,e){var n=!1;return e.newrelicHeader&&(t.set("newrelic",e.newrelicHeader),n=!0),e.traceContextParentHeader&&(t.set("traceparent",e.traceContextParentHeader),e.traceContextStateHeader&&t.set("tracestate",e.traceContextStateHeader),n=!0),n}var n,r=t[1]||{};"string"==typeof t[0]?n=t[0]:t[0]&&t[0].url?n=t[0].url:window.URL&&t[0]&&t[0]instanceof URL&&(n=t[0].href),n&&(this.parsedOrigin=s(n),this.sameOrigin=this.parsedOrigin.sameOrigin);var i=f(this.parsedOrigin);if(i&&(i.newrelicHeader||i.traceContextParentHeader))if("string"==typeof t[0]||window.URL&&t[0]&&t[0]instanceof URL){var o={};for(var a in r)o[a]=r[a];o.headers=new Headers(r.headers||{}),e(o.headers,i)&&(this.dt=i),t.length>1?t[1]=o:t.push(o)}else t[0]&&t[0].headers&&e(t[0].headers,i)&&(this.dt=i)})}},{}],13:[function(t,e,n){var r={};e.exports=function(t){if(t in r)return r[t];var e=document.createElement("a"),n=window.location,i={};e.href=t,i.port=e.port;var o=e.href.split("://");!i.port&&o[1]&&(i.port=o[1].split("/")[0].split("@").pop().split(":")[1]),i.port&&"0"!==i.port||(i.port="https"===o[0]?"443":"80"),i.hostname=e.hostname||n.hostname,i.pathname=e.pathname,i.protocol=o[0],"/"!==i.pathname.charAt(0)&&(i.pathname="/"+i.pathname);var a=!e.protocol||":"===e.protocol||e.protocol===n.protocol,c=e.hostname===document.domain&&e.port===n.port;return i.sameOrigin=a&&(!e.hostname||c),"/"===i.pathname&&(r[t]=i),i}},{}],14:[function(t,e,n){function r(t,e){var n=t.responseType;return"json"===n&&null!==e?e:"arraybuffer"===n||"blob"===n||"json"===n?i(t.response):"text"===n||""===n||void 0===n?i(t.responseText):void 0}var i=t(16);e.exports=r},{}],15:[function(t,e,n){function r(){}function i(t,e,n){return function(){return o(t,[f.now()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var o=t("handle"),a=t(23),c=t(24),s=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,e){u[e]=i(l+e,!0,"api")}),u.addPageAction=i(l+"addPageAction",!0),u.setCurrentRouteName=i(l+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,e){var n={},r=this,i="function"==typeof e;return o(p+"tracer",[f.now(),t,n],r),function(){if(s.emit((i?"":"no-")+"fn-start",[f.now(),r,i],n),i)try{return e.apply(this,arguments)}catch(t){throw s.emit("fn-err",[arguments,this,t],n),t}finally{s.emit("fn-end",[f.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){h[e]=i(p+e)}),newrelic.noticeError=function(t,e){"string"==typeof t&&(t=new Error(t)),o("err",[t,f.now(),!1,e])}},{}],16:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],17:[function(t,e,n){var r=0,i=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);i&&(r=+i[1]),e.exports=r},{}],18:[function(t,e,n){function r(){return c.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,c=t(25);e.exports=r,e.exports.offset=a,e.exports.getLastTimestamp=i},{}],19:[function(t,e,n){function r(t,e){var n=t.getEntries();n.forEach(function(t){"first-paint"===t.name?d("timing",["fp",Math.floor(t.startTime)]):"first-contentful-paint"===t.name&&d("timing",["fcp",Math.floor(t.startTime)])})}function i(t,e){var n=t.getEntries();n.length>0&&d("lcp",[n[n.length-1]])}function o(t){t.getEntries().forEach(function(t){t.hadRecentInput||d("cls",[t])})}function a(t){if(t instanceof h&&!w){var e=Math.round(t.timeStamp),n={type:t.type};e<=l.now()?n.fid=l.now()-e:e>l.offset&&e<=Date.now()?(e-=l.offset,n.fid=l.now()-e):e=l.now(),w=!0,d("timing",["fi",e,n])}}function c(t){d("pageHide",[l.now(),t])}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var s,f,u,d=t("handle"),l=t("loader"),p=t(22),h=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){s=new PerformanceObserver(r);try{s.observe({entryTypes:["paint"]})}catch(m){}f=new PerformanceObserver(i);try{f.observe({entryTypes:["largest-contentful-paint"]})}catch(m){}u=new PerformanceObserver(o);try{u.observe({type:"layout-shift",buffered:!0})}catch(m){}}if("addEventListener"in document){var w=!1,v=["click","keydown","mousedown","pointerdown","touchstart"];v.forEach(function(t){document.addEventListener(t,a,!1)})}p(c)}},{}],20:[function(t,e,n){function r(){function t(){return e?15&e[n++]:16*Math.random()|0}var e=null,n=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&(e=r.getRandomValues(new Uint8Array(31)));for(var i,o="xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx",a="",c=0;c<o.length;c++)i=o[c],"x"===i?a+=t().toString(16):"y"===i?(i=3&t()|8,a+=i.toString(16)):a+=i;return a}function i(){return a(16)}function o(){return a(32)}function a(t){function e(){return n?15&n[r++]:16*Math.random()|0}var n=null,r=0,i=window.crypto||window.msCrypto;i&&i.getRandomValues&&Uint8Array&&(n=i.getRandomValues(new Uint8Array(31)));for(var o=[],a=0;a<t;a++)o.push(e().toString(16));return o.join("")}e.exports={generateUuid:r,generateSpanId:i,generateTraceId:o}},{}],21:[function(t,e,n){function r(t,e){if(!i)return!1;if(t!==i)return!1;if(!e)return!0;if(!o)return!1;for(var n=o.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var c=navigator.userAgent,s=c.match(a);s&&c.indexOf("Chrome")===-1&&c.indexOf("Chromium")===-1&&(i="Safari",o=s[1])}e.exports={agent:i,version:o,match:r}},{}],22:[function(t,e,n){function r(t){function e(){t(a&&document[a]?document[a]:document[i]?"hidden":"visible")}"addEventListener"in document&&o&&document.addEventListener(o,e,!1)}e.exports=r;var i,o,a;"undefined"!=typeof document.hidden?(i="hidden",o="visibilitychange",a="visibilityState"):"undefined"!=typeof document.msHidden?(i="msHidden",o="msvisibilitychange"):"undefined"!=typeof document.webkitHidden&&(i="webkitHidden",o="webkitvisibilitychange",a="webkitVisibilityState")},{}],23:[function(t,e,n){function r(t,e){var n=[],r="",o=0;for(r in t)i.call(t,r)&&(n[o]=e(r,t[r]),o+=1);return n}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],24:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,i=n-e||0,o=Array(i<0?0:i);++r<i;)o[r]=t[e+r];return o}e.exports=r},{}],25:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(t,e,n){function r(){}function i(t){function e(t){return t&&t instanceof r?t:t?f(t,s,a):a()}function n(n,r,i,o,a){if(a!==!1&&(a=!0),!p.aborted||o){t&&a&&t(n,r,i);for(var c=e(i),s=m(n),f=s.length,u=0;u<f;u++)s[u].apply(c,r);var l=d[y[n]];return l&&l.push([x,n,r,c]),c}}function o(t,e){g[t]=m(t).concat(e)}function h(t,e){var n=g[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function m(t){return g[t]||[]}function w(t){return l[t]=l[t]||i(n)}function v(t,e){u(t,function(t,n){e=e||"feature",y[n]=e,e in d||(d[e]=[])})}var g={},y={},x={on:o,addEventListener:o,removeEventListener:h,emit:n,get:w,listeners:m,context:e,buffer:v,abort:c,aborted:!1};return x}function o(t){return f(t,s,a)}function a(){return new r}function c(){(d.api||d.feature)&&(p.aborted=!0,d=p.backlog={})}var s="nr@context",f=t("gos"),u=t(23),d={},l={},p=e.exports=i();e.exports.getOrSetContext=o,p.backlog=d},{}],gos:[function(t,e,n){function r(t,e,n){if(i.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return t[e]=r,r}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){i.buffer([t],r),i.emit(t,e,n)}var i=t("ee").get("handle");e.exports=r,r.ee=i},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,o,function(){return i++})}var i=1,o="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=x.info=NREUM.info,e=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(g,function(e,n){t[e]||(t[e]=n)});var n=a();c("mark",["onload",n+x.offset],null,"api"),c("timing",["load",n]);var r=l.createElement("script");r.src="https://"+t.agent,e.parentNode.insertBefore(r,e)}}function i(){"complete"===l.readyState&&o()}function o(){c("mark",["domContent",a()+x.offset],null,"api")}var a=t(18),c=t("handle"),s=t(23),f=t("ee"),u=t(21),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,g={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1198.min.js"},y=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),x=e.exports={offset:a.getLastTimestamp(),now:a,origin:v,features:{},xhrWrappable:y,userAgent:u};t(15),t(19),l[p]?(l[p]("DOMContentLoaded",o,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",i),d[h]("onload",r)),c("mark",["firstbyte",a.getLastTimestamp()],null,"api");var b=0},{}],"wrap-function":[function(t,e,n){function r(t,e){function n(e,n,r,s,f){function nrWrapper(){var o,a,u,l;try{a=this,o=d(arguments),u="function"==typeof r?r(o,a):r||{}}catch(p){i([p,"",[o,a,s],u],t)}c(n+"start",[o,a,s],u,f);try{return l=e.apply(a,o)}catch(h){throw c(n+"err",[o,a,h],u,f),h}finally{c(n+"end",[o,a,l],u,f)}}return a(e)?e:(n||(n=""),nrWrapper[l]=e,o(e,nrWrapper,t),nrWrapper)}function r(t,e,r,i,o){r||(r="");var c,s,f,u="-"===r.charAt(0);for(f=0;f<e.length;f++)s=e[f],c=t[s],a(c)||(t[s]=n(c,u?s+r:r,i,s,o))}function c(n,r,o,a){if(!h||e){var c=h;h=!0;try{t.emit(n,r,o,e,a)}catch(s){i([s,n,r,o],t)}h=c}}return t||(t=u),n.inPlace=r,n.flag=l,n}function i(t,e){e||(e=u);try{e.emit("internal-error",t)}catch(n){}}function o(t,e,n){if(Object.defineProperty&&Object.keys)try{var r=Object.keys(t);return r.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(o){i([o],n)}for(var a in t)p.call(t,a)&&(e[a]=t[a]);return e}function a(t){return!(t&&t instanceof Function&&t.apply&&!t[l])}function c(t,e){var n=e(t);return n[l]=t,o(t,n,u),n}function s(t,e,n){var r=t[e];t[e]=c(r,n)}function f(){for(var t=arguments.length,e=new Array(t),n=0;n<t;++n)e[n]=arguments[n];return e}var u=t("ee"),d=t(24),l="nr@original",p=Object.prototype.hasOwnProperty,h=!1;e.exports=r,e.exports.wrapFunction=c,e.exports.wrapInPlace=s,e.exports.argsToArray=f},{}]},{},["loader",2,12,4,3]);
+    ;NREUM.loader_config={accountID:"476902",trustKey:"476902",agentID:"2586499",licenseKey:"d97d9bbbdb",applicationID:"2586486"}
+    ;NREUM.info={beacon:"bam-cell.nr-data.net",errorBeacon:"bam-cell.nr-data.net",licenseKey:"d97d9bbbdb",applicationID:"2586486",sa:1}
+</script>
+
+    
+        <script>
+  dataLayer = [];
+</script>    
+            
+            
+            
+            
+            
+        <!-- Hotjar Tracking Code -->
+    
+        
+    
+            <script type="text/javascript">
+
+        // Duration in milliseconds to wait while the Kameleoon application file is loaded
+        var kameleoonLoadingTimeout = 1000;
+
+        window.kameleoonQueue = window.kameleoonQueue || [];
+        window.kameleoonStartLoadTime = new Date().getTime();
+        if (! document.getElementById("kameleoonLoadingStyleSheet") && ! window.kameleoonDisplayPageTimeOut)
+        {
+            var kameleoonS = document.getElementsByTagName("script")[0];
+            var kameleoonCc = "* { visibility: hidden !important; background-image: none !important; }";
+            var kameleoonStn = document.createElement("style");
+            kameleoonStn.type = "text/css";
+            kameleoonStn.id = "kameleoonLoadingStyleSheet";
+            if (kameleoonStn.styleSheet)
+            {
+                kameleoonStn.styleSheet.cssText = kameleoonCc;
+            }
+            else
+            {
+                kameleoonStn.appendChild(document.createTextNode(kameleoonCc));
+            }
+            kameleoonS.parentNode.insertBefore(kameleoonStn, kameleoonS);
+            window.kameleoonDisplayPage = function(fromEngine)
+            {
+                if (!fromEngine)
+                {
+                    window.kameleoonTimeout = true;
+                }
+                if (kameleoonStn.parentNode)
+                {
+                    kameleoonStn.parentNode.removeChild(kameleoonStn);
+                }
+            };
+            window.kameleoonDisplayPageTimeOut = window.setTimeout(window.kameleoonDisplayPage, kameleoonLoadingTimeout);
+        }
+
+        document.addEventListener('trigger_kameleoon', function () {
+            window.kameleoonQueue.push(function() {
+                Kameleoon.API.Core.enableLegalConsent();
+            });
+        });
+
+                {
+            window.kameleoonQueue.push(function() {
+                Kameleoon.API.Core.disableLegalConsent();
+            });
+        }
+            </script>
+    
+    
+            
+        <link rel="icon" href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/favicon/favicon.ico" sizes="32x32"/>
+    <link rel="icon" href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/favicon/favicon.svg" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/favicon/favicon_apple.png" sizes="180x180" />
+    
+        
+    
+    
+    
+        
+    
+
+            
+    
+        
+    
+        
+        
+    <script>
+        
+        
+        
+        let link_minify_one = "/min/?b=themes/voelkner/js/16b349edec1516cfaadf3097b36fe52e&f=/##file##&v=2507-5-9d621688";
+    </script>
+
+            <script>
+            let link_minify = "/min/?b=themes/voelkner/js/16b349edec1516cfaadf3097b36fe52e&f=/##file##&v=2507-5-9d621688"
+        </script>
+        <link rel="stylesheet"
+              href="https://www.voelkner.de/min/?b=themes/voelkner/css/16b349edec1516cfaadf3097b36fe52e&f=accordion.css,base.css,chatbot.css,pdp.css,progress_bar.css,recaptcha.css,reviews.css,sprite_icons.css,sprite_logo.css,table.css&v=2507-5-9d621688"/>
+    
+                                                                                <link href="https://www.gstatic.com" rel="dns-prefetch">
+                                                                <link href="https://www.google.com" rel="preconnect" crossorigin>
+                                                                                <link href="https://www.google.de" rel="preconnect" crossorigin>
+                                                                                <link href="https://apis.google.com" rel="preconnect" crossorigin>
+                                                                                <link href="https://www.googletagmanager.com" rel="preconnect" crossorigin>
+                                                                                <link href="https://www.google-analytics.com" rel="preconnect" crossorigin>
+                                                                                                <link href="https://pagead2.googlesyndication.com" rel="dns-prefetch">
+                                                                                <link href="https://stats.g.doubleclick.net" rel="dns-prefetch">
+                                                                                <link href="https://b.criteo.com" rel="dns-prefetch">
+                                                                <link href="https://asset.re-in.de" rel="preconnect" crossorigin>
+                                                                                <link href="https://button.loadbee.com" rel="preconnect" crossorigin>
+                                                                                                <link href="https://mycliplister.com" rel="dns-prefetch">
+                                                                <link href="https://www.paypalobjects.com" rel="preconnect" crossorigin>
+                                                                                                <link href="https://www.dwin1.com" rel="dns-prefetch">
+                                                                                <link href="https://piwik.re-in.de" rel="dns-prefetch">
+                                                                <link href="https://www.paypal.com/sdk/js" rel="preconnect" crossorigin>
+                                                            
+                <script type="text/javascript" src="//pqlmfhsort.kameleoon.eu/kameleoon.js" async="true" fetchpriority="high"></script>
+        
+                              <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="ERGMN-DA7KN-S6WX3-PELG5-44C4L",function(){function e(){if(!o){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,i.parentNode.appendChild(e),o=!0}}function t(e){o=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(i.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",i.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"ERGMN-DA7KN-S6WX3-PELG5-44C4L";var i=document.currentScript||document.getElementsByTagName("script")[0],o=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!o)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),i.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="",a="ks4nhaaxgkby42boajoq-f-d7cede3d4-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,o={"ak.v":"39","ak.cp":"1728097","ak.ai":parseInt("1118552",10),"ak.ol":"0","ak.cr":22,"ak.ipv":4,"ak.proto":"h3","ak.rid":"39d71db8","ak.r":47910,"ak.a2":n,"ak.m":"dscb","ak.n":"essl","ak.bpcip":"84.184.211.0","ak.cport":62116,"ak.gh":"23.51.23.14","ak.quicv":"0x00000001","ak.tlsv":"tls1.3","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"","ak.t":"1747845725","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==elI2d7GQrR9qM6/0Vi4wNCVYlBHRcd/MBOPzFoNzbb2VE/zXWzQiqrZAHQ/dhZOOSbXcVz+pjSm9eg9Iuqxe7apH6U69lHLEu2rJ9cph5eomMPgYNNO7j/QHEEpMhDC9J1b5xkOS/ncv0j85UlCHuS768QPfjZiD0WYk0jzmvDv/qojuZSpmVNWgupFWYTcEMk5ZFNjVMVUuZU7OTQKHYBg/IUOPvp8D6uwJErjktVOqDjQzK4NrbEhsfHmTMULjb4WMwW8bhC9v3wjloIcQjx8e+U4PvHIv7xaniIahQhsEUsJvS2NFVGkLN+t73Dsg9koXRgnqnOv7JT1jUH3MYxvsnWLvVZDWeA5O44oskdDQ+hOpL4G2rWSDw90KYBidA9sqh5BIB2i5MhjSgIPEtvU4sklzRMMO11qHQGSuylw=","ak.pv":"14","ak.dpoabenc":"","ak.tf":i};if(""!==t)o["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))o["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(o)},rv:function(){var e=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:o,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>    
+        <div id="js_shortcuts_display" class="shortcuts" tabindex="-1" role="navigation">
+        <div class="switch--float_right">
+        <div class="switch__info">
+            Tastenkombination an/aus
+        </div>
+        <input id="js_shortcut_switch"
+               class="switch__input"
+               type="checkbox"
+               name="Tastenkombination an/aus"
+               checked>
+        <label class="switch__paddle" for="js_shortcut_switch"></label>
+    </div>
+        <hr>
+    <strong>Tastenkombinationen</strong>
+    <ul class="shortcuts__list">
+                <li class="shortcuts__list__option">
+            <span class="shortcuts__list__option__title">Kurzbefehle ein-/ausblenden</span>
+            <div class="shortcuts__list__option__keys">
+                <span>Umschalt</span>+<span>Alt/Option</span>+<span>z</span>
+            </div>
+        </li>
+        
+                <li class="shortcuts__list__option">
+            <a href="#main_content" class="button--clear shortcuts__list__option__title">
+                zum Hauptinhalt
+            </a>
+            <div class="shortcuts__list__option__keys">
+                <span>Umschalt</span>+<span>Alt/Option</span>+<span>m</span>
+            </div>
+        </li>
+        
+                <li class="grid_x shortcuts__list__option">
+            <button class="button--clear shortcuts__list__option__title" type="button" onclick="shortcutSearch()">
+                Suche
+            </button>
+            <div class="shortcuts__list__option__keys">
+                <span>Umschalt</span>+<span>Alt/Option</span>+<span>k</span>
+            </div>
+        </li>
+        
+                <li class="shortcuts__list__option">
+            <button class="button--clear shortcuts__list__option__title" type="button" onclick="shortcutCart()">
+                Warenkorb
+            </button>
+            <div class="shortcuts__list__option__keys">
+                <span>Umschalt</span>+<span>Alt/Option</span>+<span>c</span>
+            </div>
+        </li>
+        
+                <li class="shortcuts__list__option">
+            <button class="button--clear shortcuts__list__option__title" type="button" onclick="shortcutCategories()">
+                Alle Kategorien
+            </button>
+            <div class="shortcuts__list__option__keys">
+                <span>Umschalt</span>+<span>Alt/Option</span>+<span>n</span>
+            </div>
+        </li>
+            </ul>
+</div>    
+        <body>
+                
+
+
+
+            <noscript>
+            <iframe src="//www.googletagmanager.com/ns.html?id=GTM-NJXBT8"
+                    height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        document.addEventListener('trigger_tagmanager', function () {
+            (function ( w, d, s, l, i )
+            {
+                w[ l ] = w[ l ] || [];
+                w[ l ].push( {
+                    'gtm.start': new Date().getTime(), event: 'gtm.js'
+                } );
+                var f = d.getElementsByTagName( s )[ 0 ],
+                    j = d.createElement( s ), dl = l != 'dataLayer' ? '&l=' + l : '';
+                j.async = true;
+                j.src = 'https://www.googletagmanager.com/gtm.js?id=placeholder'.replace('placeholder', i + dl);
+                f.parentNode.insertBefore( j, f );
+            })( window, document, 'script', 'dataLayer', 'GTM-NJXBT8');
+        });
+
+                {
+            let event = new Event('trigger_tagmanager');
+            document.dispatchEvent(event);
+        }
+        
+    </script>
+    
+        
+
+    
+                    
+        <script>
+    dataLayer.push( {
+                        'campaign2': 0
+                    } );
+</script>    
+        <script>
+    dataLayer.push( {
+        'groupid': 3
+    } );
+</script>    
+            <script>
+        dataLayer.push( {
+            'deliverycountryiso': 'DE'
+        } );
+    </script>
+    
+            
+            
+                
+                        <div class="grid_container">
+            <div class="cell">
+                <div class="overlay"></div>
+<div class="wave">
+	<div class="rect1"></div>
+	<div class="rect2"></div>
+	<div class="rect3"></div>
+	<div class="rect4"></div>
+	<div class="rect5"></div>
+</div>            </div>
+        </div>
+                        <div class="off_canvas__wrapper">
+                        <aside class="off_canvas--position_right"
+                 id="off_canvas_right"
+                 data-off-canvas>
+                                <div id="js_side_content"></div>
+                            </aside>
+                                    <aside class="off_canvas--position_left hide_for_print"
+                   id="off_canvas_left"
+                   data-off-canvas>
+                <div class="off_canvas__prelude">
+                    <div class="grid_x">
+                        <div class="cell">
+                            <button class="off_canvas__prelude__ctn_shopping" data-toggle="off_canvas_left">
+                                Weiter Einkaufen
+                                <svg class="icon chevron-right">
+                                    <use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#chevron-right"></use>
+                                </svg>
+                            </button>
+                        </div>
+                                                    <div class="cell">
+                                <div class="switch_customer_group">
+	<div class="switch_customer_group__container">
+		<a href="https://www.voelkner.de/main/switch.html?group=3"
+		   class="switch_customer_group__container__link switch_customer_group__container__link--active">
+            Privatkunde
+		</a>
+		<a href="https://www.voelkner.de/main/switch.html?group=4"
+		   class="switch_customer_group__container__link">
+            Geschäftskunde
+		</a>
+	</div>
+</div>                            </div>
+                                            </div>
+                </div>
+                                <nav id="js_main_navigation"
+		 class="off_canvas__navigation">
+	<ul class="menu menu--vertical drilldown">
+		<li id="drilldown_title"
+			class="drilldown__title">
+            Alle Kategorien
+		</li>
+                												<li class="js_load_subcategories is_drilldown_submenu_parent						"
+						data-category_id="13140">
+						<a href="#"
+						   class="off_canvas__navigation__item"
+						   title="Computer & Büro"
+						    >
+							Computer & Büro
+						</a>
+					</li>
+																<li class="js_load_subcategories is_drilldown_submenu_parent						"
+						data-category_id="13141">
+						<a href="#"
+						   class="off_canvas__navigation__item"
+						   title="Multimedia"
+						    >
+							Multimedia
+						</a>
+					</li>
+																<li class="js_load_subcategories is_drilldown_submenu_parent						"
+						data-category_id="13146">
+						<a href="#"
+						   class="off_canvas__navigation__item"
+						   title="Haus & Garten"
+						    >
+							Haus & Garten
+						</a>
+					</li>
+																<li class="js_load_subcategories is_drilldown_submenu_parent						"
+						data-category_id="13147">
+						<a href="#"
+						   class="off_canvas__navigation__item"
+						   title="Beleuchtung"
+						    >
+							Beleuchtung
+						</a>
+					</li>
+																<li class="js_load_subcategories is_drilldown_submenu_parent						"
+						data-category_id="13145">
+						<a href="#"
+						   class="off_canvas__navigation__item"
+						   title="Stromversorgung"
+						    >
+							Stromversorgung
+						</a>
+					</li>
+																<li class="js_load_subcategories is_drilldown_submenu_parent						"
+						data-category_id="13144">
+						<a href="#"
+						   class="off_canvas__navigation__item"
+						   title="Auto & Navigation"
+						    >
+							Auto & Navigation
+						</a>
+					</li>
+																<li class="js_load_subcategories is_drilldown_submenu_parent						"
+						data-category_id="13148">
+						<a href="#"
+						   class="off_canvas__navigation__item"
+						   title="Werkstatt"
+						    >
+							Werkstatt
+						</a>
+					</li>
+																<li class="js_load_subcategories is_drilldown_submenu_parent						"
+						data-category_id="13149">
+						<a href="#"
+						   class="off_canvas__navigation__item"
+						   title="Bauelemente"
+						    >
+							Bauelemente
+						</a>
+					</li>
+																<li class="js_load_subcategories is_drilldown_submenu_parent						"
+						data-category_id="13150">
+						<a href="#"
+						   class="off_canvas__navigation__item"
+						   title="Freizeit & Hobby"
+						    >
+							Freizeit & Hobby
+						</a>
+					</li>
+																														<li class="js_promotion_category						color_red"
+						data-category_id="100766">
+						<a href="/categories/9906_13124/Freizeit-Hobby/Sale.html"
+						   class="off_canvas__navigation__item"
+						   title="SALE"
+						    >
+							SALE
+						</a>
+					</li>
+																	<div id="js_subcategories_content"
+				 class="off_canvas__navigation__subcategories"></div>
+			</ul>
+</nav>                            </aside>
+            
+                        <section class="off_canvas__content"
+                     data-off-canvas-content>
+                                    
+    
+
+
+
+<header>
+                    
+<section class="advantage_bar show_for_medium">
+    <ul class="advantage_bar__list">
+                <li class="advantage_bar__list__item show_for_large">
+            <a href="https://www.voelkner.de/newsletters/newsletters.html"
+               target="_blank"
+               class="advantage_bar__list__item__link">
+                <svg class="advantage_bar__list__item__link__icon email">
+                    <use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#email"></use>
+                </svg>
+                Newsletter abonnieren und profitieren!
+            </a>
+        </li>
+                                    <li class="advantage_bar__list__item show_for_medium">
+                <a class="advantage_bar__list__item__link"
+                   href="https://www.voelkner.de/main/help_center.html?questions_id=360009155897"
+                   title="Lieferbedingungen">
+                    <svg class="advantage_bar__list__item__link__icon truck">
+                        <use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#truck"></use>
+                    </svg>
+                                            Kostenlose Lieferung für mehr als 5 Mio. Artikel möglich
+                                    </a>
+            </li>
+                                            <li class="advantage_bar__list__item show_for_medium">
+                                                                                    <a class="advantage_bar__list__item__link"
+                   href="https://www.voelkner.de/main/help_center.html?questions_id=4410478880785"
+                   title="Artikel zur&uuml;cksenden">
+                    <svg class="advantage_bar__list__item__link__icon package-return">
+                        <use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#package-return"></use>
+                    </svg>
+                                            30 Tage kostenlose Rücksendung
+                                                    möglich
+                                                            </a>
+            </li>
+                
+                <li class="advantage_bar__list__item show_for_large">
+            <a class="advantage_bar__list__item__link button--icon_left"
+               href="https://www.voelkner.de/main/help_center.html"
+               title="Hilfe und Kontakt">
+                <svg class="advantage_bar__list__item__link__icon help">
+                    <use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#help"></use>
+                </svg>
+                Hilfe und Kontakt
+            </a>
+        </li>
+            </ul>
+</section>        <section class="head">
+        <div class="head__wrapper">
+            <div class="head__wrapper__group">
+                <ul class="head__wrapper__group__list">
+                    <li class="head__wrapper__group__list__item--navigation"
+                        data-toggle="off_canvas_left">
+                        <button class="head__wrapper__group__list__item__button"
+                                title="Mobile Navigation"
+                                type="button">
+                            <span id="nav_icon_mobile"
+                                  class="head__wrapper__group__list__item__button__icon--nav js_nav_icon_mobile">
+                                <span class="head__wrapper__group__list__item__button__icon--nav__element"></span>
+                                <span class="head__wrapper__group__list__item__button__icon--nav__element"></span>
+                                <span class="head__wrapper__group__list__item__button__icon--nav__element"></span>
+                            </span>
+                        </button>
+                    </li>
+                                                                            </ul>
+            </div>
+                        <div class="head__wrapper__group--logo">
+                <a class="head__wrapper__group__button"
+                   href="https://www.voelkner.de/"
+                   title="voelkner">
+                    <svg class="icon_logo_shop icon">
+    <use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_logo.svg#shop"></use>
+</svg>
+                </a>
+            </div>
+                                    <div class="head__wrapper__group--search_form hide_for_print">
+                
+	<search title="Produkt suchen">
+	<form class="search_form--head"
+			 name="quick_find" id="js_search_form"		  action="https://www.voelkner.de/search/search.html"
+		  method="get">
+		<div id="js_search_form_group" class="search_form__group">
+			<input type="text"
+				   id="js_keywords"
+				   value=""				   name="keywords"
+				   class="search_form__group__input"
+				   autocomplete="off"
+				   placeholder="Suchbegriff eingeben, z.B. Laptop"/>
+			<label for="js_keywords"
+				   class="hide">
+				Suche
+			</label>
+			<button class="button button--small button--icon button--clear search_form__group__button--clear hide js_clear_search"
+					type="reset"
+					aria-label="Suche zurücksetzen">
+				<svg class="icon">
+					<use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#close"></use>
+				</svg>
+			</button>
+			<button class="search_form__group__button js_submit_search"
+					type="submit"
+					aria-label="Suche">
+				<svg class="search_form__group__button__icon">
+					<use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#search"></use>
+				</svg>
+			</button>
+							<div id="js_suggest_loading" class="search_form__loading_animation hide">
+					<div class="search_form__loading_animation__item_1"></div>
+					<div class="search_form__loading_animation__item_2"></div>
+					<div class="search_form__loading_animation__item_3"></div>
+					<div class="search_form__loading_animation__item_4"></div>
+					<div class="search_form__loading_animation__item_5"></div>
+				</div>
+				<div class="search_form__suggest">
+					<div id="js_suggestions" class="search_form__suggest__wrapper"></div>
+				</div>
+					</div>
+	</form>
+</search>
+            </div>
+                                    
+                <div class="head__wrapper__group--end hide_for_print">
+                    <ul class="head__wrapper__group__list">
+                        <li class="head__wrapper__group__list__item show_for_medium">
+                                                            <button class="head__wrapper__group__list__item__button"
+                                        data-tooltip
+                                        data-position="bottom"
+                                        data-alignment="right"
+                                        data-disable-hover="true"
+                                        title="Bitte melden Sie sich an, um Ihren Merkzettel zu öffnen."
+                                        aria-label="Merkzettel">
+                                    <svg class="head__wrapper__group__list__item__button__icon--wishlist icon">
+                                        <use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#heart-empty"></use>
+                                    </svg>
+                                </button>
+                                                    </li>
+                        <li class="head__wrapper__group__list__item">
+                                                                                                <a href="https://www.voelkner.de/auth/login.html"
+                                       class="head__wrapper__group__list__item__button"
+                                       title="Anmelden / Registrieren">
+                                        <svg class="head__wrapper__group__list__item__button__icon icon">
+                                            <use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#customer"></use>
+                                        </svg>
+                                    </a>
+                                                                                    </li>
+                        <li class="head__wrapper__group__list__item">
+                            <button class="head__wrapper__group__list__item__button js_cart_aside_toggle"
+                                    data-toggle="off_canvas_right"  title="zum Warenkorb">
+                                                                <span class="badge--absolute badge--cta_round" id="js_head_cart_count">
+                                    0
+                                </span>
+                                                                <svg class="head__wrapper__group__list__item__button__icon icon">
+                                    <use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#shopping-cart"></use>
+                                </svg>
+                            </button>
+                        </li>
+                    </ul>
+                </div>
+            
+                    </div>
+    </section>
+    <section class="sub_head show_for_large hide_for_print">
+        <div class="sub_head__wrapper">
+            <div class="sub_head__wrapper__group">
+                <ul class="sub_head__wrapper__group__list">
+                    <li class="sub_head__wrapper__group__list__item js_open_categories"
+                        data-toggle="off_canvas_left">
+                        <button id="toggle_main_nav"
+                                class="sub_head__wrapper__group__list__item__button--starter">
+							<span id="nav_icon_sub_head"
+                                  class="sub_head__wrapper__group__list__item__button__icon sub_head__wrapper__group__list__item__button__icon--nav">
+								<span class="sub_head__wrapper__group__list__item__button__icon--nav__element"></span>
+								<span class="sub_head__wrapper__group__list__item__button__icon--nav__element"></span>
+								<span class="sub_head__wrapper__group__list__item__button__icon--nav__element"></span>
+							</span>
+                            <span class="sub_head__wrapper__group__list__item__button__nav_title">
+								Alle Kategorien
+							</span>
+                        </button>
+                    </li>
+                                                                <li class="sub_head__wrapper__group__list__item">
+                                                            <a class="sub_head__wrapper__group__list__item__button--sale"
+                                   href="/categories/13150_13268/Freizeit-Hobby/Sale.html"
+                                   >
+                                                                        <svg class="icon sale">
+                                        <use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#sale"></use>
+                                    </svg>
+                                                                        SALE
+                                </a>
+                                                    </li>
+                                                                                                        <li class="sub_head__wrapper__group__list__item">
+                                        <a class="sub_head__wrapper__group__list__item__button--sale"
+           href="https://www.voelkner.de/products/dailydeals.html?itm_source=info&itm_medium=deals_block&itm_campaign=goToDealsPage"
+        >
+            <svg class="icon lightning">
+                <use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#lightning"></use>
+            </svg>
+            voelkner Blitzangebote
+        </a>
+    
+                        </li>
+                                                        </ul>
+            </div>
+            <div class="button_group align_right">
+                    
+                                                                                <button class="button button--clear js_comparison_overview"
+                                    data-toggle="js_comparison_pane"
+                                    data-comparison_count="0">
+                                <svg class="icon compare">
+                                    <use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#compare"></use>
+                                </svg>
+                                <span>
+                                    Produktvergleich
+                                    (<span class="js_comparison_count">0</span>)
+                                </span>
+                            </button>
+                            <div id="js_comparison_pane"
+                                 class="dropdown__panel--comparison js_dropdown"
+                                 data-toggler=".is_visible">
+                                <div id="js_comparison_content"
+                                     class="dropdown__panel__content">
+                                    Keine Produkte im Produktvergleich verfügbar
+                                </div>
+                            </div>
+                                                                                                                                                                            <div class="sub_head__wrapper__group__list__item--customer_group switch_customer_group--inverted switch_customer_group--large">
+                                <div class="switch_customer_group">
+	<div class="switch_customer_group__container">
+		<a href="https://www.voelkner.de/main/switch.html?group=3"
+		   class="switch_customer_group__container__link switch_customer_group__container__link--active">
+            Privatkunde
+		</a>
+		<a href="https://www.voelkner.de/main/switch.html?group=4"
+		   class="switch_customer_group__container__link">
+            Geschäftskunde
+		</a>
+	</div>
+</div>                            </div>
+                                            
+                                    </ul>
+            </div>
+        </div>
+    </section>
+</header>
+
+            <div class="grid_container hide_for_print">
+            <div class="grid_x">
+                <div class="cell">
+                    <nav>
+                        <ul id="js_breadcrumb"
+                            class="breadcrumbs"
+                            itemscope
+                            itemtype="https://schema.org/BreadcrumbList">
+                                        <li itemscope
+            itemtype="http://schema.org/ListItem"
+            itemprop="itemListElement"
+        >
+            <a href="https://www.voelkner.de/"
+               itemprop="item"
+               class="breadcrumbs__element">
+                <meta itemprop="position" content="1"/>
+                <span itemprop="name">Startseite</span></a>
+        </li>
+                <li itemscope
+            itemtype="http://schema.org/ListItem"
+            itemprop="itemListElement"
+        >
+            <a href="https://www.voelkner.de/categories/13140/Computer-Buero.html"
+               itemprop="item"
+               class="breadcrumbs__element">
+                <meta itemprop="position" content="2"/>
+                <span itemprop="name">Computer &amp; Büro</span></a>
+        </li>
+                <li itemscope
+            itemtype="http://schema.org/ListItem"
+            itemprop="itemListElement"
+        >
+            <a href="https://www.voelkner.de/categories/13140_13217/Computer-Buero/PC-Komponenten.html"
+               itemprop="item"
+               class="breadcrumbs__element">
+                <meta itemprop="position" content="3"/>
+                <span itemprop="name">PC-Komponenten</span></a>
+        </li>
+                <li itemscope
+            itemtype="http://schema.org/ListItem"
+            itemprop="itemListElement"
+        >
+            <a href="https://www.voelkner.de/categories/13140_13217_13616/Computer-Buero/PC-Komponenten/Grafikkarten.html"
+               itemprop="item"
+               class="breadcrumbs__element">
+                <meta itemprop="position" content="4"/>
+                <span itemprop="name">Grafikkarten</span></a>
+        </li>
+                            </ul>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    
+
+                                                <div class="grid_container">
+    <div class="grid_x">
+        <div class="cell">
+                        </div>
+    </div>
+</div>                
+                                                
+                                                        
+
+
+    
+                                                                                            
+    <div class="grid_container advertising">
+        <div class="grid_x">
+                            <div class="cell advertising__campaign">
+                                                                                                                                        <img data-dam_image='true'
+                             data-max_quality='true'
+                             alt=""
+                             data-interchange=
+                                 "[https://asset.re-in.de/isa/160267/c1/-/de/RIS_EB_Gutschein7,50fuerNL19d9d09dca5f7ea40c8c7927713ae8a1/.webp?x=569&align=center&format=WEBP&quality=1, xsmall],
+                                 [https://asset.re-in.de/isa/160267/c1/-/de/RIS_EB_Gutschein7,50fuerNL19d9d09dca5f7ea40c8c7927713ae8a1/.webp?x=869&align=center&format=WEBP&quality=1, small],
+                                 [https://asset.re-in.de/isa/160267/c1/-/de/RIS_EB_Gutschein7,50fuerNL19d9d09dca5f7ea40c8c7927713ae8a1/.webp?x=1460&align=center&format=WEBP&quality=1, medium]"
+                             loading="lazy"
+                        />
+                                                            
+                </div>
+                    </div>
+    </div>
+                                
+                                <main id="main_content">
+                    
+                    
+    
+
+    
+            
+        
+    
+            
+        
+                
+        
+    
+    
+    
+            
+            
+    
+
+<div class="grid_container" itemscope itemtype="https://schema.org/Product">
+        <meta itemprop="name" content="Palit RTX 5080 GameRock 16 GB GDDR7"/>
+    <meta itemprop="description" content="Palit RTX 5080 GameRock 16 GB GDDR7"/>
+    <meta itemprop="sku" content="Y14697722"/>
+            <link itemprop="image" href="https://asset.re-in.de/isa/160267/c1/-/de/RIB_0022347810PI10651854/Palit-RTX-5080-GameRock-16-GB-GDDR7.webp?x=600&y=600&ex=600&ey=600&align=center&format=WEBP&quality=95"/>
+                <meta itemprop="gtin" content="4710562244892"/>
+        	<div class="grid_x grid_margin_x">
+        <div class="cell small_auto product_title">
+            <h1>Palit RTX 5080 GameRock 16 GB GDDR7</h1>
+        </div>
+                <div class="cell small_shrink">
+                        <ul class="logo_list--circle align_right">
+                <li class="logo_list__item">
+            <a class="logo_list__item__link"
+               href="https://www.trustedshops.com/buyerrating/info_XC930379C5338C2609D12B0461A0538C2.html"
+               title="Unsere Bewertungen auf Trusted Shops"
+               target="_blank">
+                <svg class="logo_list__item__link__icon">
+                    <use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_logo.svg#seals_trusted_shops"></use>
+                </svg>
+            </a>
+        </li>
+        
+                <li class="logo_list__item">
+            <a class="logo_list__item__link"
+               href="https://cert.ehi-siegel.de/webshop/voelkner_4034245"
+               target="_blank">
+                <svg class="logo_list__item__link__icon">
+                    <use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_logo.svg#seals_ehi"></use>
+                </svg>
+            </a>
+        </li>
+        
+                <li class="logo_list__item">
+            <a class="logo_list__item__link"
+               href="https://ehi-siegel.de/fileadmin/redaktion/bevh/trustmark-certificate-bevh.pdf"
+               title="Ecommerce Europe Trustmark Zertifikat"
+               target="_blank">
+                <svg class="logo_list__item__link__icon">
+                    <use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_logo.svg#seals_trust_ecommerce_europe"></use>
+                </svg>
+            </a>
+        </li>
+        
+            </ul>
+                    </div>
+            </div>
+    <div class="grid_x grid_margin_x">
+        <div class="cell large_7">
+            <ul class="menu--simple">
+                                    <li>
+                                                	<a itemprop="brand"	   itemtype="https://schema.org/Brand"
+	   itemscope
+	   class="product__manufacturer"
+	   href="https://www.voelkner.de/hersteller/14500/palit.html"
+	   title="weitere Artikel von PALIT"
+	>
+		<meta itemprop="name" content="PALIT"/>
+		<img itemprop="logo"
+			 class="js_manufacturer_image product__manufacturer__logo__image"
+			 loading="lazy"
+			 src="https://asset.re-in.de/isa/160267/c1/-/de/PALIT_FL_00/PALIT.webp?x=80&y=40&ex=80&ey=40&align=center&format=WEBP"
+			 alt="Hersteller: PALIT"
+			 title="Hersteller: PALIT"
+			 width="80px"
+			 height="40px"
+		/>
+	</a>
+                                                                                            </li>
+                                <li>
+                    <a id="js_go_to_reviews"
+                       class="button button--link"
+                       href="#product_rating"
+                       data-smooth-scroll
+                       data-offset="140"
+                       title="Bewertungen">
+                        	<span class="rating"
+    		itemprop="aggregateRating"
+		itemscope
+		itemtype="https://schema.org/AggregateRating"
+	>
+
+    			<meta itemprop="worstRating" content="0">
+		<meta itemprop="bestRating" content="5">
+		<meta itemprop="ratingCount" content="0"/>
+	
+	<span class="rating__stars"
+					itemprop="ratingValue"
+			content="0"
+			>
+
+		<svg class="rating__stars__icon icon star-empty">
+							<use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#star-empty"></use>
+					</svg>
+		<svg class="rating__stars__icon icon star-empty">
+							<use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#star-empty"></use>
+					</svg>
+		<svg class="rating__stars__icon icon star-empty">
+							<use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#star-empty"></use>
+					</svg>
+		<svg class="rating__stars__icon icon star-empty">
+							<use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#star-empty"></use>
+					</svg>
+		<svg class="rating__stars__icon icon star-empty">
+							<use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#star-empty"></use>
+					</svg>
+	</span>
+	            
+	</span>
+                    </a>
+                </li>
+                <li>
+                                            <li>
+        Art.-Nr.: Y14697722
+    </li>
+
+
+
+                                    </li>
+            </ul>
+            			<section class="product_media" id="buybox_top">
+					<div class="product_media__wrapper">
+							<div class="product_media__main_gallery">
+					<img src="https://asset.re-in.de/isa/160267/c1/-/de/RIB_0022347810PI10651854/Palit-RTX-5080-GameRock-16-GB-GDDR7.webp?x=600&y=600&ex=600&ey=600&align=center&format=WEBP&quality=95"
+						 title="Palit RTX 5080 GameRock 16 GB GDDR7"
+						 alt="Palit RTX 5080 GameRock 16 GB GDDR7"
+						 class="js_pdp_zoom"
+						 data-zoom="https://asset.re-in.de/isa/160267/c1/-/de/RIB_0022347810PI10651854/Palit-RTX-5080-GameRock-16-GB-GDDR7.webp?x=1822&y=1025&ex=1822&ey=1025&align=center&format=WEBP"
+						 width="500px"
+						 height="500px"/>
+									</div>
+					</div>
+									</section>            		</div>
+        <div class="cell large_5">
+            <div class="grid_y grid_margin_y">
+                                <div class="cell">
+                        
+
+
+<section class="grid_y grid_margin_y">
+    <div class="cell">
+                <div class="product__buy_box">
+            <div class="product__buy_box__content">
+                <div class="grid_x grid_margin_x">
+                                                            
+                                                                <div class="cell">
+                            <ul class="product__options--buy_box">
+        <li>
+            
+    
+
+
+<button class="button button--link"
+        data-open="price_alarm"
+        id="js_price_alarm_trigger">
+    <svg class="icon">
+        <use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#notification"></use>
+    </svg>
+    Preisalarm
+</button>
+
+<div class="reveal hide_for_print"
+     id="price_alarm"
+     data-reveal>
+    <div id="js_pricealert_content"
+         data-resize="js_pricealarm_content">
+        <div class="grid_x grid_margin_x">
+            <div class="cell">
+                <h2>
+                    Preisalarm
+                </h2>
+            </div>
+            <div class="cell hide"
+                 id="js_price_notification_error">
+                <div class="callout--alert">
+                    <span id="js_price_notification_error_msg">Es ist ein Fehler aufgetreten.</span>
+                </div>
+            </div>
+            <div class="cell"
+                 id="js_choose_price_alarm">
+                <form class="grid_x"
+                      id="js_price_form"
+                      data-abide
+                      novalidate>
+                    <div class="cell form__input">
+                        <input id="js_desired_price"
+                               class="email-notification"
+                               placeholder="Preisalarm - Ihr Wunschpreis*"
+                               type="number"
+                               min="0"
+                               name="desired_price"
+                               required/>
+                        <label class="form__input__label"
+                               for="js_desired_price">
+                            Preisalarm - Ihr Wunschpreis*
+                        </label>
+                    </div>
+                    <div class="cell form__input">
+                        <select id="js_price_lifetime"
+                                title="Laufzeit">
+                                                            <option value="30"                                    selected="selected">
+                                    30 Tage
+                                </option>
+                                                            <option value="90">
+                                    90 Tage
+                                </option>
+                                                            <option value="120">
+                                    120 Tage
+                                </option>
+                                                    </select>
+                        <label class="form__input__label">
+                            Laufzeit
+                        </label>
+                    </div>
+                    <div class="cell form__input">
+                        <input id="js_price_email"
+                               class="email-notification"
+                               type="email"
+                               pattern="email_validation"
+                               name="mail_address"
+                               required
+                               value=""/>
+                        <label class="form__input__label"
+                               for="js_price_email">
+                            E-Mail-Adresse *
+                        </label>
+                        <span class="form__input__error">
+                            Bitte geben Sie eine gültige E-Mail-Adresse an.
+                        </span>
+                    </div>
+                    <div class="cell">
+                        <div class="button_group--expanded_for_small align_right">
+                            <button class="button button--clear" type="reset" data-close>
+                                Abbrechen
+                            </button>
+                            <button class="button button--primary" id="js_notification_add_price_notification"
+                                    data-products_id="12168718">
+                                Absenden
+                            </button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+            <div class="cell hide"
+                 id="js_price_alarm_set">
+                <div class="callout--success">
+                    <p>
+                        Preisalarm ist aktiviert!
+                    </p>
+                    Wir schicken Ihnen eine E-Mail, sobald Ihr Wunschpreis erreicht wurde.
+                </div>
+            </div>
+        </div>
+    </div>
+    <button class="button--icon_delete" type="button" data-close title="Schließen">
+        <svg class="icon close">
+            <use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#close"></use>
+        </svg>
+    </button>
+</div>    </li>
+                <li>
+                <button data-toggle="js_comparison_product_12168718"
+            id="js_trigger_comparison_12168718"
+            class="button button--link js_add_to_comparison"
+            data-add-compare-product-id="12168718"
+                            data-add-compare-category-id="13616"
+                        data-tooltip
+            data-show-on="small"
+            data-tip-text="Produkt vergleichen">
+        <span class="js_add_12168718">
+            <svg class="button_comparison__icon icon">
+                <use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#compare"></use>
+            </svg>
+            <span>
+                Produkt vergleichen
+            </span>
+        </span>
+        <span class="js_open_reveal_12168718"
+              style="display: none;">
+            <svg class="button_comparison__icon icon">
+                <use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#check-empty"></use>
+            </svg>
+            <span>
+                Vergleich ansehen
+            </span>
+        </span>
+        <span class="js_error_12168718"
+              style="display: none;">
+            <svg class="button_comparison__icon icon">
+                <use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#close"></use>
+            </svg>
+            <span>
+                 Fehler
+            </span>
+        </span>
+    </button>
+    <div id="js_comparison_product_12168718"
+         class="dropdown__panel--comparison js_dropdown"
+         data-toggler=".is_visible">
+    </div>
+        </li>
+                <li>
+            
+<button class="button button--link
+			js_wishlist_not_registered
+	"
+        type="button"
+        data-pid="12168718"
+        data-template-classes="tooltip_12168718"
+        >
+            <svg class="icon">
+            <use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#heart-empty"></use>
+        </svg>
+        <span>
+            Produkt merken
+        </span>
+    </button>        </li>
+    </ul>                        </div>
+                                        
+                                        <div class="cell">
+                        <div class="grid_x grid_margin_x align_right">
+                                                                                    
+                            <div class="cell auto">
+                                <div class="product__buy_box__content__price">
+                                                                        
+                                                    
+                
+    <div class="product__price--large"
+        >
+        
+                                                    
+        
+            <div class="product__price__wrapper">
+                                    
+                        <span class="product__price__wrapper__euro">1.323</span><span class="product__price__wrapper__cent">,39 €</span>
+                    </div>
+
+                                
+                                                                                                    </div>
+                                    
+                                                                            <div class="product__shipping_cost">
+                    inkl. MwSt.
+        
+                                    <div class="product__shipping_cost__price--free">
+                    Gratis Versand
+                </div>
+                        </div>
+                                    
+                                                                                                                                            </div>
+                            </div>
+                        </div>
+                        
+                                                    <form class="js_buy_form product__buy_form--buy_box hide_for_print"
+          name="buy_offer"
+          action="https://www.voelkner.de/index.php"
+          method="GET">
+        <input type="hidden" name="mp" value="products"/>
+        <input type="hidden" name="file" value="info"/>
+        <input type="hidden" name="products_id" value="12168718"/>
+        <input type="hidden" name="offer_id" value="20b533bdd6b03df78497ef96d1466e2a"/>
+        <input type="hidden" name="action" value="buy_offer"/>
+        
+                        
+                    <div class="grid_x grid_margin_x">
+                <div class="cell small_4">
+                                        <div class="quantity_field">
+            <div class="input_group_quantity--large">
+                                <div class="input_group_quantity__button">
+                    <button class="js_quantity_sub_pdp button"
+                            type="button"                            data-qtymin="1"                            data-qtyunit="1"
+                            aria-label="Menge erhöhen">
+                        <svg class="input_group_quantity__button__icon icon minus">
+                            <use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#minus"></use>
+                        </svg>
+                    </button>
+                </div>
+                                                <div class="input_group_quantity__field">
+                    <span class="input_group_quantity__unit">Stück</span>
+                    
+                                                                
+                    <input type="number"
+                           id="qty_value"
+                           name="qty"
+                           class="js_product__quantity__input js_update_qty"
+                           data-offer_id="20b533bdd6b03df78497ef96d1466e2a"
+                           value="1"
+                           min="1"
+                           max="47"                           data-qtyunit="1"/>
+                </div>
+                                                <div class="input_group_quantity__button">
+                    <button class="js_quantity_add_pdp button"
+                            type="button"                            data-qtymax="47"                            data-qtyunit="1"
+                            aria-label="Menge reduzieren">
+                        <svg class="input_group_quantity__button__icon icon plus">
+                            <use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#plus"></use>
+                        </svg>
+                    </button>
+                </div>
+                            </div>
+        </div>
+                    </div>
+                <div class="cell small_8">
+                    <button class="button button--large button--cta button--expanded js_add_offer js_search_tracking_cart"
+                            title="Jetzt kaufen"
+                            type="button"
+                            data-offer_id="20b533bdd6b03df78497ef96d1466e2a"
+                            data-toggle="off_canvas_right">
+                        In den Warenkorb
+                    </button>
+                                        <div class="paypal_button_group">
+                                                                            <div id="js_payment_partner"
+                                 class="payment__partner"
+                                 data-offer="20b533bdd6b03df78497ef96d1466e2a"
+                                 data-seller="14131"></div>
+                                                                    </div>
+                                    </div>
+            </div>
+            </form>
+                                                                                                                    </div>
+                </div>
+            </div>
+        </div>
+        
+                                                    <div class="card--combo">
+                                <div class="card__section">
+                                                                
+                                        
+                                            <div class="product__availability">
+        <span class="product__availability__value--available">
+            auf Lager
+        </span>
+    </div>
+                    
+                                            <div class="product__delivery_time">
+        Lieferzeit:
+
+        
+        1-2 Tage
+    </div>
+                                    </div>
+                
+                                                    <div class="card__section">
+                        <div class="seller">
+			<div class="seller__info"><div>Verkauf & Versand:</div><a class="seller__info__link" href="https://www.voelkner.de/sellers/14131/tease-solutions-GmbH.html"title="tease solutions GmbH"data-allow-html="true"data-show-on="xsmall"data-tip-text='<div class="grid_x grid_margin_x">
+    <div class="cell">
+        <h3>
+            tease solutions GmbH
+        </h3>
+    </div>
+    <div class="cell">
+        <div class="grid_x">
+            <div class="cell small_auto">
+                Gesamtbewertung
+            </div>
+            <div class="cell small_shrink">
+                	<span class="rating"
+    >
+
+    	
+	<span class="rating__stars"
+			>
+
+		<svg class="rating__stars__icon icon star-full">
+							<use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#star-full"></use>
+					</svg>
+		<svg class="rating__stars__icon icon star-full">
+							<use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#star-full"></use>
+            		</svg>
+		<svg class="rating__stars__icon icon star-full">
+							<use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#star-full"></use>
+            		</svg>
+		<svg class="rating__stars__icon icon star-full">
+							<use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#star-full"></use>
+            		</svg>
+		<svg class="rating__stars__icon icon star-full">
+							<use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#star-full"></use>
+            		</svg>
+	</span>
+	            
+	</span>
+            </div>
+        </div>
+    </div>
+            <div class="cell">
+                            <div class="grid_x grid_margin_x seller__summary__item">
+                    <div class="cell small_auto">
+                        Höhe der Versandkosten:
+                    </div>
+                                                                    <div class="cell small_shrink">
+                            	<span class="rating"
+    >
+
+    	
+	<span class="rating__stars"
+			>
+
+		<svg class="rating__stars__icon icon star-full">
+							<use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#star-full"></use>
+					</svg>
+		<svg class="rating__stars__icon icon star-full">
+							<use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#star-full"></use>
+            		</svg>
+		<svg class="rating__stars__icon icon star-full">
+							<use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#star-full"></use>
+            		</svg>
+		<svg class="rating__stars__icon icon star-full">
+							<use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#star-full"></use>
+            		</svg>
+		<svg class="rating__stars__icon icon star-empty">
+							<use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#star-empty"></use>
+					</svg>
+	</span>
+	            
+	</span>
+                        </div>
+                                                        </div>
+                            <div class="grid_x grid_margin_x seller__summary__item">
+                    <div class="cell small_auto">
+                        Lieferfrist eingehalten:
+                    </div>
+                                                                <div class="cell shrink tf_bold">
+                                                        86 %
+                        </div>
+                                    </div>
+                            <div class="grid_x grid_margin_x seller__summary__item">
+                    <div class="cell small_auto">
+                        Produkt gut verpackt:
+                    </div>
+                                                                <div class="cell shrink tf_bold">
+                                                        96 %
+                        </div>
+                                    </div>
+                    </div>
+    </div>'data-tooltip-class="tooltip--clean"data-position="top"data-tooltip>tease solutions GmbH<svg class="icon"><use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#info"></use></svg></a></div>
+								<div class="seller__rating">
+								<a class="button button--link"
+   href="https://www.voelkner.de/sellers/14131/tease-solutions-GmbH.html"
+   title="Bewertungen">
+
+    	
+	<span class="rating__stars"
+			>
+
+		<svg class="rating__stars__icon icon star-full">
+							<use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#star-full"></use>
+					</svg>
+		<svg class="rating__stars__icon icon star-full">
+							<use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#star-full"></use>
+            		</svg>
+		<svg class="rating__stars__icon icon star-full">
+							<use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#star-full"></use>
+            		</svg>
+		<svg class="rating__stars__icon icon star-full">
+							<use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#star-full"></use>
+            		</svg>
+		<svg class="rating__stars__icon icon star-full">
+							<use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#star-full"></use>
+            		</svg>
+	</span>
+	        		(4479)
+        
+	</a>
+											</div>
+						</div>
+                    </div>
+                                            </div>
+            </div>
+    
+            
+            </section>
+
+
+
+
+                    <section class="product__buy_box--sticky js_buy_box">
+        <button class="product__buy_box__toggle show_for_xsmall_only js_buy_box_toggle">
+        <svg class="product__buy_box__toggle__icon">
+            <use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#chevron-down"></use>
+        </svg>
+    </button>
+        <div class="product__buy_box__container">
+        <div class="grid_x grid_margin_x align_justify align_middle">
+                                        <div class="cell shrink">
+                    <img src="https://asset.re-in.de/isa/160267/c1/-/de/RIB_0022347810PI10651854/Palit-RTX-5080-GameRock-16-GB-GDDR7.webp?x=75&y=75&ex=75&ey=75&align=center&format=WEBP&quality=95"
+                         title="Palit RTX 5080 GameRock 16 GB GDDR7"
+                         alt="Palit RTX 5080 GameRock 16 GB GDDR7"
+                         width="75px"
+                         height="75px"/>
+                </div>
+                                                <div class="cell auto">
+                <div class="sticky_buybox__container__price">
+                                        
+                                                    
+                
+    <div class="product__price"
+        >
+        
+                                                    
+        
+            <div class="product__price__wrapper">
+                                    
+                        <span class="product__price__wrapper__euro">1.323</span><span class="product__price__wrapper__cent">,39 €</span>
+                    </div>
+
+                                
+                                                                                                    </div>
+                    
+                                            <div class="product__shipping_cost">
+                    inkl. MwSt.
+        
+                                    <div class="product__shipping_cost__price--free">
+                    Gratis Versand
+                </div>
+                        </div>
+                    
+                                                                            </div>
+            </div>
+
+                        <div class="cell shrink">
+                    <form class="js_buy_form product__buy_form hide_for_print"
+          name="buy_offer"
+          action="https://www.voelkner.de/index.php"
+          method="GET">
+        <input type="hidden" name="mp" value="products"/>
+        <input type="hidden" name="file" value="info"/>
+        <input type="hidden" name="products_id" value="12168718"/>
+        <input type="hidden" name="offer_id" value="20b533bdd6b03df78497ef96d1466e2a"/>
+        <input type="hidden" name="action" value="buy_offer"/>
+                    <input type="hidden" name="qty" value="1"/>
+        
+                        
+                    
+                        <div class="js_loading_container">
+                                                                        <button class="button button--cta button--xsmall_only_expanded float_right show_for_small js_add_offer js_search_tracking_cart"
+                            title="Jetzt kaufen"
+                            type="button"
+                            data-offer_id="20b533bdd6b03df78497ef96d1466e2a"
+                            data-toggle="off_canvas_right">
+                        In den Warenkorb
+                    </button>
+                                        <button class="button button--icon--large button--cta float_right show_for_xsmall_only js_add_offer js_search_tracking_cart"
+                            title="Jetzt kaufen"
+                            type="button"
+                            data-offer_id="20b533bdd6b03df78497ef96d1466e2a"
+                            data-toggle="off_canvas_right">
+                        <svg class="icon">
+                            <use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#shopping-cart"></use>
+                        </svg>
+                    </button>
+                                            </div>
+                        </form>
+            </div>
+                    </div>
+    </div>
+</section>
+                </div>
+                                                <section class="cell">
+                    <div class="grid_y grid_margin_y">
+                                                    <div class="cell">
+                                <ul class="menu--align_right menu--simple">
+                                                                        <li>
+                                        <a class="button button--link"
+                                           href="https://www.voelkner.de/umwelt.html"
+                                           target="_blank"
+                                           title="Entsorgung &amp; Umwelt">
+                                        Entsorgung &amp; Umwelt
+                                        </a>
+                                    </li>
+                                                                                                        </ul>
+                            </div>
+                                                                                                                                                                        <div class="cell">
+                            <div class="grid_x grid_margin_y">
+                                <div class="cell">
+                                    <div class="grid_x grid_margin_x align_middle">
+                                        <div class="cell auto product__more_offers">
+                                            Andere Verkäufer auf voelkner:
+                                        </div>
+                                        <div class="cell large_shrink">
+                                            <a href="https://www.voelkner.de/products/12168718/Palit-RTX-5080-GameRock-16-GB-GDDR7/offers.html" class="button button--primary button--xsmall_only_expanded">
+                                                Alle Angebote (2 neu, 0 gebraucht)
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="cell">
+                                                                                                                                                                                    <div class="grid_x grid_margin_x">
+    <div class="cell show_for_large">
+        <div class="card">
+            <div class="card__section">
+                <div class="product_wrapper">
+                
+    <div class="product--bazaar">
+        
+                        
+
+                        
+                        
+                            <div class="product__purchase">
+                    <div class="product__purchase__price">
+                            
+                                                    
+                
+    <div class="product__price--small"
+        >
+        
+                                                    
+        
+            <div class="product__price__wrapper">
+                                    
+                        <span class="product__price__wrapper__euro">1.390</span><span class="product__price__wrapper__cent">,83 €</span>
+                    </div>
+
+                                
+                                                                                                    </div>
+                
+                                <div class="product__shipping_cost">
+                    inkl. MwSt.
+        
+                                    <div class="product__shipping_cost__price--free">
+                    Gratis Versand
+                </div>
+                        </div>
+                
+                            </div>
+
+    <div class="product__purchase__atp">
+                                            
+                            
+                                <div class="product__availability">
+        <span class="product__availability__value--available">
+            auf Lager
+        </span>
+    </div>
+                
+                                <div class="product__delivery_time">
+        Lieferzeit:
+
+        
+        2-3 Tage
+    </div>
+                
+                        
+                            <div class="seller">
+			<div class="seller__info"><div>Verkauf & Versand:</div><a class="seller__info__link" href="https://www.voelkner.de/sellers/14221/Future-X.html"title="Future-X"data-allow-html="true"data-show-on="xsmall"data-tip-text='<div class="grid_x grid_margin_x">
+    <div class="cell">
+        <h3>
+            Future-X
+        </h3>
+    </div>
+    <div class="cell">
+        <div class="grid_x">
+            <div class="cell small_auto">
+                Gesamtbewertung
+            </div>
+            <div class="cell small_shrink">
+                	<span class="rating"
+    >
+
+    	
+	<span class="rating__stars"
+			>
+
+		<svg class="rating__stars__icon icon star-full">
+							<use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#star-full"></use>
+					</svg>
+		<svg class="rating__stars__icon icon star-full">
+							<use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#star-full"></use>
+            		</svg>
+		<svg class="rating__stars__icon icon star-full">
+							<use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#star-full"></use>
+            		</svg>
+		<svg class="rating__stars__icon icon star-full">
+							<use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#star-full"></use>
+            		</svg>
+		<svg class="rating__stars__icon icon star-full">
+							<use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#star-full"></use>
+            		</svg>
+	</span>
+	            
+	</span>
+            </div>
+        </div>
+    </div>
+            <div class="cell">
+                            <div class="grid_x grid_margin_x seller__summary__item">
+                    <div class="cell small_auto">
+                        Höhe der Versandkosten:
+                    </div>
+                                                                    <div class="cell small_shrink">
+                            	<span class="rating"
+    >
+
+    	
+	<span class="rating__stars"
+			>
+
+		<svg class="rating__stars__icon icon star-full">
+							<use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#star-full"></use>
+					</svg>
+		<svg class="rating__stars__icon icon star-full">
+							<use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#star-full"></use>
+            		</svg>
+		<svg class="rating__stars__icon icon star-full">
+							<use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#star-full"></use>
+            		</svg>
+		<svg class="rating__stars__icon icon star-full">
+							<use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#star-full"></use>
+            		</svg>
+		<svg class="rating__stars__icon icon star-empty">
+							<use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#star-empty"></use>
+					</svg>
+	</span>
+	            
+	</span>
+                        </div>
+                                                        </div>
+                            <div class="grid_x grid_margin_x seller__summary__item">
+                    <div class="cell small_auto">
+                        Lieferfrist eingehalten:
+                    </div>
+                                                                <div class="cell shrink tf_bold">
+                                                        98 %
+                        </div>
+                                    </div>
+                            <div class="grid_x grid_margin_x seller__summary__item">
+                    <div class="cell small_auto">
+                        Produkt gut verpackt:
+                    </div>
+                                                                <div class="cell shrink tf_bold">
+                                                        98 %
+                        </div>
+                                    </div>
+                    </div>
+    </div>'data-tooltip-class="tooltip--clean"data-position="top"data-tooltip>Future-X<svg class="icon"><use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#info"></use></svg></a></div>
+								<div class="seller__rating">
+								<a class="button button--link"
+   href="https://www.voelkner.de/sellers/14221/Future-X.html"
+   title="Bewertungen">
+
+    	
+	<span class="rating__stars"
+			>
+
+		<svg class="rating__stars__icon icon star-full">
+							<use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#star-full"></use>
+					</svg>
+		<svg class="rating__stars__icon icon star-full">
+							<use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#star-full"></use>
+            		</svg>
+		<svg class="rating__stars__icon icon star-full">
+							<use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#star-full"></use>
+            		</svg>
+		<svg class="rating__stars__icon icon star-full">
+							<use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#star-full"></use>
+            		</svg>
+		<svg class="rating__stars__icon icon star-full">
+							<use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#star-full"></use>
+            		</svg>
+	</span>
+	        		(365)
+        
+	</a>
+									<svg class="icon"
+						 data-tooltip
+						 data-allow-html="true"
+						 data-show-on="xsmall"
+						 data-tip-text='<div class="grid_x grid_margin_x">
+    <div class="cell">
+        <h3>
+            Future-X
+        </h3>
+    </div>
+    <div class="cell">
+        <div class="grid_x">
+            <div class="cell small_auto">
+                Gesamtbewertung
+            </div>
+            <div class="cell small_shrink">
+                	<span class="rating"
+    >
+
+    	
+	<span class="rating__stars"
+			>
+
+		<svg class="rating__stars__icon icon star-full">
+							<use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#star-full"></use>
+					</svg>
+		<svg class="rating__stars__icon icon star-full">
+							<use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#star-full"></use>
+            		</svg>
+		<svg class="rating__stars__icon icon star-full">
+							<use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#star-full"></use>
+            		</svg>
+		<svg class="rating__stars__icon icon star-full">
+							<use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#star-full"></use>
+            		</svg>
+		<svg class="rating__stars__icon icon star-full">
+							<use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#star-full"></use>
+            		</svg>
+	</span>
+	            
+	</span>
+            </div>
+        </div>
+    </div>
+            <div class="cell">
+                            <div class="grid_x grid_margin_x seller__summary__item">
+                    <div class="cell small_auto">
+                        Höhe der Versandkosten:
+                    </div>
+                                                                    <div class="cell small_shrink">
+                            	<span class="rating"
+    >
+
+    	
+	<span class="rating__stars"
+			>
+
+		<svg class="rating__stars__icon icon star-full">
+							<use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#star-full"></use>
+					</svg>
+		<svg class="rating__stars__icon icon star-full">
+							<use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#star-full"></use>
+            		</svg>
+		<svg class="rating__stars__icon icon star-full">
+							<use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#star-full"></use>
+            		</svg>
+		<svg class="rating__stars__icon icon star-full">
+							<use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#star-full"></use>
+            		</svg>
+		<svg class="rating__stars__icon icon star-empty">
+							<use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#star-empty"></use>
+					</svg>
+	</span>
+	            
+	</span>
+                        </div>
+                                                        </div>
+                            <div class="grid_x grid_margin_x seller__summary__item">
+                    <div class="cell small_auto">
+                        Lieferfrist eingehalten:
+                    </div>
+                                                                <div class="cell shrink tf_bold">
+                                                        98 %
+                        </div>
+                                    </div>
+                            <div class="grid_x grid_margin_x seller__summary__item">
+                    <div class="cell small_auto">
+                        Produkt gut verpackt:
+                    </div>
+                                                                <div class="cell shrink tf_bold">
+                                                        98 %
+                        </div>
+                                    </div>
+                    </div>
+    </div>'
+						 data-tooltip-class="tooltip--clean"
+						 data-position="top">
+						<use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#info"></use>
+					</svg>
+							</div>
+						</div>
+                    </div>
+
+
+    <div class="product__purchase__cta_quantity">
+                        <form class="js_buy_form product__buy_form hide_for_print"
+          name="buy_offer"
+          action="https://www.voelkner.de/index.php"
+          method="GET">
+        <input type="hidden" name="mp" value="products"/>
+        <input type="hidden" name="file" value="info"/>
+        <input type="hidden" name="products_id" value="12168718"/>
+        <input type="hidden" name="offer_id" value="7b1f5075e8cde78e21256a5110136eb4"/>
+        <input type="hidden" name="action" value="buy_offer"/>
+                    <input type="hidden" name="qty" value="1"/>
+        
+                        
+                    
+                        <div class="js_loading_container">
+                                                    <button class="button button--icon--large button--cta float_right js_add_offer js_search_tracking_cart"
+                            title="Jetzt kaufen"
+                            type="button"
+                            data-offer_id="7b1f5075e8cde78e21256a5110136eb4"
+                            data-toggle="off_canvas_right">
+                        <svg class="icon">
+                            <use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#shopping-cart"></use>
+                        </svg>
+                    </button>
+                                            </div>
+                        </form>
+            </div>
+
+            </div>
+                
+            </div>
+</div>            </div>
+        </div>
+    </div>
+</div>                                                                                                        </div>
+                            </div>
+                        </div>
+                                                                    </div>
+                </section>
+                            </div>
+        </div>
+		<div class="cell large_6">
+                        <ul id="buy_box_bottom"
+                class="accordion js_accordion"
+                data-accordion
+                data-allow-all-closed="true"
+                data-multi-expand="true"
+                data-pid="12168718">
+                <li class="accordion__item is_active">
+                    <div class="accordion__item__title">
+                        <h2 class="accordion__item__title__text">
+                            Produktbeschreibung
+                        </h2>
+                    </div>
+                    <div class="accordion__item__content"
+                         data-tab-content>
+                            <article>
+        <h3 class="accordion__item__title__text">Beschreibung</h3>
+        <p>Palit RTX 5080 GameRock 16 GB GDDR7</p>
+    </article>
+
+
+
+
+
+
+
+
+<div class="button_group--expanded_for_small">
+                <button class="button button--small"
+                id="js_loadbee_trigger"
+                data-open="js_reveal_loadbee"
+                data-products_id="12168718">
+            Herstellerinformationen
+        </button>
+        <div id="js_reveal_loadbee"
+             class="reveal--large"
+             data-reveal>
+            <div id="js_reveal_loadbee_content"></div>
+            <button class="button--icon_delete"
+                    type="button"
+                    data-close
+                    title="Schließen">
+                <svg class="icon close">
+                    <use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#close"></use>
+                </svg>
+            </button>
+        </div>
+        
+
+                <button class="button button--small"
+                id="js_product_safety_trigger"
+                data-open="js_reveal_product"
+                data-products_id="12168718">
+            Details zur Produktsicherheit
+        </button>
+        </div>
+                    </div>
+
+                                            <div class="grid_x grid_padding_x grid_padding_y small_up_2">
+                                                                                </div>
+                                    </li>
+                                    <li class="accordion__item"
+                        data-accordion-item
+                        data-action="tech_data">
+                        <a href="#" class="accordion__item__title">
+                            <h2 id="tech_data"
+                                class="accordion__item__title__text">
+                                Produktdaten
+                            </h2>
+                            <svg class="accordion__item__title__icon icon chevron-down">
+                                <use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#chevron-down"></use>
+                            </svg>
+                        </a>
+                        <div class="accordion__item__content"
+                             data-tab-content>
+                            <div class="js_content"></div>
+                        </div>
+                    </li>
+                                                                    <li id="product_rating"
+                        class="accordion__item"
+                        data-accordion-item
+                        data-action="reviews">
+                        <a href="#" class="accordion__item__title">
+                            <h2 class="accordion__item__title__text">
+                                Bewertungen
+                            </h2>
+                            <svg class="accordion__item__title__icon icon chevron-down">
+                                 <use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#chevron-down"></use>
+                            </svg>
+                        </a>
+                        <div class="accordion__item__content" data-tab-content>
+                            <div class="js_content"></div>
+                        </div>
+                    </li>
+                                            </ul>
+            		</div>
+	</div>
+</div>
+
+    <div id="js_last_products_container" data-pid="12168718" data-file="info"></div>
+
+                                                                            </main>
+                                                <footer class="footer--with_newsletter">
+                <div class="grid_container">
+            <div class="grid_x grid_margin_x align_center">
+                <div class="cell medium_10">
+                    <section class="footer__newsletter">
+                        <div class="newsletter_promotion text_center">
+    <svg class="newsletter_promotion__icon">
+        <use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#email"></use>
+    </svg>
+    <h3>Newsletter abonnieren und profitieren!</h3>
+    <p>
+                    Jetzt zum Newsletter anmelden und von unserer kostenlosen Garantieverlängerung profitieren!
+            </p>
+    <a class="button button--cta"
+       target="_blank"
+       href="https://www.voelkner.de/newsletters/newsletters.html">
+        Newsletter abonnieren
+    </a>
+</div>                    </section>
+                </div>
+            </div>
+        </div>
+        
+        <section class="footer__shop_info hide_for_print">
+        <div class="grid_container">
+            <div class="grid_x align_center">
+                <div class="cell medium_10">                     <div class="grid_y grid_margin_y">
+                                                <div class="cell">
+                            <div class="grid_x grid_margin_x">
+                                                                <div class="cell medium_6">
+                                    <h2>Bequem bezahlen</h2>
+                                                                        <ul class="logo_list--boxed">
+            <li class="logo_list__item">
+            <a class="logo_list__item__link"
+               href="https://www.voelkner.de/Zahlungsarten.html#paypal"
+               title="PayPal">
+                <svg class="logo_list__item__link__icon">
+                    <use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_logo.svg#payment_paypal"></use>
+                </svg>
+            </a>
+        </li>
+                <li class="logo_list__item">
+            <a class="logo_list__item__link"
+               href="https://www.voelkner.de/Zahlungsarten.html#kredit"
+               title="Kreditkarte">
+                <svg class="logo_list__item__link__icon">
+                    <use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_logo.svg#payment_credit_card"></use>
+                </svg>
+            </a>
+        </li>
+                <li class="logo_list__item">
+            <a class="logo_list__item__link"
+               href="https://www.voelkner.de/Zahlungsarten.html#bankeinzug"
+               title="Bankeinzug">
+                <svg class="logo_list__item__link__icon">
+                    <use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_logo.svg#payment_sepa"></use>
+                </svg>
+            </a>
+        </li>
+                <li class="logo_list__item">
+            <a class="logo_list__item__link"
+               href="https://www.voelkner.de/Zahlungsarten.html#voraus"
+               title="Vorkasse">
+                <div class="logo_list__item__link__icon">
+                    Vorkasse
+                </div>
+            </a>
+        </li>
+                    <li class="logo_list__item">
+            <a class="logo_list__item__link"
+               href="https://www.voelkner.de/Zahlungsarten.html#rechnung"
+               title="Rechnung">
+                <div class="logo_list__item__link__icon">
+                    Rechnung
+                </div>
+            </a>
+        </li>
+    </ul>
+
+                                </div>
+                                
+                                                                <div class="cell medium_6">
+                                                                                                                    <h2>
+                                                                                            Nachhaltige Versandpartner
+                                                                                    </h2>
+                                                                                <ul class="logo_list--boxed">
+                                                                                            <li class="logo_list__item">
+                                                    <a class="logo_list__item__link"
+                                                       href="https://www.voelkner.de/main/help_center.html?questions_id=360009156657"
+                                                       title="DHL">
+                                                        <svg class="logo_list__item__link__icon--dhl">
+                                                            <use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_logo.svg#shipping_dhl"></use>
+                                                        </svg>
+                                                    </a>
+                                                </li>
+                                                                                            <li class="logo_list__item">
+                                                    <a class="logo_list__item__link"
+                                                       href="https://www.voelkner.de/main/help_center.html?questions_id=360009156657"
+                                                       title="GLS">
+                                                        <svg class="logo_list__item__link__icon">
+                                                            <use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_logo.svg#shipping_gls"></use>
+                                                        </svg>
+                                                    </a>
+                                                </li>
+                                                                                    </ul>
+                                        
+                                                                                                                            <a href="https://www.voelkner.de/main/help_center.html?questions_id=4410478880785"
+                                               title="30 Tage kostenlose Rücksendung"
+                                               class="footer__shop_info__return_link">
+                                                <svg class="icon">
+                                                    <use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#package-return"></use>
+                                                </svg>
+                                                30 Tage kostenlose Rücksendung
+                                                                                                    bei Artikeln die durch voelkner verkauft werden
+                                                                                            </a>
+                                                                                                                                                    </div>
+                                                            </div>
+                        </div>
+                        
+                                                <div class="cell">
+                                                            <div class="grid_x grid_margin_x">
+        <div class="cell auto">
+        <h3>voelkner</h3>
+        <ul class="footer_navigation">
+    <li class="footer_navigation__item">
+        <a class="footer_navigation__item__link"
+           href="https://www.voelkner.de/Unternehmen.html">Unternehmen</a>
+    </li>
+    <li class="footer_navigation__item">
+        <a class="footer_navigation__item__link"
+           href="https://www.voelkner.de/umwelt.html">Entsorgung &amp; Umwelt</a>
+    </li>
+            <li class="footer_navigation__item">
+            <a class="footer_navigation__item__link"
+               href="https://www.voelkner.de/marktplatz.html">Marktplatz-Verkäufer werden</a>
+        </li>
+                <li class="footer_navigation__item">
+            <a class="footer_navigation__item__link"
+               href="https://www.voelkner.de/werte.html">Kundenversprechen</a>
+        </li>
+        <li class="footer_navigation__item">
+        <a class="footer_navigation__item__link"
+           href="https://www.re-in.de/#recruiting"
+           target="_blank">Karriere</a>
+    </li>
+</ul>
+    </div>
+
+        <div class="cell auto">
+        <h3>Service</h3>
+        <ul class="footer_navigation">
+    <li class="footer_navigation__item">
+        <a class="footer_navigation__item__link"
+           href="https://www.voelkner.de/Zahlungsarten.html">Zahlungsarten</a>
+    </li>
+    <li class="footer_navigation__item">
+        <a class="footer_navigation__item__link"
+           href="https://www.voelkner.de/main/help_center.html?sections_id=360002593718">Versandkosten</a>
+    </li>
+    <li class="footer_navigation__item">
+                                                                                        <a class="footer_navigation__item__link"
+                   href="https://www.voelkner.de/AGB-Privatkunden.html#widerruf">Widerrufsbelehrung</a>
+                        </li>
+    <li class="footer_navigation__item">
+        <a class="footer_navigation__item__link"
+           href="/themes/voelkner/static/16b349edec1516cfaadf3097b36fe52e/law/deu/muster-widerrufsformular.pdf"
+           target="_blank">
+            Widerrufsformular
+        </a>
+    </li>
+    <li class="footer_navigation__item">
+        <a class="footer_navigation__item__link"
+           href="https://www.voelkner.de/newsletters/newsletters.html">Newsletter</a>
+    </li>
+</ul>
+    </div>
+
+        <div class="cell auto">
+        <h3>Hilfe</h3>
+        <ul class="footer_navigation">
+    <li class="footer_navigation__item">
+        <a class="footer_navigation__item__link"
+           href="https://www.voelkner.de/main/help_center.html">Hilfe und Kontakt</a>
+    </li>
+    <li class="footer_navigation__item">
+        <a class="footer_navigation__item__link"
+           href="https://www.voelkner.de/main/help_center.html?sections_id=360002565477">Abwicklung von Retouren</a>
+    </li>
+            <li class="footer_navigation__item">
+            <a class="footer_navigation__item__link faq__contact_us__button"
+               href="https://www.voelkner.de/main/contact_us.html?reason_key=REPORT_LAW_VIOLATION">Rechtsverletzung melden</a>
+        </li>
+    </ul>
+    </div>
+
+        <div class="cell medium_5">
+        <h3>Partner</h3>
+        <ul class="logo_list--partner">
+            <li class="logo_list__item">
+            <a class="logo_list__item__link"
+               href="http://www.space.net"
+               title="SpaceNet - unser zuverlässiger Premium Hosting Partner">
+                <svg class="logo_list__item__link__icon">
+                    <use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_logo.svg#partner_spacenet"></use>
+                </svg>
+            </a>
+        </li>
+            <li class="logo_list__item">
+            <a class="logo_list__item__link"
+               href="http://geizhals.de/?qlink=voelkner.de&subi=infos"
+               title="voelkner bei geizhals.de">
+                <svg class="logo_list__item__link__icon">
+                    <use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_logo.svg#partner_geizhals"></use>
+                </svg>
+            </a>
+        </li>
+            <li class="logo_list__item--idealo">
+            <a class="logo_list__item__link"
+               href="http://www.idealo.de/preisvergleich/Shop/62184.html"
+               title="voelkner bei idealo.de">
+                <svg class="logo_list__item__link__icon">
+                    <use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_logo.svg#partner_idealo"></use>
+                </svg>
+            </a>
+        </li>
+    </ul>    </div>
+
+</div>                                                    </div>
+                                            </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+        <section class="footer__legal">
+        <div class="grid_container">
+            <div class="grid_x grid_margin_x align_middle">
+                                <div class="cell medium_6 xsmall_order_4 medium_order_1 hide_for_print">
+                    <div class="footer__legal__elevated_icons--not_mobile">
+                        <ul class="logo_list--circle_colored">
+                <li class="logo_list__item">
+            <a class="logo_list__item__link"
+               href="https://www.instagram.com/voelkner_de/"
+               title="Zu unserer Instagram-Seite"
+               target="_blank">
+                <svg class="logo_list__item__link__icon">
+                    <use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_logo.svg#social_instagram"></use>
+                </svg>
+            </a>
+        </li>
+        
+                <li class="logo_list__item">
+            <a class="logo_list__item__link"
+               href="https://www.facebook.com/voelkner.de"
+               title="Zu unserer Facebook-Seite"
+               target="_blank">
+                <svg class="logo_list__item__link__icon">
+                    <use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_logo.svg#social_facebook"></use>
+                </svg>
+            </a>
+        </li>
+        
+                <li class="logo_list__item">
+            <a class="logo_list__item__link"
+               href="https://www.linkedin.com/company/re-in-retail-international-gmbh/"
+               title="Zu unserer LinkedIn-Seite"
+               target="_blank">
+                <svg class="logo_list__item__link__icon">
+                    <use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_logo.svg#social_linkedin"></use>
+                </svg>
+            </a>
+        </li>
+        
+                <li class="logo_list__item">
+            <a class="logo_list__item__link"
+               href="https://www.tiktok.com/@voelkner_de"
+               title="Zu unserer TikTok-Seite"
+               target="_blank">
+                <svg class="logo_list__item__link__icon">
+                    <use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_logo.svg#social_tiktok"></use>
+                </svg>
+            </a>
+        </li>
+        
+                <li class="logo_list__item">
+            <a class="logo_list__item__link"
+               href="https://www.youtube.com/@voelkner"
+               title="Zu unserer Youtube-Seite"
+               target="_blank">
+                <svg class="logo_list__item__link__icon">
+                    <use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_logo.svg#social_youtube"></use>
+                </svg>
+            </a>
+        </li>
+        </ul>
+                    </div>
+                </div>
+                                                <div class="cell medium_6 xsmall_order_1 medium_order_2 hide_for_print">
+                    <div class="footer__legal__elevated_icons">
+                        <ul class="logo_list--circle align_right">
+                <li class="logo_list__item">
+            <a class="logo_list__item__link"
+               href="https://www.trustedshops.com/buyerrating/info_XC930379C5338C2609D12B0461A0538C2.html"
+               title="Unsere Bewertungen auf Trusted Shops"
+               target="_blank">
+                <svg class="logo_list__item__link__icon">
+                    <use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_logo.svg#seals_trusted_shops"></use>
+                </svg>
+            </a>
+        </li>
+        
+                <li class="logo_list__item">
+            <a class="logo_list__item__link"
+               href="https://cert.ehi-siegel.de/webshop/voelkner_4034245"
+               target="_blank">
+                <svg class="logo_list__item__link__icon">
+                    <use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_logo.svg#seals_ehi"></use>
+                </svg>
+            </a>
+        </li>
+        
+                <li class="logo_list__item">
+            <a class="logo_list__item__link"
+               href="https://ehi-siegel.de/fileadmin/redaktion/bevh/trustmark-certificate-bevh.pdf"
+               title="Ecommerce Europe Trustmark Zertifikat"
+               target="_blank">
+                <svg class="logo_list__item__link__icon">
+                    <use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_logo.svg#seals_trust_ecommerce_europe"></use>
+                </svg>
+            </a>
+        </li>
+        
+            </ul>
+                    </div>
+                </div>
+                                                <div class="cell medium_6 xsmall_order_2 medium_order_3 hide_for_print">
+                    <ul class="footer_navigation--horizontal">
+                        <li class="footer_navigation__item">
+                            
+                                                                                                            <a class="footer_navigation__item__link"
+                                           href="https://www.voelkner.de/AGB-Privatkunden.html">AGB</a>
+                                                                                                
+                        </li>
+                        <li class="footer_navigation__item">
+                            <a class="footer_navigation__item__link"
+                               href="https://www.voelkner.de/Datenschutz.html">Datenschutzerklärung</a>
+                        </li>
+                        <li class="footer_navigation__item">
+                            <a class="footer_navigation__item__link"
+                               href="https://www.voelkner.de/Impressum.html">Impressum</a>
+                        </li>
+                    </ul>
+                </div>
+                
+                                <div class="cell medium_6 xsmall_order_3 medium_order_4 text_right">
+                    <div class="footer__legal__copyright">
+    <div>
+        Alle Rechte vorbehalten. Alle Preise <a class="footer_disclaimer__price_info__link" href="https://www.voelkner.de/liefermoeglichkeiten.html">zzgl. Versand</a>
+    </div>
+    <div>
+        Copyright &copy; 2008-2025 RE-INvent Retail GmbH
+    </div>
+</div>                </div>
+                            </div>
+        </div>
+    </section>
+    </footer>
+                            </section>
+                    </div>
+                                                <button class="chatbot__trigger animate_trigger hide_for_print"
+        id="js_chatbot_button"
+        >
+    <span class="grid_x grid_margin_x grid_margin_y">
+        <span class="cell shrink align_self_middle">
+            <svg class="chatbot__trigger__icon">
+                <use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#chatbot"></use>
+            </svg>
+        </span>
+        <span class="cell auto">
+            <span class="chatbot__trigger__info"
+                  data-usecase="chatbot"
+                  id="js_proactive_content">
+                <span class="chatbot__trigger__info__headline">
+                    Benötigen Sie Hilfe?
+                </span>
+                <span class="chatbot__trigger__info__text">
+                    Ihr KI-Assistent von voelkner
+                </span>
+            </span>
+        </span>
+    </span>
+</button>
+
+<div class="chatbot__conversation" id="js_chatbot_conversation" data-closable>
+    <div class="grid_x">
+                <div class="cell">
+            <div class="chatbot__conversation__header">
+                <div class="grid_x align_middle">
+                                        <div class="cell shrink">
+                        <div class="chatbot__conversation__header__avatar">
+                            <svg>
+                                <use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#chatbot"></use>
+                            </svg>
+                        </div>
+                    </div>
+                    
+                                        <div class="cell auto">
+                        <div class="chatbot__conversation__header__title">
+                            KAI
+                                                            (Produktberater)
+                                                    </div>
+                    </div>
+                                        <div class="cell shrink">
+                        <div class="button_group">
+                                                        <button class="button button--icon button--clear"
+                                    id="js_chatbot_minimize"
+                                    title="Chat beenden"
+                                    data-close>
+                                <svg class="icon chevron-down">
+                                    <use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#chevron-down"></use>
+                                </svg>
+                            </button>
+                            <button class="button button--icon button--clear"
+                                    id="js_chatbot_close"
+                                    title="Schließen">
+                                <svg class="icon close">
+                                    <use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#close"></use>
+                                </svg>
+                            </button>
+                                                    </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+                <div class="cell">
+            <div class="chatbot__conversation__alert"
+                 id="js_chatbot_error">
+                <div class="grid_x grid_margin_x align_middle">
+                    <div class="cell shrink">
+                        <svg class="chatbot__conversation__alert__icon">
+                            <use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#smiley-unhappy"></use>
+                        </svg>
+                    </div>
+                    <div class="cell auto">
+                        <div class="chatbot__conversation__alert__information">
+                            Es ist ein Fehler aufgetreten. Bitte starten Sie den Chat nochmal neu!
+                        </div>
+                    </div>
+                    <div class="cell">
+                        <button class="button button--primary button--expanded"
+                                id="js_button_reload">
+                            Neu Laden
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+                <div class="cell">
+            <div class="chatbot__conversation__confirm_notification"
+                 id="js_chatbot_confirm_notification">
+                <div class="grid_x grid_margin_y">
+                    <div class="cell">
+                        <h2>
+                            Chat beenden
+                        </h2>
+                    </div>
+                    <div class="cell">
+                        Möchten Sie den Chat wirklich beenden?
+                    </div>
+                    <div class="cell">
+                        <div class="grid_x grid_margin_x">
+                            <div class="cell xsmall_6">
+                                <button class="button button--expanded button--primary"
+                                        id="js_close_chat_close"
+                                        data-close>
+                                    Ja
+                                </button>
+                            </div>
+                            <div class="cell xsmall_6">
+                                <button class="button button--expanded"
+                                        id="js_close_chat_back">
+                                    Nein
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+                <div class="cell">
+            <div class="chatbot__conversation__frame">
+                <div class="grid_x">
+                    <div class="chatbot__conversation__frame__gradient_top"></div>
+                    <div class="cell">
+                        <div class="chatbot__conversation__frame__dialogue"
+                             id="js_chatbot_main">
+                                                        <div class="chatbot__conversation__frame__dialogue__privacy_info">
+                                <a class="chatbot__conversation__frame__privacy_info__link"
+                                   href="https://www.voelkner.de/Datenschutz.html">
+                                    Datenschutzerklärung
+                                </a>
+                            </div>
+                                                                                    <ul class="chatbot__conversation__frame__dialogue__messages"
+                                id="js_chatbot_welcome_message">
+                                <li class="chatbot__conversation__frame__dialogue__messages__item">
+                                    <svg class="chatbot__conversation__frame__dialogue__messages__item__avatar">
+                                        <use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#chatbot"></use>
+                                    </svg>
+                                    <span class="chatbot__conversation__frame__dialogue__messages__item__text">
+                                        Herzlich Willkommen bei voelkner! Wie kann ich Ihnen weiterhelfen?
+                                    </span>
+                                </li>
+                            </ul>
+                                                                                    <ul class="chatbot__conversation__frame__dialogue__messages" id="js_chatbot_messages"></ul>
+                                                    </div>
+                    </div>
+                    <div class="chatbot__conversation__frame__gradient_bottom"></div>
+                </div>
+            </div>
+        </div>
+        
+                <div class="cell">
+            <div class="chatbot__conversation__input">
+                <form class="grid_x align_middle">
+                    <div class="cell auto">
+                        <label for="js_chatbot_user_input" class="hide">
+                            Nachricht
+                        </label>
+                        <input type="text"
+                               class="chatbot__conversation__input__message"
+                               id="js_chatbot_user_input"
+                               placeholder="Ihre Nachricht..."/>
+                    </div>
+                    <div class="cell shrink">
+                        <button type="submit"
+                                class="button button--icon button--clear"
+                                id="js_chatbot_send_button"
+                                data-type=search>
+                            <svg class="icon">
+                                <use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#send-arrow"></use>
+                            </svg>
+                        </button>
+                    </div>
+                </form>
+            </div>
+        </div>
+            </div>
+</div>
+                                    
+
+
+    <button class="button--to_top hide_for_print show_for_medium" id="js_button_to_top" style="display: none;" title="Nach oben">
+        <span class="show_for_small">Nach oben</span>
+        <svg class="icon chevron-up">
+            <use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#chevron-up"></use>
+        </svg>
+    </button>
+
+<div id="js_reveal_product" class="reveal" data-reveal data-multiple-opened="true">
+    <div id="js_reveal_product_content"></div>
+    <button class="button--icon_delete" type="button" data-close title="Schließen">
+        <svg class="icon close">
+            <use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#close"></use>
+        </svg>
+    </button>
+</div>
+
+<div id="js_reveal_create_review"
+     class="reveal"
+     data-reveal>
+    <div id="js_create_review_content"></div>
+    <button class="button--icon_delete"
+            type="button"
+            data-close
+            title="Schließen">
+        <svg class="icon close">
+            <use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#close"></use>
+        </svg>
+    </button>
+</div>
+
+<div id="js_reveal_comparison"
+     class="reveal--large"
+     data-reveal
+     data-multiple-opened="true">
+    <div id="js_reveal_comparison_content"></div>
+    <button class="button--icon_delete" type="button" data-close title="Schließen">
+        <svg class="icon close">
+            <use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#close"></use>
+        </svg>
+    </button>
+</div>
+
+<div id="js_reveal_wishlist" class="reveal" data-reveal>
+    <div id="js_reveal_wishlist_content"></div>
+    <button class="button--icon_delete" type="button" data-close title="Schließen">
+        <svg class="icon close">
+            <use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#close"></use>
+        </svg>
+    </button>
+</div>
+
+<div id="js_warranty_extension_reveal" class="reveal" data-reveal>
+    <div id="js_warranty_extension_content"></div>
+</div>
+
+
+    
+    <div id="js_newsletter_reveal" class="reveal js_newsletter" data-reveal >
+        <div class="reveal-content">
+            <button class="button--icon_delete" type="button" data-close title="Schließen">
+    <svg class="icon close">
+        <use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#close"></use>
+    </svg>
+</button>
+<h2>
+    Jetzt Vorteile sichern!
+</h2>
+
+
+<div class="grid_x grid_margin_x grid_margin_y">
+    <div class="cell">
+        <p>
+            Profitieren Sie von 2 Jahren kostenloser Anschlussgarantie! Melden Sie sich einfach zu unserem kostenlosen Newsletter an!
+        </p>
+    </div>
+    <div class="cell js_message_stack">
+                </div>
+    <div class="cell">
+        <form class="grid_x grid_margin_x" name="subscribe" id="nl_subscribe" novalidate>
+                            <input type="hidden" name="datasource_id" id="datasource_id" value="190322">
+                                    <div class="cell small_shrink form__input">
+                <select title="Anrede" class="subscribe_data" name="gender" id="gender">
+                    <option value="0">Herr</option>
+                    <option value="1">Frau</option>
+                                            <option value="2">Keine Angabe</option>
+                                    </select>
+                <label class="form__input__label" for="gender">
+                    Anrede
+                </label>
+            </div>
+            
+                        <div class="cell">
+                <div class="grid_x grid_margin_x">
+                    <div class="cell small_6 form__input">
+                        <input type="text"
+                               id="firstname"
+                               class="subscribe_data"
+                               name="firstname"
+                               autocomplete="given-name"/>
+                        <label class="form__input__label" for="firstname">
+                            Vorname
+                        </label>
+                    </div>
+                    <div class="cell small_6 form__input">
+                        <input type="text"
+                               id="lastname"
+                               class="subscribe_data"
+                               name="lastname"
+                               autocomplete="given-name"/>
+                        <label class="form__input__label" for="lastname">
+                            Nachname
+                        </label>
+                    </div>
+                </div>
+            </div>
+            
+                        <div class="cell form__input">
+                <input type="email"
+                       required
+                       pattern="email_validation"
+                       class="subscribe_data"
+                       name="email_address"
+                       id="email_subscribe"
+                                              autocomplete="email"/>
+                <label class="form__input__label" for="email_subscribe">
+                    E-Mail-Adresse *
+                </label>
+            </div>
+            
+                        <div class="cell" id="js_newsletter_submit_button" data-is_popup='true'>
+                <div class="newsletter__subscribe">
+    <button type="submit" id="submit_subscribe" class="button button--primary button--small_down_expanded">Newsletter abonnieren</button>
+            <script src="https://www.google.com/recaptcha/api.js?hl=de" async defer></script>
+                <script>
+                    var element = document.getElementById('submit_subscribe');
+                    var class_attributes = element.getAttribute('class');
+                    element.setAttribute('class', class_attributes + ' g-recaptcha');
+                    element.setAttribute('data-sitekey', '6Lcj_A4UAAAAACR39wDPqXNkXFuiA3hUbx-46VtB');
+                    element.setAttribute('data-callback', 'submit_newsletter_subscribe');
+                </script>
+    </div>            </div>
+                    </form>
+    </div>
+    <div class="cell text_right">
+        <button class="button button--clear button--small_down_expanded" data-close>
+            Keine Vorteile sichern
+        </button>
+    </div>
+</div>
+
+
+
+
+        </div>
+        <button class="button--icon_delete" type="button" data-close title="Schließen">
+            <svg class="icon close">
+                <use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#close"></use>
+            </svg>
+        </button>
+    </div>
+
+
+    <div id="js_84fa0b8c9d7da99d162659e11c5e4028_container"
+         class="hide_for_print w84fa0b8c9d7da99d162659e11c5e4028"          data-reveal
+         data-close-on-click="false"
+         data-close-on-esc="false">
+        <div id="js_reveal_cookie_content">
+                
+
+<div class="w84fa0b8c9d7da99d162659e11c5e4028__container">
+    <div class="grid_x align_center">
+        <div class="w84fa0b8c9d7da99d162659e11c5e4028__container__icon">
+            <svg class="icon">
+                <use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#cookie"></use>
+            </svg>
+        </div>
+    </div>
+        <div class="w84fa0b8c9d7da99d162659e11c5e4028__container__decline_container text_right">
+        <button class="js_button_84fa0b8c9d7da99d162659e11c5e4028 button button--xsmall button button--link"
+                data-cookie_consent="0"
+                data-close
+                data-cookie_version="true3">
+            Alle ablehnen
+        </button>
+    </div>
+    <div class="w84fa0b8c9d7da99d162659e11c5e4028__container__text">
+        <div class="grid_x">
+                        <div class="cell">
+                <div class="grid_x grid_margin_x">
+                                                                                        <div class="cell small_auto medium_7 xsmall_order_2 small_order_1 w84fa0b8c9d7da99d162659e11c5e4028__container__text__headline">
+                            Kurz die Cookies, dann geht’s los
+                        </div>
+                                                        </div>
+            </div>
+                        <div class="cell" id="js_recaptcha_info"></div>
+                        <div class="cell">
+                <p>Wir verwenden Cookies und andere Technologien ("Cookies etc."), um Ihnen ein optimales Erlebnis auf unserer Website bieten zu können. Wenn Sie das Tracking ablehnen, verwenden wir nur erforderliche Cookies etc., die für die grundlegende Funktionalität unserer Website notwendig sind.</br>                      Wir haben technische und administrative Sicherheitsvorkehrungen getroffen, um Ihre Daten gegen Verlust, Zerstörung, Manipulation und unautorisierten Zugriff zu schützen.</p>
+
+                <h4>Wählen Sie nach Ihren Präferenzen:</h4>
+
+                <div class="tf_bold">Funktional</div>
+                <p>Diese Art der Cookies etc. ermöglicht es uns, anonyme Analyseaktivitäten durchzuführen, um ein besseres Verständnis dafür zu erlangen, wie unsere Website im Allgemeinen genutzt wird. Damit können wir notwendige und funktionale Leistungs- und Designverbesserungen auf der Website durchführen.</p>
+
+                <div class="tf_bold">Marketing</div>
+                <p>Wir verwenden Cookies etc. von verschiedenen Marketing-Dienstleistern, um Ihnen geeignete Produktangebote vorstellen und Angebote Dritter anzeigen zu können. Außerdem möchten wir Ihnen gerne auf Plattformen ausgewählter Marketingpartner und in sozialen Netzwerken nur Werbung zeigen, die Sie tatsächlich interessiert.</p>
+
+                <div class="tf_bold">Alle oben genannten</div>
+                <p>Mit Klick auf "Ich akzeptiere alle Cookies" stimmen Sie den oben genannten Datenverarbeitungen freiwillig zu.</br>
+            Außerdem können Sie die Einwilligung jederzeit widerrufen und anpassen, indem Sie unsere <a href="https://www.voelkner.de/Datenschutz.html" target="_blank" class="w84fa0b8c9d7da99d162659e11c5e4028__link">Datenschutzerklärung</a> aufrufen.</p>
+            </div>
+        </div>
+                                    <span class="js_cookie_tracker_consent hide" data-cookie_tracker="newrelic"></span>
+                                                                    <span class="js_cookie_tracker_consent hide" data-cookie_tracker="googleanalytics"></span>
+                                                <span class="js_cookie_tracker_consent hide" data-cookie_tracker="hotjar"></span>
+                                                <span class="js_cookie_tracker_consent hide" data-cookie_tracker="abtasty"></span>
+                                                <span class="js_cookie_tracker_consent hide" data-cookie_tracker="recaptcha"></span>
+                                                <span class="js_cookie_tracker_consent hide" data-cookie_tracker="kameleoon"></span>
+                                                <span class="js_cookie_tracker_consent hide" data-cookie_tracker="awin"></span>
+                                                <span class="js_cookie_tracker_consent hide" data-cookie_tracker="adwords"></span>
+                                                <span class="js_cookie_tracker_consent hide" data-cookie_tracker="bing"></span>
+                                                <span class="js_cookie_tracker_consent hide" data-cookie_tracker="facebook"></span>
+                                                <span class="js_cookie_tracker_consent hide" data-cookie_tracker="adsense"></span>
+                                                <span class="js_cookie_tracker_consent hide" data-cookie_tracker="doubleclick"></span>
+                                                <span class="js_cookie_tracker_consent hide" data-cookie_tracker="shoppingreviews"></span>
+                                            </div>
+        <div class="w84fa0b8c9d7da99d162659e11c5e4028__container__options_list">
+        <div class="grid_x grid_margin_x w84fa0b8c9d7da99d162659e11c5e4028__container__options_list__container">
+            <div class="cell medium_6 medium_order_2 text_center">
+                <button type="button"
+                        class="js_button_84fa0b8c9d7da99d162659e11c5e4028 button button button--large button--primary"
+                        data-cookie_consent="1"
+                        data-close
+                        data-cookie_version="true">
+                    Ich akzeptiere alle Cookies
+                </button>
+            </div>
+            <div class="cell medium_6 medium_order_1">
+                <button id="js_button_cookie_selection_reveal"
+                        class="button button--xsmall button--link">
+                    Personalisieren Sie Ihre Auswahl
+                </button>
+            </div>
+        </div>
+    </div>
+</div>        </div>
+    </div>
+
+
+
+
+
+
+
+<div id="language_country_selection" class="reveal" data-reveal>
+    <div class="grid_x grid_margin_x grid_margin_y lang_country_selection">
+			<div class="cell small_6">
+			
+		</div>
+		<hr class="lang_country_selection__divider">
+		<div class="cell small_6">
+			
+		</div>
+	</div>    <button class="button--icon_delete" type="button" data-close title="Schließen">
+        <svg class="icon close">
+            <use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#close"></use>
+        </svg>
+    </button>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <script src="https://www.gstatic.com/firebasejs/8.4.1/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.4.1/firebase-firestore.js"></script>
+    
+    
+    
+
+            
+        
+    
+
+
+
+
+
+
+
+
+
+
+
+
+    
+            
+                
+                
+                
+    
+
+        <script type="text/javascript">
+        var Search = Search || { };
+    </script>
+    
+        
+
+                            
+        
+    
+        <script id="js_suggest_data" type="text/x-handlebars-template" style="display: none;">
+        {{#each sorting}}
+            {{>resultPartial results=this}}
+        {{/each}}
+    </script>
+
+
+<div id="js_suggest_result_partial" class="hide">
+        {{#if results}}
+        <section class="search_form__suggest__results">
+            <div class="grid_x">
+                <div class="cell">
+                    <div class="search_form__suggest__results__headline">{{results.[0].headline}}</div>
+                    <ul class="search_form__suggest__results__list">
+                        {{#each results}}
+                            <li class="search_form__suggest__results__list__element">
+                                <a href="{{url}}" class="search_form__suggest__results__list__element__link">
+                                    <div class="grid_x">
+                                        <!-- {{#if has_img}}
+                                            <div class="cell">
+                                                <div class="suggestion_results__list__element__image">
+                                                    <img src="{{img}}" alt="{{name}}">
+                                                </div>
+                                            </div>
+                                        {{/if}} -->
+                                        <div class="cell">
+                                            <div class="grid_x">
+                                                <div class="cell search_form__suggest__results__list__element__title">
+                                                    {{name}}
+                                                    {{#if (gt hit_count 0)}}
+                                                        ({{hit_count}})
+                                                    {{/if}}
+                                                </div>
+                                                {{#if (or has_rating has_price)}}
+                                                <div class="cell search_form__suggest__results__list__element__data">
+                                                    <div class="grid_x align_justify align_middle">
+                                                        {{#if has_rating}}
+                                                        <div class="cell shrink rating">
+                                                            <div class="rating__stars">
+                                                                {{#each stars}}
+                                                                    {{#if (gt ../rating this.[0])}}
+                                                                        
+                                                                        <svg class="rating__stars__icon icon star-full">
+                                                                            <use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#star-full"></use>
+                                                                        </svg>
+                                                                        
+                                                                    {{else if (and (lt ../rating this.[1]) (gt ../rating @index))}}
+                                                                        
+                                                                        <svg class="rating__stars__icon icon star-half">
+                                                                            <use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#star-half"></use>
+                                                                        </svg>
+                                                                        
+                                                                    {{else}}
+                                                                        
+                                                                        <svg class="rating__stars__icon icon star-empty">
+                                                                            <use href="/themes/voelkner/images/16b349edec1516cfaadf3097b36fe52e/sprite_icons.svg#star-empty"></use>
+                                                                        </svg>
+                                                                        
+                                                                    {{/if}}
+                                                                {{/each}}
+                                                            </div>
+                                                        </div>
+                                                        {{/if}}
+                                                        {{#if has_price}}
+                                                        <div class="cell shrink">
+                                                            <div class="search_form__suggest__results__list__element__data__price">
+                                                                {{price}}
+                                                            </div>
+                                                        </div>
+                                                        {{/if}}
+                                                    </div>
+                                                </div>
+                                                {{/if}}
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                        {{/each}}
+                    </ul>
+                </div>
+            </div>
+        </section>
+    {{/if}}
+</div>
+
+
+
+
+
+
+
+
+
+                <script src="/min/?b=themes/voelkner/js/16b349edec1516cfaadf3097b36fe52e&f=compiled/default/classes/ReInDataLayer/AbstractLayer.js,compiled/default/classes/ReInDataLayer/Cart.js,compiled/default/classes/ReInDataLayer/Customer.js,compiled/default/classes/ReInDataLayer/Offer.js,compiled/default/classes/ReInDataLayer/Product.js&v=2507-5-9d621688"></script>
+            <script>
+                        ReInDataLayer.Cart.push('353d614ed29d7304412ef836957ee62f', `[]`);
+                                ReInDataLayer.Cart.push('5592e03eaf2b0eef3a8628d4e6754e6f', `0`);
+                                ReInDataLayer.Cart.push('59b1a8aad9738a9fdaafa2bcffd5a533', `0`);
+                                ReInDataLayer.Cart.push('a15e44d6ea647e41812c15d110382fc4', `0`);
+                                ReInDataLayer.Cart.push('95d1f8fd0308124785c41832ee766ebf', `false`);
+            </script>    <script>
+    ReInDataLayer.Customer.setEventsForInactiveTracking()
+            ReInDataLayer.Customer.push('96393295705475b1ba27c2c1147fda0f', `"deu"`);
+            ReInDataLayer.Customer.push('cc7ec31fc6306369d5f15e72f1e31a62', `0`);
+            ReInDataLayer.Customer.push('6dd0c3de20e65d6c1e5606c8e5ab1262', `"0c2ed41f69eb09e10efca1ceb3a034be"`);
+            ReInDataLayer.Customer.push('2878a2d1a767de987dde616d36d462e0', `"3"`);
+    </script>    <script>
+                        ReInDataLayer.Product.push('7eaca89fda35d242330167b12e160fb6', `12168718`);
+                                ReInDataLayer.Product.push('c25ec9cc43f97e033dbb3770a3f13741', `"Palit RTX 5080 GameRock 16 GB GDDR7"`);
+                                ReInDataLayer.Product.push('581f5ac0634b5bbce492b53c3d07092e', `"4710562244892"`);
+                                ReInDataLayer.Product.push('725f32a9534f318f1a8566b4b4928bbe', `0`);
+                                ReInDataLayer.Product.push('fd961bd62769b3d24d8cf7a662989d8d', `0`);
+                                ReInDataLayer.Product.push('0309734cb4a6748356cb51de7e4efd71', `"20b533bdd6b03df78497ef96d1466e2a"`);
+                                ReInDataLayer.Product.push('8217e7ee7a13a737394f9c4c31a2d41f', `""`);
+                                ReInDataLayer.Product.push('191c28411cd4db54a19b92313a604547', `"999957912"`);
+                                ReInDataLayer.Product.push('755cf127fc076f88f134dac749d6ec8f', `"PALIT"`);
+                                ReInDataLayer.Product.push('353d614ed29d7304412ef836957ee62f', `{"20b533bdd6b03df78497ef96d1466e2a":{"c25ec9cc43f97e033dbb3770a3f13741":"Palit RTX 5080 GameRock 16 GB GDDR7","581f5ac0634b5bbce492b53c3d07092e":"4710562244892","725f32a9534f318f1a8566b4b4928bbe":0,"54cc3a330cfd9ddd8d7fabcdaa20b0ab":12168718,"fd961bd62769b3d24d8cf7a662989d8d":0,"191c28411cd4db54a19b92313a604547":"999957912","755cf127fc076f88f134dac749d6ec8f":"PALIT","7eaca89fda35d242330167b12e160fb6":"20b533bdd6b03df78497ef96d1466e2a","787dd938770f18887f16e72a3e9a201f":"14131","2776edad0e2a246b738ba8408aef1e41":"1112.0924","1ae273cd04eb0d3b3623757860863a5b":["13140","13217","13616"],"d0da326b9dd1a20f4a284b82f42459f7":["Computer & B\u00fcro","PC-Komponenten","Grafikkarten"],"2e125ac50443aca15125d68cf4646fa2":1323.3899999999999,"66cac021e96543d62baf7f4e4c087a0e":"1-2 Tage","e22b4bd6d718d377eadd1f9a4a809378":0,"19d242d4e11b309a5f4d5c96f4034b20":0,"2ce557546a942fc0af0734d93017c9a4":"available","52e5208b2e294823699dcae3053345ba":1748450525,"78cb1381ec0259f7bd25496af4193370":"Neu","98f3099753b09a640230c9961741bd83":1,"a14fc942c401ac1c687a00202fedb6af":47,"8d3601ee4c894b130ad135d194c1033c":139324416,"21fe204ad6ec274a8ab46603b850e476":49234944},"7b1f5075e8cde78e21256a5110136eb4":{"c25ec9cc43f97e033dbb3770a3f13741":"Palit RTX 5080 GameRock 16 GB GDDR7","581f5ac0634b5bbce492b53c3d07092e":"4710562244892","725f32a9534f318f1a8566b4b4928bbe":0,"54cc3a330cfd9ddd8d7fabcdaa20b0ab":12168718,"fd961bd62769b3d24d8cf7a662989d8d":0,"191c28411cd4db54a19b92313a604547":"999957912","755cf127fc076f88f134dac749d6ec8f":"PALIT","7eaca89fda35d242330167b12e160fb6":"7b1f5075e8cde78e21256a5110136eb4","787dd938770f18887f16e72a3e9a201f":"14221","2776edad0e2a246b738ba8408aef1e41":"1168.7647","1ae273cd04eb0d3b3623757860863a5b":["13140","13217","13616"],"d0da326b9dd1a20f4a284b82f42459f7":["Computer & B\u00fcro","PC-Komponenten","Grafikkarten"],"2e125ac50443aca15125d68cf4646fa2":1390.83,"66cac021e96543d62baf7f4e4c087a0e":"2-3 Tage","e22b4bd6d718d377eadd1f9a4a809378":0,"19d242d4e11b309a5f4d5c96f4034b20":0,"2ce557546a942fc0af0734d93017c9a4":"available","52e5208b2e294823699dcae3053345ba":1748450525,"78cb1381ec0259f7bd25496af4193370":"Neu","98f3099753b09a640230c9961741bd83":1,"a14fc942c401ac1c687a00202fedb6af":45,"8d3601ee4c894b130ad135d194c1033c":146657280,"21fe204ad6ec274a8ab46603b850e476":47139840}}`);
+            
+</script>        <script src="/min/?b=themes/voelkner/js/16b349edec1516cfaadf3097b36fe52e&f=compiled/default/classes/Animations/Cart.js,compiled/default/classes/Animations/OffCanvas.js,compiled/default/classes/Base/Cookie.js,compiled/default/includes/jquery.js,compiled/default/components/search/fact-finder/ng/suggest.js,compiled/default/components/search/fact-finder/ng/tracking.js,compiled/default/includes/what-input.js,compiled/default/includes/ravelin-core-track-encrypt-promise.js,compiled/default/base/base_function.js,compiled/default/base/keyboard_shortcuts.js,compiled/default/classes/Base/AjaxHelper.js,compiled/default/includes/foundation/foundation.core.js,compiled/default/classes/Base/Assign.js,compiled/default/classes/Base/AssignValues.js,compiled/default/includes/foundation/foundation.util.box.js,compiled/default/assign/body_end.js,compiled/default/classes/Base/NRC.js,compiled/default/classes/Tracking/WebTracking.js,compiled/default/includes/foundation/foundation.util.imageLoader.js,compiled/default/includes/foundation/foundation.util.keyboard.js,compiled/default/includes/foundation/foundation.util.mediaQuery.js,compiled/default/includes/foundation/foundation.util.motion.js,compiled/default/includes/foundation/foundation.util.nest.js,compiled/default/includes/foundation/foundation.util.timer.js,compiled/default/includes/foundation/foundation.util.touch.js,compiled/default/includes/foundation/foundation.util.triggers.js,compiled/default/includes/foundation/foundation.abide.js,compiled/default/includes/foundation_config/abide.js,compiled/default/includes/foundation/foundation.offcanvas.js,compiled/default/includes/foundation/foundation.reveal.js,compiled/default/includes/foundation_config/offcanvas.js,compiled/default/includes/foundation/foundation.toggler.js,compiled/default/includes/foundation/foundation.tooltip.js,compiled/default/includes/foundation/foundation.accordion.js,compiled/default/includes/foundation/foundation.interchange.js,compiled/default/includes/foundation/foundation.smoothScroll.js,compiled/default/includes/swiper.js,compiled/default/classes/Base/Script.js,compiled/default/base/responsive.js,compiled/default/classes/Animations/Bar.js,compiled/default/components/form/set_label.js,compiled/default/classes/Tracking/Cookie.js,compiled/default/classes/Animations/Overlay.js,compiled/default/components/product/loadbee.js,compiled/default/classes/Payment/AmazonPay.js,compiled/default/classes/Bot/Chatbot.js,compiled/default/classes/Canvas/Aside.js,compiled/default/classes/Cart/Aside.js,compiled/default/classes/Firebase/Firebase.js,compiled/default/classes/Newsletter/Newsletter.js,compiled/default/components/product/pdp.js,compiled/default/components/bot/chatbot.js,compiled/default/components/cart/aside.js,compiled/default/components/firebase/firebase.js,compiled/default/components/newsletter/newsletter.js,compiled/default/components/slider/last_product.js,compiled/default/includes/jquery-zoom.js,compiled/default/components/product/media.js&v=2507-5-9d621688"></script>
+
+<script type="text/javascript">
+        </script>
+
+
+
+
+            
+                                    <script type="text/javascript">
+        dataLayer.push({
+                           'event': 'fireRemarketingTag',
+                           'google_tag_params': {
+                               'ecomm_prodid': 'Y14697722',
+                               'ecomm_pagetype': 'product',
+                               'ecomm_totalvalue': 1112.0924,
+                               'ecomm_category': 'Grafikkarten'
+                           }
+                       });
+    </script>
+    
+
+            
+            
+            
+        <script type="text/javascript">
+    dataLayer.push( {
+                    'customer_ip' : '84.184.211.128'
+    } );
+</script>    
+        <script type="text/javascript">
+   dataLayer.push( {
+        'session_id' : '0c2ed41f69eb09e10efca1ceb3a034be'
+    } );
+</script>    
+        <script type="text/javascript">
+    dataLayer.push( {
+        'tracking_id' : '24b9c9e2310bb14b72cd10b46a71d030'
+    } );
+</script>    
+        <script>
+    dataLayer.push( {
+        'cookie_adwords': '0',
+        'cookie_bing': '0',
+        'cookie_google_analytics': '0',
+        'cookie_facebook': '0',
+        'cookie_matomo': '1'
+    } );
+</script>    
+        
+
+
+    
+    	        	    
+            <script>
+        document.addEventListener('trigger_awin', function () {
+            let s = document.createElement("script");
+            s.type = "text/javascript";
+            s.defer = 1;
+            s.src = "main/cache_js_url.html?tag=awin&url=https%3A%2F%2Fwww.dwin1.com%2F13721.js"
+            document.getElementsByTagName('head')[0].appendChild(s);
+        });
+
+            </script>
+
+    
+            
+            <script>
+        $(document).ready(function () {
+            let pingInterval = 10000;
+
+            let pingIntervalId = null;
+            let clickCount = 0;
+            let scrolled = false;
+            let addToCartClicked = false;
+
+            let loadedFirstTime = false;
+
+                        document.addEventListener('visibilitychange', function () {
+                if(loadedFirstTime)
+                {
+                    if (document.hidden) {
+                        stopTrackingInterval();
+                        sendTrackingData('left');
+                        clickCount = 0;
+                        scrolled = false;
+                        addToCartClicked = false;
+                    } else {
+                        sendTrackingData('back');
+                        startTrackingInterval();
+                    }
+                }
+            });
+
+                        document.addEventListener('click', function (event) {
+                if(loadedFirstTime)
+                {
+                                        if (event.isTrusted) {
+                                                if(event.target.classList.contains('js_buy_offer')) {
+                            addToCartClicked = true;
+                        }
+                                                if(event.target.id === 'js_cart_quick_add_add_position') {
+                            addToCartClicked = true;
+                        }
+                        clickCount++;
+                    }
+                }
+            });
+
+                        document.addEventListener('scroll', function () {
+                if(loadedFirstTime)
+                {
+                    scrolled = true;
+                }
+            });
+
+            function startTracking()
+            {
+                sendTrackingData('welcome');
+
+                if(!document.hidden) {
+                    startTrackingInterval();
+                    loadedFirstTime = true;
+                }
+            }
+
+            startTracking();
+
+            function startTrackingInterval() {
+                pingIntervalId = setInterval(function () {
+                    if (document.hidden) {
+                        stopTrackingInterval();
+                    } else if (clickCount > 0 || scrolled || addToCartClicked) {
+                        sendTrackingData('ping');
+                        clickCount = 0;
+                        scrolled = false;
+                        addToCartClicked = false;
+                    }
+                }, pingInterval);
+            }
+
+            function stopTrackingInterval() {
+                if(pingIntervalId != null) clearInterval(pingIntervalId);
+                pingIntervalId = null;
+            }
+
+            function sendTrackingData(action$) {
+                let data$ = {
+                    'action': action$,
+                    'referrer': document.referrer,
+                    'clickCount': clickCount,
+                    'scrolled': scrolled,
+                    'addToCartClicked': addToCartClicked,
+                    'br' : breadcrumbs(),
+                    'f': [
+                        navigator.plugins.length,
+                        navigator.mimeTypes.length,
+                        navigator.languages,
+                        window.innerHeight,
+                        window.outerHeight,
+                        window.outerWidth,
+                        window.innerWidth,
+                        screen.width,
+                        screen.height,
+                        window.devicePixelRatio
+                    ].join(';'),
+                                        'om': '',
+                    'sessionId': '',
+                    'customerId': '',
+                    'orderId': '',
+                    'url': '',
+                    'trackingId': '',
+                    'b2bFlag': '',
+                    'cartDb': '',
+                    'cookieConsent': '',
+                    'wk': '',
+                    'coup': '',
+                    'prod': '',
+                    'b': '',
+                    's': '',
+                    'bw': '',
+                    'bp': '',
+                    'context': '',
+                    'ip': '',
+                    'ja': '',
+                    'view_item_list': getDynamicProducts(['search']),
+                    'LaLo': '',
+                    'Geo': '',
+                    'tsp': ''
+                };
+
+                let webTracking$ = new Tracking.WebTracking();
+                webTracking$.sendTracking(data$);
+            }
+
+            function breadcrumbs() {
+                let test = document.getElementById('js_breadcrumb');
+                let breadcrumbs = [];
+                if (test !== null) {
+                    for (let i = 0; i < test.children.length; i++) {
+                        let child = test.children[i];
+                        breadcrumbs.push(child.querySelector('span[itemprop=name]').innerText);
+                    }
+                }
+                return breadcrumbs;
+            }
+
+            function getDynamicProducts(types$) {
+                let return$ = { };
+                types$.forEach((type$) => {
+                    let elements = document.getElementsByClassName('js_web_tracking_' + type$);
+                    let pIds = [];
+
+                    if (elements !== null) {
+                        for (let i = 0; i < elements.length; i++) {
+                            pIds.push(Number(elements[i].getAttribute('data-tracking-pid')));
+                        }
+                    }
+
+                    if (pIds.length > 0) {
+                        let obj = { [type$]: pIds };
+                        return$ = { ...return$, ...obj }
+                    }
+                });
+
+                return return$;
+            }
+        });
+    </script>
+    
+
+            </body>
+    </html>
